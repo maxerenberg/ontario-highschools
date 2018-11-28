@@ -1,0 +1,924 @@
+Board Name,School Number,School Name,School Language,Street,City,Postal Code,Enrolment,Latitude,Longitude,Percentage of Students Whose First Language Is Not English,Percentage of Students Who Are New to Canada from a Non-English Speaking Country,Percentage of Students Receiving Special Education Services,Percentage of Students Identified as Gifted,Percentage of Grade 9 Students Achieving the Provincial Standard in Academic Mathematics,Change in Grade 9 Academic Mathematics Acheivement Over Three Years,Percentage of Grade 9 Students Achieving the Provincial Standard in Applied Mathematics,Percentage of Students That Passed the Grade 10 OSSLT on Their First Attempt,Change in Grade 10 OSSLT Literacy Achievement Over Three Years,Percentage of Children Who Live in Low-Income Households,Percentage of Students Whose Parents Have Some University Education
+Algoma DSB,902344,Algoma Education Connection Secondary School,English,550 NORTHERN AVENUE,Sault Ste. Marie,P6B4J4,236,46.53477,-84.30772,NA,NA,18.6,NA,N/D,NA,N/R,N/R,NA,33.88,SP
+Algoma DSB,891347,Central Algoma Secondary School,English,1 Kensington,Desbarats,P0R1E0,322,46.34007,-83.9369,SP,SP,31.1,SP,0.89,13,0.45,0.66,1,15.61,SP
+Algoma DSB,900869,Chapleau High School,English,20 Teak,Chapleau,P0M1K0,74,47.84273,-83.4083,SP,SP,35.1,NA,N/R,NA,N/R,0.6,-28,17.27,SP
+Algoma DSB,908010,Elliot Lake Secondary School,English,303 Mississauga,Elliot Lake,P5A1E8,325,46.37627,-82.66108,SP,SP,26.2,SP,0.8,-1,0.29,0.75,-5,26.54,3.36
+Algoma DSB,917370,Hornepayne High School,English,162 Forth,Hornepayne,P0M1Z0,59,49.21525,-84.77894,SP,NA,20.3,NA,N/R,NA,N/R,0.58,-4,SP,SP
+Algoma DSB,920533,Korah Collegiate and Vocational School,English,636 Goulais,Sault Ste Marie,P6C5A7,778,46.54269,-84.38155,2.3,SP,19.5,SP,0.83,2,0.63,0.74,-7,18.77,6.2
+Algoma DSB,926086,Michipicoten High School,English,86 Magpie,Wawa,P0S1K0,104,47.99317,-84.77582,SP,NA,23.1,NA,0.94,NA,N/R,0.56,-10,19.12,SP
+Algoma DSB,948426,Missarenda Secondary School,English,NA,Missanabie,P0M2H0,NA,48.31165,-84.081983,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Algoma DSB,891150,North Shore Adolescent Education School,English,303 Mississauga,Elliot Lake,P5A1E8,22,46.37987,-82.65645,NA,NA,NA,NA,NA,NA,NA,N/D,NA,SP,SP
+Algoma DSB,958050,Superior Heights Collegiate and Vocational School,English,750 north,Sault Ste. Marie,P6B2C5,839,46.50845,-84.28823,SP,SP,18,SP,0.76,-11,0.26,0.68,2,23.43,5.17
+Algoma DSB,895270,W C Eaket Secondary School,English,147 Woodward,Blind River,P0R1B0,179,46.18877,-82.94673,SP,SP,37.4,NA,0.79,-7,0.47,0.62,4,26.34,6.15
+Algoma DSB,953148,White Pines Collegiate and Vocational School,English,1007 Trunk,Sault Ste Marie,P6A5K9,504,46.52684,-84.25603,SP,SP,32.7,NA,0.75,-1,0.42,0.52,-18,24.96,3.88
+Algonquin and Lakeshore CDSB,715298,Holy Cross Catholic Secondary School,English,1085 Woodbine,Kingston,K7P2V9,1088,44.25899,-76.59873,4.7,1.2,26.3,NA,0.79,-3,0.4,0.81,-9,13.33,15.59
+Algonquin and Lakeshore CDSB,728420,Loyola Community Learning Centre,English,1440 Princess,Kingston,K7M3E5,323,44.2508,-76.5329,6.5,SP,3.7,NA,NA,NA,NA,NA,NA,26.58,4.6
+Algonquin and Lakeshore CDSB,835099,Nicholson Catholic College,English,301 Church,Belleville,K8N3C7,483,44.16855,-77.38251,7.7,SP,22.8,NA,0.72,-10,0.38,0.91,-2,19.48,7.78
+Algonquin and Lakeshore CDSB,752932,Regiopolis/Notre-Dame Catholic High School,English,130 Russell,Kingston,K7K2E9,1049,44.24334,-76.49391,5.4,1.2,25.5,NA,0.87,-6,0.6,0.88,-3,19.11,7.92
+Algonquin and Lakeshore CDSB,841358,St Paul Catholic Secondary School,English,15 Tripp,Trenton,K8V6M2,355,44.09403,-77.59805,SP,SP,31.5,NA,0.88,15,0.54,0.79,-6,17.62,3.92
+Algonquin and Lakeshore CDSB,851752,St Theresa Catholic Secondary School,English,135 Adam,Belleville,K8N5S1,739,44.19052,-77.38185,1.6,SP,23,NA,0.78,11,0.33,0.76,-9,17.06,4.43
+Avon Maitland DSB,893048,Avon Maitland District E-learning Centre,English,165 Princess,Clinton,N0M1L0,221,43.618600218,-81.532563948,7.2,SP,NA,NA,N/D,NA,N/D,N/D,NA,16.63,14.13
+Avon Maitland DSB,899569,Central Huron Secondary School,English,165 Princess,Clinton,N0M1L0,530,43.61681,-81.5337,3,SP,24.2,2.5,0.73,-11,0.35,0.74,-7,13.91,2.48
+Avon Maitland DSB,953776,F E Madill Secondary School,English,231 Madill,Wingham,N0G2W0,696,43.88247,-81.30644,2.7,NA,27.3,1.6,0.59,-18,0.48,0.67,-4,14.1,3.81
+Avon Maitland DSB,913600,Goderich District Collegiate Institute,English,260 South,Goderich,N7A3M5,480,43.73412,-81.7112,2.7,SP,27.7,3.1,0.67,-11,0.26,0.77,-4,15.49,7.2
+Avon Maitland DSB,923095,Listowel District Secondary School,English,155 Maitland,Listowel,N4W2M4,863,43.72751,-80.94669,11.6,SP,19.2,2.4,0.88,6,0.63,0.74,-11,10.73,SP
+Avon Maitland DSB,927120,Mitchell District High School,English,95 Frances,Mitchell,N0K1N0,314,43.47518,-81.18946,5.1,NA,19.1,SP,0.88,0,0.26,0.85,19,10.99,3.86
+Avon Maitland DSB,943118,South Huron District High School,English,92 Gidley,Exeter,N0M1S6,465,43.34951,-81.47742,3.2,SP,26.7,3.2,0.85,-8,0.54,0.85,-1,14.19,SP
+Avon Maitland DSB,944807,St Marys District Collegiate and Vocational Institute,English,338 Elizabeth,St Marys,N4X1B6,434,43.257,-81.13389,3.5,SP,15.7,SP,0.79,-9,0.5,0.71,-4,12.32,4.77
+Avon Maitland DSB,945587,Stratford Central Secondary School,English,60 St Andrew,Stratford,N5A1A3,789,43.37092,-80.98646,6,SP,18.3,7.6,0.94,5,0.6,0.89,3,15.17,3.96
+Avon Maitland DSB,945714,Stratford Northwestern Secondary School,English,428 Forman,Stratford,N5A6R7,899,43.38432,-80.99312,3.7,SP,26.6,1.9,0.9,8,0.62,0.66,-5,14.2,3.47
+Bluewater DSB,896969,Bruce Peninsula District School,English,5 Moore,Lion s Head,N0H1W0,62,44.98478,-81.25194,NA,NA,45.2,SP,0.8,NA,N/R,0.67,-7,25.99,SP
+Bluewater DSB,925438,Georgian Bay Community School Secondary School,English,125 Eliza,Meaford,N4L1A4,390,44.60148,-80.58447,SP,SP,30.5,4.4,0.8,-8,0.67,0.87,15,17.06,SP
+Bluewater DSB,914444,Grey Highlands Secondary School,English,NA,Flesherton,N0C1E0,694,44.25865,-80.54524,SP,SP,28,2,0.56,0,0.38,0.78,11,17.34,2.21
+Bluewater DSB,915556,John Diefenbaker Senior School,English,181 th,Hanover,N4N1G7,653,44.14781,-81.03094,SP,SP,31.5,2.6,0.87,4,0.48,0.82,3,16.95,SP
+Bluewater DSB,919454,Kincardine District Secondary School,English,885 River,Kincardine,N2Z2B9,467,44.17732,-81.62775,SP,SP,26.6,2.8,0.73,-11,0.21,0.72,-14,10.12,4.01
+Bluewater DSB,951692,Owen Sound District Secondary School Secondary School,English,750 th,Owen Sound,N4K3P6,909,44.56513,-80.95752,1.8,SP,30.3,2.8,0.94,10,0.54,0.74,-12,19.18,5.09
+Bluewater DSB,953253,Peninsula Shores District School,English,115 George,Wiarton,N0H2T0,220,44.74067,-81.1492,SP,SP,30.9,SP,1,18,0.43,0.69,-1,22.62,SP
+Bluewater DSB,940127,Saugeen District Secondary School,English,780 Gustavus,Port Elgin,N0H2C4,573,44.4329,-81.38337,5.9,SP,27.9,2.1,0.85,4,0.83,0.87,13,18.82,10.35
+Bluewater DSB,950262,Walkerton District Community School,English,1320 Yonge,Walkerton,N0G2V0,365,44.11732,-81.14765,SP,SP,37.5,SP,0.6,-9,0.3,0.8,11,14.19,SP
+Brant Haldimand Norfolk CDSB,688088,Assumption College School School,English,257 Shellard,Brantford,N3T5L5,1379,43.12153,-80.29744,1.2,0.8,19.6,2,0.85,1,0.48,0.79,-5,17.18,6.84
+Brant Haldimand Norfolk CDSB,720232,Holy Trinity Catholic High School,English,128 Evergreen Hill,Simcoe,N3Y4N5,922,42.82441,-80.31147,1.6,SP,15.2,SP,0.86,-3,0.5,0.88,1,15.81,2.07
+Brant Haldimand Norfolk CDSB,751898,St John's College,English,80 Paris,Brantford,N3R1H9,1091,43.16038,-80.28852,2.3,1.8,17,1.9,0.73,-12,0.56,0.83,-3,15.03,8.9
+Brant Haldimand Norfolk CDSB,706139,St. Mary Catholic Learning Centre,English,455 Colborne Street,Brantford,N3S3N8,NA,43.138887746,-80.25100635,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bruce-Grey CDSB,759430,Sacred Heart High School,English,450 Robinson,Walkerton,N0G2V0,633,44.12717,-81.14361,SP,SP,28.4,SP,0.77,-1,0.47,0.83,-1,13.82,1.68
+Bruce-Grey CDSB,776599,St Mary's High School,English,555 th,Owen Sound,N4K1X2,789,44.57386,-80.93409,1.4,SP,26.5,1.4,0.81,7,0.32,0.68,-10,19.11,3.32
+CDSB of Eastern Ontario,745698,Hanley Hall Catholic High School,English,30 McGill,Smiths Falls,K7A2J4,NA,44.90144402,-76.0173462,NA,NA,NA,NA,NA,NA,NA,N/R,NA,NA,NA
+CDSB of Eastern Ontario,715190,Holy Trinity Catholic Secondary School,English,18044 Tyotown,Cornwall,K6H5R5,523,45.0476,-74.6726,8,SP,29.6,SP,0.92,1,0.46,0.71,-11,20.81,2.31
+CDSB of Eastern Ontario,736457,Notre Dame Catholic High School,English,157 McKenzie,Carleton Place,K7C4P2,528,45.14297,-76.15832,SP,SP,33.1,SP,0.77,-8,0.33,0.84,1,13.01,12.56
+CDSB of Eastern Ontario,751502,St Francis Xavier Catholic High School,English,1235 Russell,Hammond,K0A2A0,305,45.421,-75.2134,8.9,SP,36.7,NA,0.82,11,0.58,0.91,13,12.55,8.38
+CDSB of Eastern Ontario,804800,St John Catholic High School,English,2066 Scotch Line,Perth Road,K7H3C5,524,44.8861,-76.2523,SP,SP,33.6,NA,0.83,4,0.52,0.88,-2,17.49,7.78
+CDSB of Eastern Ontario,806277,St Joseph's Secondary School,English,1500 Cumberland,Cornwall,K6J5V9,757,45.03634,-74.75056,6.2,SP,33.3,SP,0.83,-5,0.42,0.77,-8,19.64,2.99
+CDSB of Eastern Ontario,824593,St Mary's High School,English,40 Central,Brockville,K6V4N5,520,44.59973,-75.6959,SP,SP,30.6,SP,0.8,-5,0.44,0.91,-1,18.06,SP
+CDSB of Eastern Ontario,726176,St Matthew Catholic Secondary School,English,822 Marlborough,Cornwall,K6H4B4,111,45.03089,-74.72428,NA,NA,100,NA,N/R,NA,N/R,0.19,6,28.82,SP
+CDSB of Eastern Ontario,832480,St Michael High School,English,2755 Highway,Kemptville,K0G1J0,479,45.0231,-75.6508,2.9,SP,26.9,SP,0.93,2,0.69,1,3,11.43,7.39
+CDSB of Eastern Ontario,803065,St. Luke Catholic High School,English,4 Ross,Smiths Falls,K7A4L5,124,44.88672,-76.0209,SP,NA,100,NA,N/D,NA,0.18,0.31,9,18.65,SP
+CDSB of Eastern Ontario,733067,St. Thomas Aquinas Catholic High School,English,1211 South Russell,Russell,K4R1E5,385,45.2514,-75.3531,SP,SP,30.9,SP,0.96,3,0.8,0.85,-5,8.64,15.18
+CÉP de l'Est de l'Ontario,900516,Centre d'éducation et de formation de,French,750 Principale,Casselman,K0A1M0,151,45.31442,-75.08786,83.4,SP,SP,NA,NA,NA,NA,NA,NA,22.03,SP
+CÉP de l'Est de l'Ontario,922609,École secondaire des adultes Le Carrefour,French,2445 St Laurent,Ottawa,K1G6C3,495,45.38126,-75.62641,99.2,32.9,5.7,SP,NA,NA,NA,A/D,NA,37.85,9.65
+CÉP de l'Est de l'Ontario,898582,École secondaire L'Académie de la Seigneurie,French,731 des Pommiers,Casselman,K0A1M0,72,45.30454,-75.09027,88.9,NA,29.2,NA,S. R.,NA,S. R.,1,0,SP,SP
+CÉP de l'Est de l'Ontario,907430,École secondaire publique De La Salle,French,501 ancienne St Patrick,Ottawa,K1N8R3,716,45.43495,-75.68489,79.3,8.2,18.7,SP,0.98,1,0.7,0.98,-1,28.33,13.06
+CÉP de l'Est de l'Ontario,912662,École secondaire publique Gisèle-Lalonde,French,500 Millennium,Orléans,K4A4X3,637,45.46873,-75.44532,88.1,2.4,12.2,SP,0.93,2,0.82,0.96,6,14.56,24.86
+CÉP de l'Est de l'Ontario,920550,École secondaire publique L'Alternative,French,2445 St Laurent,Ottawa,K1G6C3,103,45.38116,-75.62634,89.3,SP,27.2,NA,NA,NA,NA,S. R.,NA,33.44,SP
+CÉP de l'Est de l'Ontario,949540,École secondaire publique Le Sommet,French,894 Cécile,Hawkesbury,K6A3R5,256,45.60333,-74.59871,89.8,SP,21.9,NA,0.98,-2,0.53,1,0,19.91,SP
+CÉP de l'Est de l'Ontario,907480,École secondaire publique L'Équinoxe,French,399 Isabella,PEMBROKE,K8A5T4,41,45.82461,-77.12168,58.5,SP,29.3,NA,S. R.,NA,S. R.,0.8,-2,SP,SP
+CÉP de l'Est de l'Ontario,907464,École secondaire publique L'Héritage,French,1111 Montréal,Cornwall,K6H1E1,113,45.01868,-74.70019,57.5,NA,29.2,NA,1,21,0.55,0.86,-10,20.81,SP
+CÉP de l'Est de l'Ontario,904945,École secondaire publique Louis-Riel,French,1655 Bearbrook,Gloucester,K1B4N3,481,45.4411,-75.5716,81.7,4.2,12.7,NA,0.93,8,0.61,0.94,6,25.46,15.17
+CÉP de l'Est de l'Ontario,901539,École secondaire publique Marc-Garneau,French,30 Fullerton,Trenton,K8V1E4,57,44.1137,-77.55458,57.9,NA,22.8,NA,0.92,25,S. R.,1,8,SP,SP
+CÉP de l'Est de l'Ontario,930144,École secondaire publique Maurice-Lapointe,French,17 BRIDGESTONE,KANATA,K2M0E9,105,45.27875,-75.85871,82.9,SP,14.3,NA,0.91,-6,S. R.,1,18,12.16,32.79
+CÉP de l'Est de l'Ontario,907472,École secondaire publique Mille-Iles,French,72 Gilmour,Kingston,K7M9G6,39,44.24236,-76.52589,66.7,NA,SP,NA,0.64,NA,S. R.,1,20,SP,SP
+CÉP de l'Est de l'Ontario,907421,École secondaire publique Omer-Deslauriers,French,159 Chesterton,Ottawa,K2E7E6,355,45.35007,-75.71658,91.5,7.9,11.5,NA,0.85,-7,0.23,0.86,-1,36.34,17.07
+Conseil scolaire catholique Providence,860919,Centre de formation pour adultes,French,633 Ouellette,Windsor,N9A4J4,19,42.31370502,-83.03654789,94.7,SP,NA,NA,NA,NA,NA,S. R.,NA,58.32,SP
+Conseil scolaire catholique Providence,704717,École secondaire catholique E.J.Lajeunesse,French,600 E C Row ouest,Windsor,N9E1A5,416,42.29009,-82.94433,40.4,5.5,25.5,SP,0.82,3,0.32,0.95,11,24.24,5.92
+Conseil scolaire catholique Providence,707015,École secondaire catholique École secondaire de Pain Court,French,14 Notre Dame,Pain Court,N0P1Z0,242,42.39176,-82.29407,26,NA,35.1,NA,0.71,-18,0.42,0.83,-10,17.47,SP
+Conseil scolaire catholique Providence,708500,École secondaire catholique École secondaire Monseigneur-Bruyère,French,920 Huron,London,N5Y4K4,204,43.01551,-81.23259,59.8,SP,31.4,NA,0.93,24,S. R.,0.92,7,23.51,11.5
+Conseil scolaire catholique Providence,705438,École secondaire catholique École secondaire Notre-Dame,French,700 Bristol,Woodstock,N4T0E4,59,43.1493,-80.7151,28.8,NA,28.8,NA,0.39,NA,S. R.,0.75,-13,SP,SP
+Conseil scolaire catholique Providence,705101,École secondaire catholique École secondaire Saint-Dominique-Savio,French,800 e est,Owen Sound,N4K6Z5,25,44.56422,-80.92513,40,NA,SP,NA,S. R.,NA,S. R.,S. R.,NA,SP,SP
+Conseil scolaire catholique Providence,791601,École secondaire catholique École secondaire Saint-François-Xavier,French,901 Les Rapides,Sarnia,N7S6K2,101,42.99336,-82.35367,55.4,NA,29.7,SP,0.92,33,S. R.,0.82,-9,16.97,SP
+Conseil scolaire catholique Providence,728772,École secondaire catholique l'Essor,French,13605 St Gregory,Tecumseh,N8N3E4,629,42.31441,-82.86303,29.7,SP,22.1,SP,0.79,0,0.32,0.9,0,14.43,9.45
+CS catholique MonAvenir,683922,ÉSAC Mère-Teresa,French,50 Lisgar,Hamilton,L8T4Y4,182,43.2136,-79.82803,72.5,SP,26.4,SP,0.77,-23,0.42,0.89,2,21.15,7.31
+CS catholique MonAvenir,782017,ÉSC Jean-Vanier,French,620 River,Welland,L3B5N6,488,43.0106,-79.23346,83.8,SP,25,NA,0.83,4,0.31,0.93,2,18.84,4.97
+CS catholique MonAvenir,733458,ÉSC Monseigneur-de-Charbonnel,French,110 Drewry,Toronto,M2M1C8,257,43.78625,-79.42342,91.4,12.1,22.2,SP,0.96,-1,0.24,0.88,7,30.91,13.33
+CS catholique MonAvenir,780213,ÉSC Monseigneur-Jamot,French,2350 Woodglade,Peterborough,K9K2J6,NA,44.29227,-78.36607,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CS catholique MonAvenir,740390,ÉSC Nouvelle-Alliance,French,249 Anne nord,Barrie,L4N0B5,270,44.3958,-79.7159,57,NA,25.2,SP,0.8,4,0.58,0.9,0,18.03,8.07
+CS catholique MonAvenir,854087,ÉSC Pape-François,French,276 Sunset,Stouffville,L4A3R1,NA,43.96779553,-79.25450513,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CS catholique MonAvenir,846041,ÉSC Père-Philippe-Lamarche,French,2850 Eglinton E,Toronto,M1J2C8,NA,43.73929179,-79.24084121,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CS catholique MonAvenir,751073,ÉSC Père-René-de-Galinée,French,450 Maple Grove,Cambridge,N3H4R7,316,43.4243,-80.3817,60.1,SP,18,NA,0.84,5,S. R.,0.97,-1,16.07,11.52
+CS catholique MonAvenir,705357,ÉSC Renaissance,French,700 Bloomington ouest,Aurora,L4G0E1,416,43.9583,-79.4838,66.8,SP,22.6,3.6,0.97,-1,0.45,0.94,2,14.99,27.46
+CS catholique MonAvenir,706477,ÉSC Saint-Charles-Garnier,French,4101 Baldwin sud,Whitby,L1R2W6,346,43.9178,-78.9573,82.7,SP,16.8,SP,0.88,19,0.71,0.94,4,15.24,11.44
+CS catholique MonAvenir,790001,ÉSC Sainte-Famille,French,1780 Meadowvale,Mississauga,L5N7K8,513,43.61473,-79.74779,82.7,6.4,15,SP,0.83,-5,0.43,0.95,-1,18.68,21.14
+CS catholique MonAvenir,865368,ÉSC Sainte-Trinité,French,2600 Grand Oak Trail,Oakville,L6M0R4,153,43.43788,-79.77344,86.9,SP,20.3,SP,0.93,6,0.58,0.95,-1,16.96,32.91
+CS catholique MonAvenir,691950,ÉSC Saint-Frère-André,French,330 LANSDOWNE,TORONTO,M6H3Y1,105,43.65251,-79.44064,81.9,10.5,17.1,SP,0.93,10,S. R.,0.95,10,31.16,12.45
+CS public du Grand Nord de l'Ontario,955622,École Cap sur l'Avenir,French,128 Larch,Sudbury,P3E5J8,65,46.49173,-80.99216,78.5,NA,32.3,NA,S. R.,NA,S. R.,S. R.,NA,22.22,SP
+CS public du Grand Nord de l'Ontario,912573,École secondaire Château-Jeunesse,French,167 Centennial,Longlac,P0T2A0,23,49.77619,-86.52674,69.6,NA,SP,NA,S. R.,NA,0.1,S. R.,NA,SP,SP
+CS public du Grand Nord de l'Ontario,924792,École secondaire Cité-Supérieure,French,14 Hemlo,Marathon,P0T2E0,18,48.71794,-86.37198,SP,NA,SP,NA,S. R.,NA,S. R.,S. R.,NA,SP,SP
+CS public du Grand Nord de l'Ontario,911100,École secondaire de la Rivière-des-Français,French,11 Lahaie,Noëlville,P0M2N0,52,46.13144,-80.4334,98.1,NA,34.6,NA,S. R.,NA,S. R.,0.82,37,SP,SP
+CS public du Grand Nord de l'Ontario,907448,École secondaire Hanmer,French,4800 Notre Dame,Hanmer,P3P1X5,74,46.65914,-80.94349,91.9,NA,40.5,NA,0.58,49,S. R.,0.8,30,SP,SP
+CS public du Grand Nord de l'Ontario,890817,École secondaire l'Orée des Bois,French,159 Avenue du Parc,Dubreuilville,P0S1B0,33,48.348623,-84.547652,97,NA,33.3,NA,S. R.,NA,S. R.,S. R.,NA,SP,SP
+CS public du Grand Nord de l'Ontario,907570,École secondaire Macdonald-Cartier,French,37 Lasalle ouest,Sudbury,P3A1W1,312,46.5216,-80.98835,74.7,NA,33,NA,0.67,-5,0.29,0.85,6,19.22,4.94
+CS public du Grand Nord de l'Ontario,965570,École secondaire Villa Française des Jeunes,French,11 Edinburgh,Elliot Lake,P5A2M3,21,46.38058,-82.66036,66.7,NA,SP,NA,S. R.,NA,S. R.,S. R.,NA,SP,SP
+CS Viamonde,918997,Collège français secondaire,French,100 Carlton,Toronto,M5B1M3,181,43.66256,-79.37728,68.5,8.3,8.3,NA,0.87,42,S. R.,0.97,12,32.04,12.21
+CS Viamonde,907553,École secondaire Confédération,French,670 Tanguay,Welland,L3B4G2,64,42.98923,-79.22445,48.4,SP,18.8,NA,1,NA,S. R.,1,NA,25.81,SP
+CS Viamonde,961008,École secondaire de Lamothe-Cadillac,French,1775 TOTTEN,WINDSOR,N9B1X4,101,42.289211,-83.046854,81.2,13.9,SP,NA,0.91,20,S. R.,1,NA,38.86,SP
+CS Viamonde,907588,École secondaire Étienne-Brûlé,French,300 Banbury,North York,M2L2V3,315,43.75241,-79.3711,74.6,10.2,8.9,SP,0.71,-24,0.38,0.87,-3,30.16,13.52
+CS Viamonde,909858,École secondaire Franco-Jeunesse,French,901 promenade Rapids,Sarnia,N7S6K2,24,42.99473,-82.35106,SP,SP,SP,NA,S. R.,NA,S. R.,S. R.,NA,SP,SP
+CS Viamonde,910554,École secondaire Gabriel-Dumont,French,2463 boulevard Evans,London,N6M0B1,88,43.01557,-81.23243,50,SP,11.4,SP,0.66,-2,S. R.,1,0,17.05,11.5
+CS Viamonde,914723,École secondaire Gaétan Gervais,French,150 RIDGE,OAKVILLE,L6H1H9,63,43.4605693,-79.69349293,82.5,SP,SP,NA,0.94,18,S. R.,0.93,-7,25.45,21.42
+CS Viamonde,907308,École secondaire Georges-P-Vanier,French,100 Macklin N,Hamilton,L8S3S1,112,43.26601,-79.89447,60.7,SP,18.8,NA,0.84,-11,S. R.,0.79,-11,22.4,SP
+CS Viamonde,907642,École secondaire Jeunes sans frontières,French,7585 Financial,Brampton,L6Y5P4,310,43.62401,-79.75875,74.5,9.7,10.3,NA,0.86,-4,0.68,0.97,4,22.1,21.12
+CS Viamonde,934852,École secondaire Le Caron,French,22 John,Penetanguishene,L9M1N8,138,44.76085,-79.94003,41.3,SP,20.3,SP,0.67,-21,S. R.,0.89,18,18.15,SP
+CS Viamonde,896889,École secondaire Norval-Morrisseau,French,51 Wright,Richmond Hill,L4C4A1,65,43.87773,-79.4413,66.2,SP,SP,SP,0.77,-23,A/D,1,NA,18.99,33.28
+CS Viamonde,925326,École secondaire Roméo Dallaire,French,736 Essa,Barrie,L4N9E9,157,44.32609,-79.71578,64.3,SP,18.5,NA,0.83,14,S. R.,1,11,15.29,7.58
+CS Viamonde,901037,École secondaire Ronald-Marion,French,2235 Brock,Pickering,L1V2P8,90,43.86065,-79.07891,74.4,SP,SP,NA,0.91,36,0.45,0.92,16,21.9,14.22
+CS Viamonde,952803,École secondaire Toronto Ouest,French,330 Lansdowne,Toronto,M6H3Y1,133,43.65334418,-79.44095877,69.9,SP,12,NA,0.85,-15,S. R.,0.87,-5,22.58,11.34
+CSD du Nord-Est de l'Ontario,902306,École secondaire Cochrane,French,310 Algonquin,North Bay,P1B9T5,122,48.47535109,-81.33750281,84.4,NA,23,NA,S. R.,NA,S. R.,S. R.,NA,24.17,SP
+CSD du Nord-Est de l'Ontario,918296,École secondaire l'Alliance,French,44 Anson,Iroquois Falls,P0K1E0,52,48.7689,-80.682,86.5,NA,NA,NA,0.55,5,A/D,0.85,NA,19.42,SP
+CSD du Nord-Est de l'Ontario,946117,École secondaire Northern,French,175 Ethel,Sturgeon Falls,P2B2Z8,94,46.37393,-79.92028,80.9,NA,53.2,NA,S. R.,NA,S. R.,0.64,-5,21.46,SP
+CSD du Nord-Est de l'Ontario,966753,École secondaire Passeport Jeunesse,French,75 e,Hearst,P0L1N0,NA,49.6839,-83.6658,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CSD du Nord-Est de l'Ontario,919055,École secondaire publique Echo du Nord,French,2 Montgomery,Kapuskasing,P5N0A4,51,49.42065,-82.43453,92.2,NA,33.3,NA,S. R.,NA,S. R.,0.85,21,SP,SP
+CSD du Nord-Est de l'Ontario,909335,École secondaire publique Odyssée,French,480 Norman,North Bay,P1B0A8,92,46.32885,-79.43518,56.5,NA,27.2,NA,S. R.,NA,S. R.,0.74,-15,21.63,SP
+CSD du Nord-Est de l'Ontario,922870,École secondaire Renaissance,French,301 Shirley N,Timmins,P4R1N5,76,48.4776,-81.3788,80.3,NA,38.2,NA,0.62,-5,0.27,0.82,12,20.57,SP
+CSDC de l'Est ontarien,705446,Centre d'éduc./form. de l'Est ontarien,French,750 Principale,Casselman,K0A1M0,133,45.31456,-75.08801,97.7,NA,19.5,NA,NA,NA,NA,NA,NA,21.46,SP
+CSDC de l'Est ontarien,695050,École secondaire catholique de Casselman,French,778 Brébeuf,Casselman,K0A1M0,551,45.31603,-75.08787,98.4,NA,29.2,2.9,0.82,-8,0.34,0.9,2,11.99,7.27
+CSDC de l'Est ontarien,752720,École secondaire catholique de Plantagenet,French,6150 de comté,Plantagenet,K0B1L0,257,45.54564,-74.99703,97.7,NA,23.7,SP,0.79,-14,0.5,1,0,15.95,SP
+CSDC de l'Est ontarien,704920,École secondaire catholique Embrun,French,1276 St Jacques,Embrun,K0A1W0,438,45.2718,-75.27467,96.8,NA,19.2,SP,0.9,28,0.48,0.97,8,8.37,14.96
+CSDC de l'Est ontarien,725684,École secondaire catholique La Citadelle,French,510 McConnell,Cornwall,K6H4M1,418,45.02339,-74.71319,85.2,NA,29.2,SP,0.9,1,0.34,0.93,12,19.49,3.55
+CSDC de l'Est ontarien,752908,École secondaire catholique Le Relais,French,100 McNabb,Alexandria,K0C1A0,187,45.3161,-74.6348,96.3,NA,31,SP,0.84,11,0.08,0.92,18,17.07,SP
+CSDC de l'Est ontarien,728330,École secondaire catholique L'Escale,French,1535 du Parc,Rockland,K4K1K6,563,45.54985,-75.2865,98.8,SP,22.2,SP,0.93,17,0.47,0.95,8,12.07,10.79
+CSDC de l'Est ontarien,713740,École secondaire catholique régionale de Hawkesbury,French,572 Kitchener,Hawkesbury,K6A2P3,383,45.60621,-74.62522,98.4,NA,29,SP,0.62,-12,0.17,0.91,-3,21.58,4.77
+CSDC des Aurores boréales,701718,École secondaire catholique de La Vérendrye,French,175 High Nord,Thunder Bay,P7A8C7,126,48.44435,-89.22939,52.4,SP,17.5,NA,0.78,16,S. R.,0.93,7,16.68,SP
+CSDC des Grandes Rivières,865638,CEA Kapuskasing,French,73 Queen,Kapuskasing,P5N1H5,41,49.41984,-82.42795,90.2,NA,NA,NA,NA,NA,NA,A/D,NA,SP,SP
+CSDC des Grandes Rivières,696153,CEA New Liskeard,French,21 Armstrong,New Liskeard,P0J1P0,15,47.50731,-79.67187,86.7,NA,SP,NA,NA,NA,NA,A/D,NA,SP,SP
+CSDC des Grandes Rivières,724157,École catholique Nouveau Regard-Pavillon Jeunesse Nord,French,399 e,Cochrane,P0L1C0,106,49.071,-81.01343,80.2,NA,17.9,NA,0.95,7,S. R.,0.75,9,16.59,SP
+CSDC des Grandes Rivières,698725,École secondaire catholique Cité des Jeunes,French,10 Cité des Jeunes,Kapuskasing,P5N2K2,245,49.41665,-82.40727,93.5,NA,18,NA,0.97,7,0.54,0.92,7,16.88,SP
+CSDC des Grandes Rivières,835005,École secondaire catholique Georges-Vanier,French,120 Ross,Smooth Rock Falls,P0L2B0,30,49.27929,-81.62227,96.7,NA,SP,NA,S. R.,NA,S. R.,S. R.,NA,SP,SP
+CSDC des Grandes Rivières,711110,École secondaire catholique Hearst,French,30 e,Hearst,P0L1N0,284,49.68405744,-83.66615993,94.4,NA,22.5,NA,0.91,3,0.78,0.93,10,14.23,SP
+CSDC des Grandes Rivières,705020,École secondaire catholique Jean-Vanier,French,54 Duncan Sud,Kirkland Lake,P2N1Y1,79,48.1488,-80.03071,70.9,NA,25.3,NA,0.88,-5,S. R.,0.81,-4,25.64,SP
+CSDC des Grandes Rivières,686085,École secondaire catholique L'Alliance,French,44 Anson,Iroquois Falls,P0K1E0,46,48.76882,-80.68326,80.4,NA,41.3,NA,S. R.,NA,S. R.,0.75,NA,SP,SP
+CSDC des Grandes Rivières,822507,École secondaire catholique Sainte-Marie,French,340 Hessle,Temiskaming Shores,P0J1P0,321,47.51641,-79.66029,83.8,NA,25.5,NA,0.96,2,0.58,0.87,9,15.77,SP
+CSDC des Grandes Rivières,864650,École secondaire catholique Theriault,French,341 Thériault,Timmins,P4N7K3,698,48.48255,-81.34889,79.5,NA,16.5,NA,0.8,-12,0.32,0.9,4,16.62,6.44
+CSDC des Grandes Rivières,705949,La Clef,French,896 Riverside,Timmins,P4N3W2,50,48.476931,-81.361939,94,NA,SP,NA,NA,NA,NA,S. R.,NA,21.26,SP
+CSDC du Centre-Est de l'Ontario,855949,École secondaire catholique Académie catholique Ange-Gabriel,French,1515 Kensington,Brockville,K6V6H9,53,44.61169,-75.71819,56.6,NA,22.6,NA,1,NA,A/D,1,14,SP,SP
+CSDC du Centre-Est de l'Ontario,705314,École secondaire catholique Béatrice-Desloges,French,1999 Provence,Orléans,K4A3Y6,949,45.4687,-75.4595,85.7,SP,19.1,SP,0.9,0,0.61,0.97,2,11.03,23.59
+CSDC du Centre-Est de l'Ontario,705373,École secondaire catholique Centre professionnel et technique Minto,French,801 de l'Aviation,Ottawa,K1K4R3,68,45.43699,-75.63393,85.3,NA,63.2,NA,S. R.,NA,S. R.,1,0,19.3,SP
+CSDC du Centre-Est de l'Ontario,694827,École secondaire catholique Collège catholique Franco-Ouest,French,411 Seyton,Nepean,K2H8X1,680,45.31553,-75.83273,76.2,5.6,16.6,NA,0.85,4,0.31,0.92,4,20.77,23.39
+CSDC du Centre-Est de l'Ontario,695955,École secondaire catholique Collège catholique Samuel-Genest,French,704 Carson's,Ottawa,K1K2H3,677,45.44095,-75.62918,91.9,8.1,25.6,NA,0.82,-8,0.29,0.91,-1,29.25,8.06
+CSDC du Centre-Est de l'Ontario,705233,École secondaire catholique Franco-Cité,French,"623, Smyth",Ottawa,K1G1N7,891,45.40036,-75.64163,79,5.3,12.8,SP,0.87,0,0.45,0.92,0,25.32,18.82
+CSDC du Centre-Est de l'Ontario,710903,École secondaire catholique Garneau,French,6588 Carrière,Orléans,K1C1J4,719,45.46508,-75.52483,86.4,SP,16.3,NA,0.92,-2,0.46,0.95,-1,12.69,27.64
+CSDC du Centre-Est de l'Ontario,696021,École secondaire catholique Jeanne-Lajoie,French,1257 Pembroke Ouest,Pembroke,K8A5R3,185,45.83537,-77.15044,54.1,SP,11.4,NA,0.91,-3,0.83,0.98,3,14.11,SP
+CSDC du Centre-Est de l'Ontario,750085,École secondaire catholique Marie-Rivier,French,711 Dalton,Kingston,K7M8N6,127,44.27005,-76.52319,74.8,SP,26,NA,1,4,S. R.,1,6,13.54,14.31
+CSDC du Centre-Est de l'Ontario,846435,École secondaire catholique Mer Bleue,French,6401 Renaud,Orléans,K1W0H8,NA,45.43591,-75.50284,NA,NA,NA,NA,0.88,NA,0.21,0.92,NA,NA,NA
+CSDC du Centre-Est de l'Ontario,758231,École secondaire catholique Paul-Desmarais,French,5315 Abbott,Ottawa,K2S0X3,43,45.27413,-75.89622,65.1,NA,SP,NA,0.89,NA,0.55,0.99,NA,SP,31.65
+CSDC du Centre-Est de l'Ontario,832670,École secondaire catholique Pierre-Savard,French,1110 Longfields,Nepean,K2J0H9,573,45.27313,-75.73751,73.1,2.4,8.6,NA,0.83,15,0.32,0.91,-2,13.73,22.69
+CSDC du Centre-Est de l'Ontario,804005,"École secondaire catholique Sainte-Marguerite-Bourgeoys, Kemptville",French,50 Campus,Kemptville,K0G1J0,NA,45.00714,-75.63873,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CSDC du Nouvel-Ontario,695483,Carrefour Options +,French,1311 Gemmell,Sudbury,P3A1G3,29,46.51209,-80.94779,82.8,NA,SP,NA,S. R.,NA,S. R.,A/D,NA,SP,SP
+CSDC du Nouvel-Ontario,698989,Collège Notre-Dame,French,100 Lévis,Sudbury,P3C2H1,570,46.4988,-80.993,87.7,SP,9.3,SP,0.71,3,0.14,0.89,-3,15.13,11.41
+CSDC du Nouvel-Ontario,696048,École secondaire Catholique Champlain,French,61 Brookside,Chelmsford,P0M1L0,180,46.57246,-81.19953,87.2,NA,21.1,NA,0.89,11,0.88,0.85,5,12.01,SP
+CSDC du Nouvel-Ontario,704989,École secondaire catholique Franco-Ouest,French,147 Spruce,Espanola,P5E1R7,32,46.26195,-81.7701,50,NA,SP,NA,0.2,NA,S. R.,S. R.,NA,SP,SP
+CSDC du Nouvel-Ontario,705004,École secondaire catholique Jeunesse-Nord,French,117 Colonization,Blind River,P0R1B0,74,46.1852,-82.96493,48.6,NA,18.9,NA,0.38,-48,S. R.,1,11,27.75,SP
+CSDC du Nouvel-Ontario,771473,École secondaire catholique l'Horizon,French,1650 Valleyview,Val Caron,P3N1S2,350,46.59541,-81.00888,88.6,NA,15.1,NA,0.8,16,0.35,0.84,15,11.24,4.28
+CSDC du Nouvel-Ontario,701700,École secondaire catholique Saint-Joseph,French,101 Churchill,Wawa,P0S1K0,42,47.99678,-84.78353,38.1,NA,SP,SP,S. R.,NA,S. R.,0.8,13,SP,SP
+CSDC du Nouvel-Ontario,704970,École secondaire catholique Trillium,French,9 Broomhead,Chapleau,P0M1K0,55,47.84111,-83.40996,54.5,NA,SP,NA,S. R.,NA,S. R.,0.73,13,SP,SP
+CSDC du Nouvel-Ontario,705110,École secondaire du Sacré-Coeur,French,261 Notre Dame,Sudbury,P3C5K4,256,46.4998,-80.98886,73,SP,32,NA,0.65,-8,0.5,0.89,12,19.24,5.02
+CSDC du Nouvel-Ontario,707511,École secondaire Notre-Dame-du-Sault,French,600 North,Sault Ste Marie,P6B2B9,48,46.52319,-84.3301,66.7,NA,SP,NA,0.54,-21,S. R.,S. R.,NA,SP,SP
+CSDC Franco-Nord,685011,École secondaire catholique Algonquin,French,555 Algonquin,North Bay,P1B4W8,516,46.31815,-79.46637,78.9,NA,28.3,NA,0.81,9,0.17,0.84,-1,18.26,5.37
+CSDC Franco-Nord,710504,École secondaire catholique Élisabeth-Bruyère,French,359 Brydges,Mattawa,P0H1V0,51,46.31860315,-78.71191701,62.7,NA,31.4,NA,S. R.,NA,S. R.,0.5,-17,24.42,SP
+CSDC Franco-Nord,710660,École secondaire catholique Franco-Cité,French,90 Main,Sturgeon Falls,P2B2Z7,343,46.37252,-79.92817,89.2,NA,25.7,NA,0.88,-3,0.36,0.88,-1,21.41,SP
+DSB Niagara,890200,A N Myer Secondary School,English,6338 Oneil,Niagara Falls,L2J1M7,1100,43.12239,-79.10228,8.9,SP,11.7,SP,0.86,3,0.69,0.88,2,17.69,6.45
+DSB Niagara,894109,Beamsville District Secondary School,English,4317 Central,Beamsville,L0R1B0,557,43.16755,-79.47356,3.2,SP,40.9,SP,0.74,13,0.46,0.68,-19,13.59,4.52
+DSB Niagara,947180,Centennial Secondary School,English,240 Thorold,Welland,L3C3W2,801,43.0048,-79.267,5.4,2.1,13.1,SP,0.87,7,0.68,0.89,0,19.6,1.42
+DSB Niagara,935455,DSBN Academy,English,130 Louth,St. Catharines,L2S2T4,175,43.1384,-79.2573,6.3,NA,26.3,NA,0.71,21,N/D,0.73,-9,26.19,SP
+DSB Niagara,906328,E L Crossley Secondary School,English,350,Fonthill,L0S1E0,806,43.0418,-79.3177,1.9,SP,17.2,SP,0.92,8,0.86,0.9,0,11.52,11.4
+DSB Niagara,906972,Eastdale Secondary School,English,170 Wellington,Welland,L3B1B3,396,42.9871,-79.22519,SP,SP,57.1,SP,0.5,12,0.44,0.8,10,28.05,SP
+DSB Niagara,907677,Eden High School,English,535 Lake,St Catharines,L2N4H7,790,43.19101,-79.25307,5.7,SP,20,SP,0.84,-1,0.59,0.93,-3,15.74,5.28
+DSB Niagara,910740,Fort Erie Secondary School,English,7 Tait,Fort Erie,L2A3P1,387,42.92459,-78.91547,SP,SP,37,SP,0.7,13,0.2,0.81,14,28.45,SP
+DSB Niagara,914010,Governor Simcoe Secondary School,English,15 Glenview,St Catharines,L2N2Z7,881,43.20257,-79.23395,4.8,SP,15.3,SP,0.74,-5,0.82,0.8,-11,16.06,1.42
+DSB Niagara,897646,Greater Fort Erie Secondary School,English,1640 Garrison,Fort Erie,L2A5M4,NA,42.90282955,-78.97788867,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DSB Niagara,914517,Grimsby Secondary School,English,5 Boulton,Grimsby,L3M1H6,754,43.19451,-79.57026,2,SP,19,2.3,0.86,1,0.39,0.9,6,11.59,12.73
+DSB Niagara,921750,Laura Secord Secondary School,English,349 Niagara,St Catharines,L2M4V9,683,43.1838,-79.2262,7.2,SP,15.8,SP,0.91,12,0.64,0.81,3,21.47,2.07
+DSB Niagara,922854,Lifetime Learning Centre Secondary School,English,535 Lake,St Catharines,L2N4H7,247,43.1922,-79.2529,14.6,SP,SP,NA,NA,NA,NA,NA,NA,26.17,SP
+DSB Niagara,935700,Port Colborne High School,English,211 Elgin,Port Colborne,L3K3K4,457,42.8887,-79.2585,SP,SP,32.6,SP,0.7,-6,0.54,0.74,6,21.4,SP
+DSB Niagara,938823,Ridgeway-Crystal Beach High School,English,576 Ridge,Ridgeway,L0S1N0,410,42.89053,-79.05147,SP,SP,16.3,SP,0.72,4,0.37,0.89,12,19.62,SP
+DSB Niagara,942464,Sir Winston Churchill Secondary School,English,101 Glen Morris,St Catharines,L2T2N1,903,43.1412,-79.2309,14.6,1.9,14.6,1.6,0.73,-14,0.2,0.9,-4,20.87,7.86
+DSB Niagara,943240,South Lincoln High School,English,260 Canborough,Smithville,L0R2A0,269,43.0951,-79.5493,SP,SP,30.1,SP,0.96,8,0.62,0.77,-7,11.62,SP
+DSB Niagara,944157,St Catharines Collegiate Institute and Vocational School,English,34 Catherine,St Catharines,L2R5E7,678,43.1668,-79.2452,14.3,5.2,53.4,NA,0.91,15,0.36,0.85,30,30.63,1.74
+DSB Niagara,945064,Stamford Collegiate,English,5775 Drummond,Niagara Falls,L2G4L2,737,43.0907,-79.0983,2.8,SP,47.1,SP,0.8,24,0.47,0.98,35,29.82,2.88
+DSB Niagara,948055,Thorold Secondary School,English,50 Ormond,Thorold,L2V1Z1,584,43.12904,-79.19879,3.3,SP,26.7,SP,0.7,2,0.36,0.83,3,20.67,1.97
+DSB Niagara,952214,Westlane Secondary School,English,5960 Pitton,Niagara Falls,L2H1T5,639,43.0875,-79.1316,24.1,5.6,16.7,SP,0.73,-13,0.53,0.95,20,21.77,9.67
+DSB Ontario North East,902292,Cochrane High School,English,453 Chalmers,Cochrane,P0L1C0,166,49.07518,-81.01896,SP,SP,29.5,NA,0.27,NA,0,0.54,-8,16.53,SP
+DSB Ontario North East,908924,Englehart High School,English,61 Fourth,Englehart,P0J1H0,176,47.82308,-79.87305,SP,NA,43.2,NA,0.62,-31,N/R,0.6,2,25.88,SP
+DSB Ontario North East,916293,Hearst High School,English,27 th,Hearst,P0L1N0,25,49.68741,-83.66768,SP,NA,SP,NA,N/R,NA,N/R,0.4,NA,SP,SP
+DSB Ontario North East,918288,Iroquois Falls Secondary School,English,44 Anson,Iroquois Falls,P0K1E0,183,48.76882,-80.68326,SP,NA,26.8,NA,0.73,13,0.15,0.64,-7,18.83,SP
+DSB Ontario North East,919063,Kapuskasing District High School,English,61 Devonshire,Kapuskasing,P5N1C5,178,49.42065,-82.43453,16.3,NA,33.1,NA,0.56,-3,N/R,0.81,6,19.26,6.36
+DSB Ontario North East,920363,Kirkland Lake District Composite Secondary School,English,60 Allen,Kirkland Lake,P2N3J5,416,48.184839,-80.02078,SP,SP,34.4,NA,0.77,-11,0.36,0.75,5,27.06,5.06
+DSB Ontario North East,933287,PACE Alternative & Continuing Education,English,206 Third,Timmins,P4N1E1,91,48.474818,-81.32938485,SP,NA,NA,NA,NA,NA,NA,N/R,NA,25.53,SP
+DSB Ontario North East,943509,Roland Michener Secondary School,English,155 Legion,South Porcupine,P0N1H0,263,48.4826,-81.2137,NA,NA,39.9,NA,0.69,19,0.56,0.71,6,16.26,5.17
+DSB Ontario North East,946940,Timiskaming District Secondary School,English,90 Niven,New Liskeard,P0J1P0,639,47.51151,-79.67961,2.3,SP,34.4,NA,0.82,-2,0.46,0.75,-2,17.82,SP
+DSB Ontario North East,948578,Timmins High and Vocational School,English,451 Theriault,Timmins,P4N8B2,702,48.48595,-81.34992,1.9,SP,19.4,SP,0.53,-29,0.35,0.59,-11,20.18,4.99
+Dufferin-Peel CDSB,736228,Archbishop Romero Catholic Secondary School,English,2495 Credit Valley,Mississauga,L5M4G8,232,43.6867,-79.7605,15.1,5.2,39.2,SP,N/R,NA,N/R,N/R,NA,21.48,14.27
+Dufferin-Peel CDSB,687308,Ascension of Our Lord Secondary School,English,7640 Anaka,Mississauga,L4T3H7,841,43.72338,-79.65349,27.2,11.1,19.7,NA,0.93,7,0.34,0.7,-5,26.93,9.88
+Dufferin-Peel CDSB,749813,Cardinal Ambrozic Catholic Secondary School,English,10 Castle Oaks,Brampton,L6P3A2,1332,43.78772,-79.68312,22.7,2.4,13.3,SP,0.91,13,0.68,0.83,0,16.58,31.78
+Dufferin-Peel CDSB,850888,Cardinal Leger Secondary School,English,75 Mary,Brampton,L6W3K5,1118,43.68409,-79.7505,18.3,3.6,16.5,SP,0.88,1,0.5,0.75,-1,20.87,11.33
+Dufferin-Peel CDSB,706957,Father Michael Goetz Secondary School,English,330 Central,Mississauga,L5B3K6,1335,43.58188,-79.63583,41.9,16,10.9,NA,0.83,-5,0.38,0.78,-5,31.23,30.43
+Dufferin-Peel CDSB,718114,Holy Name of Mary Secondary School,English,115 Glenvale,Brampton,L6S3J7,760,43.7338,-79.71669,24.6,3.3,6.8,NA,0.89,-2,0.59,0.86,-6,19.17,17.5
+Dufferin-Peel CDSB,722790,Iona Secondary School,English,2170 South Sheridan,Mississauga,L5J2M4,961,43.52055,-79.64722,22.8,4.2,16.4,SP,0.82,-10,0.54,0.85,-1,19.41,18.61
+Dufferin-Peel CDSB,724564,John Cabot Catholic Secondary School,English,635 Willowbank,Mississauga,L4W3L6,888,43.61262,-79.62083,34.7,11.5,14.2,NA,0.92,0,0.53,0.79,-8,24.6,21.1
+Dufferin-Peel CDSB,798118,Loyola Catholic Secondary School,English,3566 South Common,Mississauga,L5L2B1,1055,43.52648,-79.71289,27.1,6.6,16.2,SP,0.88,0,0.37,0.8,-11,20.87,20.38
+Dufferin-Peel CDSB,690694,Notre Dame Catholic Secondary School,English,2 Notre Dame,Brampton,L6Z4L5,1468,43.71943,-79.77925,15,4,14.6,1.4,0.88,8,0.42,0.83,-3,18.57,13.46
+Dufferin-Peel CDSB,742333,Our Lady of Mount Carmel Secondary School,English,3700 Trelawny,Mississauga,L5N5J7,1638,43.57465,-79.77193,21.5,3.8,16.3,SP,0.92,2,0.55,0.89,-2,15.36,20.88
+Dufferin-Peel CDSB,751430,Philip Pocock Catholic Secondary School,English,4555 Tomken,Mississauga,L4W1J9,1080,43.62485,-79.62581,41,5.1,18.1,SP,0.89,0,0.41,0.87,-4,21.79,20.68
+Dufferin-Peel CDSB,753211,Robert F Hall Catholic Secondary School,English,6500 Old Church,Caledon East,L7C0H3,802,43.874007,-79.861987,4,SP,17.6,SP,0.84,9,0.57,0.84,-2,12.78,11.06
+Dufferin-Peel CDSB,767255,St Aloysius Gonzaga Secondary School,English,2800 Erin Centre,Mississauga,L5M6R5,1809,43.55635,-79.71733,24.7,1.8,21.7,1,0.92,-2,0.53,0.93,-2,20.33,30.98
+Dufferin-Peel CDSB,775606,St Augustine Secondary School,English,27 Drinkwater,Brampton,L6Y4T6,1078,43.65807,-79.7646,16.6,5.3,19.5,SP,0.84,2,0.49,0.73,-3,21.29,18.34
+Dufferin-Peel CDSB,788511,St Edmund Campion Secondary School,English,275 Brisdale,Brampton,L7A3C7,1851,43.69426,-79.83014,17.3,2.9,19.6,SP,0.92,2,0.56,0.78,-1,16.42,14.82
+Dufferin-Peel CDSB,792594,St Francis Xavier Secondary School,English,50 Bristol,Mississauga,L5R3K3,1928,43.61252,-79.66384,31,5.9,13.8,4.9,0.9,-1,0.43,0.85,-5,21.67,27.46
+Dufferin-Peel CDSB,806919,St Joseph Secondary School,English,5555 Creditview,Mississauga,L5V2B9,1346,43.58967,-79.69933,25.8,5.5,14,SP,0.9,-4,0.41,0.81,-5,21.66,26.52
+Dufferin-Peel CDSB,821381,St Marcellinus Secondary School,English,730 Courtneypark,Mississauga,L5W1L9,1838,43.62414,-79.71017,21.2,3.4,16,SP,0.96,0,0.75,0.92,3,17.05,25.35
+Dufferin-Peel CDSB,822655,St Marguerite d'Youville Secondary School,English,10815 Dixie,Brampton,L6R2W5,1557,43.75223,-79.77532,10.8,3.2,14.8,SP,0.8,-3,0.65,0.79,-1,16.97,18.78
+Dufferin-Peel CDSB,823953,St Martin Secondary School,English,2470 Rosemary,Mississauga,L5C1X2,1051,43.55662,-79.63562,35.3,8.8,15.6,SP,0.89,-8,0.48,0.81,-5,23.7,17.19
+Dufferin-Peel CDSB,841730,St Paul Secondary School,English,815 Atwater,Mississauga,L5E1L8,417,43.5773,-79.57089,27.1,3.4,23.5,NA,0.92,1,0.38,0.86,5,19.38,4.21
+Dufferin-Peel CDSB,854530,St Thomas Aquinas Secondary School,English,25 Corporation,Brampton,L6S6A2,2042,43.73869,-79.71037,12.6,3.6,14.6,SP,0.76,-6,0.57,0.71,-11,19.38,8.52
+Dufferin-Peel CDSB,696056,St. Joan of Arc Catholic Secondary School,English,3801 Thomas,Mississauga,L5M7G2,1120,43.55307,-79.74658,43.4,9.2,13.9,SP,0.82,-5,0.33,0.86,-5,23.45,50.64
+Dufferin-Peel CDSB,864570,St. Michael Catholic Secondary School,English,9130 Columbia,Bolton,L7E4G6,1254,43.89413,-79.75226,2.5,SP,16.2,SP,0.9,-4,0.43,0.8,-4,9.14,13.89
+Dufferin-Peel CDSB,784979,St. Roch Catholic Secondary School,English,200 Valleyway,Brampton,L6X0N3,1414,43.67192,-79.80706,18.8,2.3,14.9,SP,0.94,7,0.64,0.78,-3,17.58,27
+Durham CDSB,685984,All Saints Catholic Secondary School,English,3001 Country,Whitby,L1P1M1,932,43.8951,-78.9656,4.1,1.6,15,NA,0.82,1,0.38,0.8,-6,12.85,12.88
+Durham CDSB,703923,Archbishop Denis O'Connor Catholic High School,English,80 Mandrake,Ajax,L1S5H4,758,43.8581,-79.02,5,3.2,21,NA,0.81,18,0.46,0.75,3,16.71,11.08
+Durham CDSB,682867,Father Donald MacLellan Catholic Sec Sch Catholic School,English,1500 HOPKINS,WHITBY,L1N2C3,235,43.90997,-78.89519,SP,SP,31.5,NA,NA,NA,NA,N/R,NA,20.7,7.42
+Durham CDSB,710083,Father Leo J Austin Catholic Secondary School,English,1020 Dryden,Whitby,L1R2A2,988,43.9119,-78.9377,3.9,SP,16,NA,0.86,1,0.64,0.83,1,14.05,12.51
+Durham CDSB,735060,Monsignor John Pereyma Catholic Secondary School,English,316 Conant,Oshawa,L1H3S6,489,43.8803,-78.8434,5.3,2.2,29,NA,0.83,-6,0.39,0.72,13,23.72,SP
+Durham CDSB,741310,Monsignor Paul Dwyer Catholic High School,English,700 Stevenson,Oshawa,L1J5P5,854,43.91135,-78.89305,5.3,2,21.7,NA,0.66,4,0.15,0.81,-3,17.99,7.71
+Durham CDSB,738050,Notre Dame Catholic Secondary School,English,1375 Harwood,Ajax,L1T4G8,1145,43.8846,-79.028,5.7,2.6,15.3,NA,0.81,4,0.38,0.8,-3,16.08,18.04
+Durham CDSB,826278,St Mary Catholic Secondary School,English,1918 Whites,Pickering,L1V1R9,1505,43.835,-79.1232,3.8,1.7,14.2,NA,0.77,3,0.37,0.82,-5,14.64,15.08
+Durham DSB,890855,Ajax High School,English,105 Bayly,Ajax,L1S1P2,1180,43.84436,-79.01384,7,1.7,22.2,1.5,0.7,NA,0.35,0.75,-9,16.13,9.31
+Durham DSB,892025,Anderson Collegiate and Vocational Institute,English,400 Anderson,Whitby,L1N3V6,936,43.88762,-78.92494,5.8,1.4,34.7,13.8,0.88,NA,0.37,0.78,-2,12.65,8.96
+Durham DSB,896446,Brock High School,English,C1590 Concession,Cannington,L0E1E0,422,44.34342,-79.06638,SP,NA,25.6,NA,0.6,NA,0.33,0.79,11,17.73,SP
+Durham DSB,934991,Brooklin High School,English,20 Carnwith,Whitby,L1M0K7,817,43.965799,-78.962663,1.5,SP,22.2,4.5,0.85,NA,0.51,0.89,NA,9.64,9.75
+Durham DSB,933156,DCE - Under 21 Collegiate Institute and Vocational School,English,120 Centre Street South,Oshawa,L1H4A3,NA,43.89387,-78.86451,NA,NA,SP,NA,NA,NA,NA,N/D,NA,SP,SP
+Durham DSB,904392,Donald A Wilson Secondary School,English,681 Rossland,Whitby,L1P1Y1,1125,43.89334,-78.96507,7.2,SP,18.9,3.1,0.88,NA,0.72,0.85,-1,11.9,17.73
+Durham DSB,905674,Dunbarton High School,English,655 Sheppard,Pickering,L1V1G2,1457,43.82116,-79.1185,9.5,1.1,24,3,0.82,NA,0.37,0.8,-6,14.03,16.46
+Durham DSB,905585,Durham Alternative Secondary School,English,421 Pine,Oshawa,L1J2H9,403,43.89217,-78.8783,3.7,SP,36,SP,NA,NA,NA,0.38,NA,21.23,6.22
+Durham DSB,906565,Eastdale Collegiate and Vocational Institute,English,265 Harmony,Oshawa,L1G6L4,1031,43.91177,-78.83574,2.5,SP,30.5,SP,0.74,NA,0.5,0.72,-3,18.77,1.14
+Durham DSB,911291,G L Roberts Collegiate and Vocational Institute,English,399 Chaleur,Oshawa,L1J1G5,481,43.85992,-78.84544,2.7,SP,34.3,NA,1,NA,0.46,0.62,4,31.54,SP
+Durham DSB,916331,Henry Street High School,English,600 Henry,Whitby,L1N5C7,767,43.87266,-78.945,5.1,1.7,29.5,2.9,0.88,NA,0.82,0.78,-2,15.19,11.9
+Durham DSB,918423,J Clarke Richardson Collegiate,English,1355 Harwood,Ajax,L1T4G8,1746,43.88376,-79.02697,19.8,2.5,17.6,SP,0.88,NA,0.53,0.78,1,16.22,18.65
+Durham DSB,932345,Maxwell Heights Secondary School,English,1100 Coldstream,Oshawa,L1K0N1,1573,43.94655,-78.85197,8.3,1.6,18.2,1.1,0.92,NA,0.71,0.8,-5,14.67,12.37
+Durham DSB,932329,O'Neill Collegiate and Vocational Institute,English,301 Simcoe,Oshawa,L1G4T2,1206,43.90577,-78.86653,5.7,1.5,25.4,9.4,0.78,NA,0.48,0.83,0,21.83,4.73
+Durham DSB,935310,Pickering High School,English,180 Church,Ajax,L1T2W7,2000,43.85752,-79.05738,10.8,0.7,31.3,16,0.82,NA,0.52,0.83,-4,15.13,17.56
+Durham DSB,935360,Pine Ridge Secondary School,English,2155 Liverpool,Pickering,L1X1V4,1277,43.8518,-79.09652,13.4,2,23.1,1.3,0.73,NA,0.29,0.72,-2,18.12,9.63
+Durham DSB,936227,Port Perry High School,English,160 Rosa,Port Perry,L9L1L7,1112,44.1023,-78.95174,1.5,SP,32.2,6,0.83,NA,0.67,0.8,-1,12.14,4.61
+Durham DSB,937525,R S Mclaughlin Collegiate and Vocational Institute,English,570 Stevenson,Oshawa,L1J5P1,914,43.9076,-78.89081,3.7,SP,21.1,2.4,0.89,NA,0.62,0.83,3,18.32,4.32
+Durham DSB,941603,Sinclair Secondary School,English,380 Taunton,Whitby,L1R2K5,1689,43.91985,-78.93937,10.7,2,19.8,5.6,0.86,NA,0.62,0.8,-6,13.23,15.37
+Durham DSB,948969,Uxbridge Secondary School,English,127 Planks,Uxbridge,L9P1K5,1222,44.10945,-79.1139,2,SP,24.5,4.7,0.86,NA,0.85,0.87,-1,12.19,18.3
+Grand Erie DSB,896187,Brantford Collegiate Institute and Vocational School,English,120 Brant,Brantford,N3T3H3,1316,43.1431,-80.27318,3.1,SP,17.4,0.8,0.77,10,0.36,0.79,4,19.5,7.2
+Grand Erie DSB,899046,Cayuga Secondary School,English,70 Haldimand Hwy,Cayuga,N0A1E0,547,42.96274998,-79.86302002,SP,SP,33.1,SP,0.8,5,0.44,0.79,7,15.18,SP
+Grand Erie DSB,903728,Delhi District Secondary School,English,393 James,Delhi,N4B2B6,536,42.85121,-80.49221,SP,SP,11.8,SP,0.85,3,0.45,0.7,-5,16.07,SP
+Grand Erie DSB,906069,Dunnville Secondary School,English,110 Helena,Dunnville,N1A2S5,435,42.90537,-79.62797,SP,SP,30.1,SP,0.82,2,0.5,0.6,-14,18.06,SP
+Grand Erie DSB,891304,Grand Erie Learning Alternatives,English,365 Rawdon,Brantford,N3S6J3,159,43.1509,-80.24895,SP,NA,42.8,NA,NA,NA,NA,N/D,NA,29.58,SP
+Grand Erie DSB,915033,Hagersville Secondary School,English,70 Parkview,Hagersville,N0A1H0,448,42.95759,-80.04511,SP,SP,37.5,SP,0.89,28,0.31,0.73,19,26.68,SP
+Grand Erie DSB,898007,McKinnon Park Secondary School,English,91 Haddington,Caledonia,N3W2H2,878,43.0636,-79.95337,SP,NA,24.3,SP,0.69,0,0.45,0.69,-7,20.96,4.26
+Grand Erie DSB,930245,North Park Collegiate and Vocational School,English,280 North Park,Brantford,N3R4L1,1180,43.16849,-80.26241,7.1,SP,25.8,SP,0.93,6,0.67,0.71,-11,19.32,7.26
+Grand Erie DSB,933490,Paris District High School,English,231 Grand River,Paris,N3L2N6,823,43.20405,-80.38596,SP,SP,17.1,SP,0.8,-8,0.54,0.73,3,11.36,5.69
+Grand Erie DSB,934402,Pauline Johnson Collegiate and Vocational School,English,627 Colborne,Brantford,N3S3M8,830,43.14061,-80.2393,4.5,1.6,36.9,NA,0.7,-6,0.41,0.55,-4,25.72,SP
+Grand Erie DSB,941557,Simcoe Composite School,English,40 Wilson,Simcoe,N3Y2E5,841,42.84144,-80.30439,1.3,SP,26.2,1.2,0.86,-3,0.57,0.7,-12,15.72,3.69
+Grand Erie DSB,916412,Tollgate Technological Skills Centre Secondary School,English,112 Tollgate,Brantford,N3R4Z6,306,43.16632,-80.28707,SP,NA,86.3,NA,NA,NA,NA,0.02,-6,26.43,SP
+Grand Erie DSB,949035,Valley Heights Secondary School,English,2561 Hwy,Langton,N0E1G0,558,42.69409,-80.5397,45,SP,17.6,SP,0.65,-17,0.48,0.6,-11,17.13,SP
+Grand Erie DSB,950785,Waterford District High School,English,227 Main,Waterford,N0E1Y0,405,42.92827,-80.28839,SP,NA,38.3,SP,0.58,-9,0.38,0.71,10,15.08,SP
+Greater Essex County DSB,929727,Belle River District High School,English,333 South,Belle River,N0R1A0,804,42.2884,-82.7118,2.1,SP,18.2,SP,0.92,2,0.72,0.72,-16,8.68,9.45
+Greater Essex County DSB,909440,Essex District High School,English,244 Talbot,Essex,N8M2E1,724,42.17935,-82.82793,SP,SP,14.9,SP,0.94,14,0.51,0.72,-7,12.98,1.64
+Greater Essex County DSB,911780,General Amherst High School,English,130 Sandwich,Amherstburg,N9V1Z8,647,42.1063,-83.1103,SP,SP,11,NA,0.95,-1,0.71,0.82,-2,11.73,5.51
+Greater Essex County DSB,917249,Hon W C Kennedy Collegiate Institute,English,245 Tecumseh,Windsor,N8X2R2,843,42.2972,-83.02146,30.6,2.8,12.7,SP,0.65,-4,0.36,0.66,2,39.1,2.69
+Greater Essex County DSB,920100,Kingsville District High School,English,170 Main,Kingsville,N9Y1A6,588,42.03865,-82.73076,8.7,SP,12.4,NA,0.87,9,0.58,0.87,6,14.38,6.93
+Greater Essex County DSB,922188,Leamington District Secondary School,English,125 Talbot,Leamington,N8H1N2,892,42.05144,-82.60747,27.1,2.8,12,SP,0.99,17,0.58,0.77,1,18.08,2.43
+Greater Essex County DSB,939218,Riverside Secondary School,English,8465 Jerome,Windsor,N8S1W8,897,42.33101,-82.93679,19.3,1.3,17.7,SP,0.74,7,0.32,0.75,0,24.19,5.85
+Greater Essex County DSB,939765,Sandwich Secondary School,English,7050 Malden,LaSalle,N9J2T5,961,42.22395,-83.06033,6.1,SP,11.1,SP,0.81,-5,0.56,0.89,1,14.26,13.09
+Greater Essex County DSB,902299,Tecumseh Vista Academy- Secondary,English,11555 Shields,Tecumseh,N8N2M1,620,42.27812,-82.89233,10,SP,16.8,SP,0.89,6,0.4,0.92,6,11.33,15.47
+Greater Essex County DSB,949612,Vincent Massey Secondary School,English,1800 Liberty,Windsor,N9E1J2,1833,42.25966,-83.02687,51.2,3.1,9.1,1.2,0.91,-1,0.41,0.9,-1,26.21,16.95
+Greater Essex County DSB,950009,W. F. Herman Academy Secondary School,English,1905 Bernard,Windsor,N8W4R5,719,42.30719,-82.97359,10.3,SP,20.7,NA,0.71,-11,0.49,0.72,-7,32.53,3.31
+Greater Essex County DSB,950394,Walkerville Collegiate Institute,English,2100 Richmond,Windsor,N8Y1L4,919,42.31706,-83.0065,8.1,SP,18.6,1.3,0.84,-8,0.31,0.79,-4,32.59,4.81
+Greater Essex County DSB,951927,Western Secondary School,English,5791 North Townline,Amherstburg,N9V2Y9,307,42.18451,-83.02082,5.2,NA,98,NA,N/D,NA,0.23,0.02,-20,16.34,5.02
+Greater Essex County DSB,918806,Westview Freedom Academy Secondary School,English,1375 California,Windsor,N9B2Z8,520,42.29241,-83.05581,31,20,49.2,NA,0.86,29,0.3,0.41,7,45.1,3.28
+Greater Essex County DSB,953822,Windsor Public Alternative,English,284 Cameron,Windsor,N9B1Y6,180,42.31358,-83.05403,9.4,NA,22.2,SP,NA,NA,NA,N/R,NA,31.18,SP
+Halton CDSB,688231,Assumption Roman Catholic Secondary School,English,3230 Woodward,Burlington,L7N3P1,887,43.34836,-79.78368,12.7,3.4,21.6,2.8,0.84,-3,0.38,0.89,-4,14.55,11.48
+Halton CDSB,689726,Bishop Paul Francis Reding Secondary School,English,1120 Main,Milton,L9T6H7,1364,43.53094,-79.86268,26,3.7,11.4,2.1,0.93,0,0.62,0.86,-5,14.96,14.25
+Halton CDSB,697125,Christ the King Catholic Secondary School,English,161 Guelph,Georgetown,L7G4A6,1560,43.6511,-79.90939,5.3,SP,19,1.9,0.87,-2,0.66,0.87,-6,8.68,12.03
+Halton CDSB,761182,Corpus Christi Catholic Secondary School,English,5150 UPPER MIDDLE,BURLINGTON,L7L0E5,985,43.398134,-79.785033,16.5,2,13.3,1.5,0.87,2,0.63,0.86,-8,11.58,21.33
+Halton CDSB,704300,Holy Trinity Catholic Secondary School,English,2420 Sixth,Oakville,L6H3N8,1196,43.47207,-79.72419,15.1,3.3,16.5,1.3,0.76,-6,0.52,0.85,-3,14.48,31.58
+Halton CDSB,696392,Jean Vanier Catholic Secondary School,English,1145 Bronte Street South,Milton,L9T8B4,1094,43.48773,-79.8578,31.7,6.9,13.1,SP,0.89,7,0.7,0.85,2,20.45,37.19
+Halton CDSB,738271,Notre Dame Roman Catholic Secondary School,English,2333 Headon Forest,Burlington,L7M3X6,1009,43.37807,-79.83066,9.1,1.6,20.5,2.1,0.76,-13,0.33,0.88,-2,11.65,16.96
+Halton CDSB,798010,St Ignatius of Loyola Secondary School,English,1550 Nottinghill,Oakville,L6M1X7,1115,43.44472,-79.73359,20.8,3.9,12.7,1.7,0.83,-12,0.55,0.91,-2,14.55,39.58
+Halton CDSB,854212,St Thomas Aquinas Roman Catholic Secondary School,English,124 Dorval,Oakville,L6K2W1,1336,43.43614805,-79.68032156,20.1,7.9,13.9,2.8,0.82,1,0.52,0.83,-5,17.07,24.22
+Halton CDSB,684465,Thomas Merton Catholic Secondary School,English,171 Speers,Oakville,L6K3W8,206,43.33232,-79.80831,14.1,SP,7.3,NA,N/R,NA,N/R,N/R,NA,19.77,19.96
+Halton DSB,913715,Abbey Park High School,English,1455 Glen Abbey,Oakville,L6M2G5,954,43.43636,-79.73622,37.7,8.1,22.7,11.4,0.97,1,0.62,0.92,-1,16.81,35.94
+Halton DSB,890332,Acton District High School,English,21 Cedar,Acton,L7J2V2,453,43.64305,-80.03317,5.3,SP,24.9,SP,0.87,4,0.57,0.78,0,11.89,4.38
+Halton DSB,890987,Aldershot High School,English,50 Fairwood,Burlington,L7T1E5,436,43.3036,-79.85258,10.3,SP,17.2,SP,0.84,-7,0.67,0.86,-2,15.4,18.24
+Halton DSB,897353,Burlington Central High School,English,1433 Baldwin,Burlington,L7S1K4,593,43.32951,-79.80604,24.3,8.4,18.4,SP,0.79,-6,0.24,0.83,3,20.48,12.08
+Halton DSB,967740,Craig Kielburger Secondary School,English,1151 Ferguson Drive,Milton,L9T7V8,1499,43.51472,-79.82683,38.1,5.4,27,1.1,0.94,-3,0.57,0.8,-2,15.71,17.59
+Halton DSB,893675,Dr. Frank J. Hayden Secondary School,English,3040 Tim Dobbie,Burlington,L7M0M3,1425,43.39801,-79.8184,29,3.2,12.9,SP,0.9,4,0.55,0.87,-1,11.8,25.46
+Halton DSB,901439,Garth Webb Secondary School,English,2820 Westoak Trails Boulevard,Oakville,L6M4W2,1092,43.4348,-79.75466,39.1,7.5,13.9,SP,0.92,4,0.5,0.93,1,14.52,44.01
+Halton DSB,911607,Gary Allan High School - Bronte Creek,English,3250 New,Burlington,L7N1M8,32,43.343117118,-79.777129918,SP,NA,31.3,NA,NA,NA,NA,0.86,-1,SP,SP
+Halton DSB,940968,Gary Allan High School - Burlington,English,3250 New,Burlington,L7N1M8,370,43.3434,-79.77666,13.5,4.9,7.3,SP,NA,NA,NA,N/R,NA,17.18,12.32
+Halton DSB,890405,Gary Allan High School - Halton Hills,English,96 Guelph,Georgetown,L7G3Z5,166,43.650689,-79.917654,SP,NA,13.9,NA,NA,NA,NA,N/D,NA,12.46,10.42
+Halton DSB,940976,Gary Allan High School - Milton,English,215 Ontario,Milton,L9T4N5,216,43.51439,-79.871042,28.2,10.6,8.8,NA,NA,NA,NA,N/D,NA,17.33,18.83
+Halton DSB,940984,Gary Allan High School - Oakville,English,1330 Montclair,Oakville,L6H1Z5,138,43.462766843,-79.702129689,13,SP,SP,NA,NA,NA,NA,N/D,NA,16.5,23.56
+Halton DSB,911615,Gary Allan High School - SCORE,English,3450 New,Burlington,L7N1M8,20,43.349385,-79.772299,NA,NA,50,NA,NA,NA,NA,0.17,-22,SP,SP
+Halton DSB,940925,Gary Allan High School - STEP,English,1330 Montclair,Oakville,L6H1Z5,164,43.462766843,-79.702129689,SP,SP,42.1,NA,NA,NA,NA,N/R,NA,17.68,10.18
+Halton DSB,912433,Georgetown District High School,English,70 Guelph,Georgetown,L7G3Z5,1654,43.65082,-79.92111,8.3,SP,29.3,3.5,0.93,2,0.45,0.82,-2,9.41,13.61
+Halton DSB,918300,Iroquois Ridge High School,English,1123 Glenashton,Oakville,L6H5M1,1358,43.48865,-79.69905,39.2,6.6,19.7,8,0.97,3,0.48,0.93,0,14.8,38.16
+Halton DSB,922501,Lester B. Pearson High School,English,1433 Headon,Burlington,L7M1V7,416,43.37356,-79.80763,20.2,SP,16.8,SP,0.91,13,0.82,0.87,-6,10.92,17.02
+Halton DSB,924393,M M Robinson High School,English,2425 Upper Middle,Burlington,L7P3N9,740,43.36377,-79.82479,11.8,SP,26.5,SP,0.75,8,0.5,0.77,-5,14.47,7.81
+Halton DSB,926736,Milton District High School,English,396 Williams,Milton,L9T2G4,921,43.50583,-79.87092,37.5,4.7,17.4,3.3,0.89,1,0.59,0.87,0,17.85,26.78
+Halton DSB,928160,Nelson High School,English,4181 New,Burlington,L7L1T3,996,43.35804,-79.76526,11.8,SP,24.9,10.2,0.97,6,0.42,0.9,-2,12.1,18.59
+Halton DSB,932060,Oakville Trafalgar High School,English,1460 Devon,Oakville,L6J3L6,1245,43.4729,-79.65478,25.4,5.3,17.8,5.3,0.95,0,N/R,0.94,-2,10.86,31.89
+Halton DSB,937665,Robert Bateman High School,English,5151 New,Burlington,L7L1V3,797,43.37166,-79.74982,23.8,2,41.8,1.6,0.91,2,0.36,0.67,-15,15.65,11.57
+Halton DSB,947539,Thomas A Blakelock High School,English,1160 Rebecca,Oakville,L6L1Y9,1125,43.41991,-79.69479,31.5,5,15.6,1.4,0.96,5,0.75,0.87,0,15.95,21.66
+Halton DSB,953121,White Oaks High School,English,1330 Montclair,Oakville,L6H1Z5,1865,43.46353,-79.70149,52,6.2,22.2,2.9,0.95,1,0.53,0.91,1,17.25,28.9
+Hamilton-Wentworth CDSB,689750,Bishop Ryan Catholic Secondary School,English,1824 Rymal Road East,Hamilton,L8K5J3,1605,43.18156,-79.81642,17.7,2.3,19.1,0.9,0.76,-7,0.38,0.83,0,17.5,5.56
+Hamilton-Wentworth CDSB,689386,Bishop Tonnos Catholic Secondary School,English,100 Panabaker,Ancaster,L9G5E3,1157,43.2017,-79.9952,10.3,SP,20.1,1.1,0.88,-6,0.59,0.85,-2,11.66,18.16
+Hamilton-Wentworth CDSB,694134,Cardinal Newman Catholic Secondary School,English,127 Gray,Stoney Creek,L8G3V3,1509,43.22159,-79.74547,14.7,1.6,15.2,1.3,0.89,7,0.56,0.85,3,16.05,6.36
+Hamilton-Wentworth CDSB,695343,Cathedral High School,English,30 Wentworth,Hamilton,L8L8H5,1235,43.25115,-79.85456,24.5,6.2,20.4,SP,0.78,0,0.25,0.58,-4,33.9,1.04
+Hamilton-Wentworth CDSB,838541,St. Charles Catholic Adult Secondary School,English,150 East th,Hamilton,L9A2Z8,557,43.23806,-79.87374999,5.2,17.2,SP,NA,NA,NA,NA,N/D,NA,30.8,4.22
+Hamilton-Wentworth CDSB,800430,St. Jean de Brebeuf Catholic Secondary School,English,200 Acadia,Hamilton,L8W1B8,1578,43.20163,-79.86404,25.5,4.6,13.8,SP,0.84,8,0.5,0.75,-3,21.99,7.34
+Hamilton-Wentworth CDSB,827401,St. Mary Catholic Secondary School,English,200 Whitney,Hamilton,L8S2G7,1057,43.2536,-79.9276,8.2,1.5,20.3,2,0.86,-3,0.59,0.86,-2,19.98,14.16
+Hamilton-Wentworth CDSB,855685,St. Thomas More Catholic Secondary School,English,1045 Upper Paradise,Hamilton,L9B2N4,1927,43.21365,-79.91991,25.1,3.9,12.4,SP,0.79,3,0.3,0.79,0,20.02,9.86
+Hamilton-Wentworth DSB,891894,Ancaster High School,English,374 Jerseyville,Ancaster,L9G3K8,1189,43.21583,-80.00521,15.2,1.6,16,2.2,0.87,1,0.43,0.87,2,11.74,19.81
+Hamilton-Wentworth DSB,903850,Delta Secondary School,English,1284 Main,Hamilton,L8K1B2,710,43.2408,-79.81404,4.1,SP,29,SP,0.55,-23,0.27,0.43,-7,29.93,2.24
+Hamilton-Wentworth DSB,916579,Dundas Valley Secondary School,English,310 Governor's,Dundas,L9H5P8,1031,43.25795,-79.97673,5.4,SP,21.5,2.8,0.85,-2,0.5,0.8,-6,13.15,13.07
+Hamilton-Wentworth DSB,913081,Glendale Secondary School,English,145 Rainbow,Hamilton,L8K4G1,808,43.22524,-79.78025,47,7.3,20.7,SP,0.77,-2,0.35,0.64,-2,31.7,SP
+Hamilton-Wentworth DSB,927163,King William Alter Ed Secondary School,English,225 King William,Hamilton,L8R1B1,85,43.255406,-79.860385,SP,SP,52.9,NA,NA,NA,NA,N/R,NA,33.74,SP
+Hamilton-Wentworth DSB,893455,Nora Henderson Secondary School,English,75 Palmer,Hamilton,L8T3G1,688,43.21545,-79.84097,29.5,5.2,28.5,SP,0.75,7,0.29,0.53,2,24.34,4.56
+Hamilton-Wentworth DSB,932507,Orchard Park Secondary School,English,200 DeWitt,Stoney Creek,L8E4M5,989,43.21771,-79.71158,36.5,SP,19.2,SP,0.9,-1,0.65,0.8,0,16.35,4.53
+Hamilton-Wentworth DSB,939730,Saltfleet High School,English,108 Highland,Stoney Creek,L8J2T2,1177,43.18329,-79.77837,23.5,1.4,18.4,SP,0.86,1,0.42,0.73,-3,14.45,5.49
+Hamilton-Wentworth DSB,941328,Sherwood Secondary School,English,25 High,Hamilton,L8T3Z4,1014,43.22772,-79.8231,8.3,SP,17.1,SP,0.71,-10,0.35,0.66,-10,20.82,3.09
+Hamilton-Wentworth DSB,941719,Sir Allan MacNab Secondary School,English,145 Magnolia,Hamilton,L9C5P4,1101,43.23163,-79.92275,20.9,1.7,27.8,SP,0.77,0,0.41,0.64,-9,21.85,5.13
+Hamilton-Wentworth DSB,941883,Sir John A Macdonald Secondary School,English,130 York,Hamilton,L8R1Y5,1015,43.26099,-79.87305,49.8,15.4,18.5,NA,0.52,-13,0.26,0.45,-2,39.98,1.93
+Hamilton-Wentworth DSB,942448,Sir Winston Churchill Secondary School,English,1715 Main,Hamilton,L8H1E3,826,43.23756,-79.79511,8.2,SP,21.2,NA,0.51,-10,0.16,0.6,1,28.22,SP
+Hamilton-Wentworth DSB,918563,Turning Point School,English,100 James,Hamilton,L8P2Z2,92,43.25383,-79.87041,SP,NA,18.5,NA,NA,NA,NA,N/R,NA,22.67,SP
+Hamilton-Wentworth DSB,891401,Vincent Massey/James Street,English,155 Macassa,Hamilton,L9A2M8,100,43.22512,-79.84249,SP,NA,35,NA,N/R,NA,N/R,N/R,NA,26.86,SP
+Hamilton-Wentworth DSB,950653,Waterdown District High School,English,215 Parkside,Waterdown,L8B1B9,1205,43.33407,-79.91094,4.2,SP,20.4,1.5,0.86,-3,0.45,0.83,0,22.95,19.08
+Hamilton-Wentworth DSB,951820,Westdale Secondary School,English,700 Main,Hamilton,L8S1A5,1398,43.25959,-79.90099,21.5,2.4,23.5,1.9,0.79,-1,0.46,0.86,-1,23.51,7.57
+Hamilton-Wentworth DSB,952478,Westmount Secondary School,English,39 Montcalm,Hamilton,L9C4B1,1493,43.22708,-79.89559,25.7,0.7,19.1,4.4,0.87,1,0.48,0.89,1,20.32,7.13
+Hastings & Prince Edward DSB,893803,Bayside Secondary School,English,1247 Old Hwy,Belleville,K8N4Z2,724,44.12567,-77.47764,7.3,SP,20,NA,0.83,-2,0.53,0.81,1,14.75,5.72
+Hastings & Prince Edward DSB,899275,Centennial Secondary School,English,160 Palmer,Belleville,K8P4E1,767,44.15707,-77.40571,4.4,SP,25.6,NA,0.75,-11,0.33,0.76,0,19.59,7.09
+Hastings & Prince Edward DSB,900478,Centre Hastings Secondary School,English,129 Elgin,Madoc,K0K2K0,548,44.50505,-77.468,NA,NA,31.9,NA,0.84,1,0.5,0.52,-9,22.08,SP
+Hastings & Prince Edward DSB,927252,Moira Secondary School,English,275 Farley,Belleville,K8N4M2,620,44.17633,-77.35235,7.6,SP,28.7,SP,0.75,-6,0.33,0.62,-17,22.42,9.76
+Hastings & Prince Edward DSB,929980,North Hastings High School,English,16 Monck,Bancroft,K0L1C0,488,45.05771,-77.86232,SP,NA,35.5,NA,0.68,-2,0.36,0.57,-11,23.65,SP
+Hastings & Prince Edward DSB,936618,Prince Edward Collegiate Institute,English,41 Barker,Picton,K0K2T0,581,44.0124,-77.1442,SP,SP,27.7,SP,0.74,-3,0.36,0.69,2,21.31,SP
+Hastings & Prince Edward DSB,937134,Quinte Secondary School,English,45 College,Belleville,K8P2G3,561,44.17573,-77.3924,4.5,SP,33.3,NA,0.73,7,0.4,0.6,-1,21,3.35
+Hastings & Prince Edward DSB,948705,Trenton High School,English,15 Fourth,Trenton,K8V5N4,602,44.09702,-77.59178,SP,SP,35.4,NA,0.68,10,0.48,0.64,-2,23.96,6.04
+Huron Perth CDSB,771686,St Anne's Catholic School,English,353 Ontario,Clinton,N0M1L0,603,43.61378,-81.5288,2.7,SP,21.4,SP,0.71,-19,0.58,0.84,-6,13.81,3.49
+Huron Perth CDSB,832545,St Michael Catholic Secondary School,English,240 Oakdale,Stratford,N5A7W2,848,43.38599,-80.99531,1.8,SP,20.4,SP,0.79,-4,0.44,0.82,0,13.79,4.44
+Huron-Superior CDSB,713996,Holy Angels Learning Centre,English,102 Wellington,Sault Ste Marie,P6A2L2,146,46.5189,-84.3372,SP,NA,SP,NA,NA,NA,NA,N/R,NA,34.19,SP
+Huron-Superior CDSB,776076,St Mary's College,English,868 Second,Sault Ste Marie,P6B4K4,1182,46.51822,-84.33532,1,SP,22.2,SP,0.69,-7,0.28,0.72,-3,20.5,7.63
+James Bay Lowlands SSB,918598,Northern Lights Secondary School,English,1 Keewatin,Moosonee,P0L1Y0,182,51.284615314,-80.624046202,SP,SP,29.7,SP,0.3,-1,0.04,0.06,-52,37.03,SP
+Kawartha Pine Ridge DSB,890464,Adam Scott Collegiate and Vocational Institute,English,175 Langton,Peterborough,K9H6K3,917,44.32755,-78.32114,1.7,SP,32.3,SP,0.75,-12,0.38,0.7,-14,19.22,8.68
+Kawartha Pine Ridge DSB,895539,Bowmanville High School,English,49 Liberty,Bowmanville,L1C2L8,980,43.91501,-78.67997,1.8,SP,21.5,SP,0.86,9,0.58,0.77,-1,13.21,4.65
+Kawartha Pine Ridge DSB,898260,Campbellford District High School,English,119 Ranney,Campbellford,K0L1L0,505,44.30884,-77.79116,SP,SP,24.6,NA,0.73,-21,0.61,0.75,0,17.4,SP
+Kawartha Pine Ridge DSB,899224,Centre for Individual Studies,English,140 High,Bowmanville,L1C3C1,293,43.923887,-78.691927,SP,SP,33.1,NA,NA,NA,NA,N/R,NA,16.49,3.91
+Kawartha Pine Ridge DSB,901687,Clarington Central Secondary School,English,200 Clarington,Bowmanville,L1C5N8,873,43.91312,-78.70949,2.4,SP,30.7,SP,0.79,8,0.53,0.69,-9,12.57,4.66
+Kawartha Pine Ridge DSB,901512,Clarke High School,English,3425,Newcastle,L1B1L9,313,43.94323,-78.60187,SP,SP,22.7,SP,0.89,-4,0.62,0.84,-2,11.91,6.99
+Kawartha Pine Ridge DSB,967836,Cobourg Collegiate Institute,English,335 King East,Cobourg,K9A1M2,1133,43.96219,-78.15222,1.5,SP,28.7,1.7,0.71,-4,0.44,0.78,1,15.57,4.68
+Kawartha Pine Ridge DSB,903078,Courtice Secondary School,English,1717 Nash Rd & Courtice,Courtice,L1E2L8,721,43.91522,-78.78273,2.5,SP,22.1,SP,0.86,-5,0.7,0.81,1,12.22,12.12
+Kawartha Pine Ridge DSB,903337,Crestwood Secondary School,English,1885 Sherbrooke,Peterborough,K9J6X4,714,44.28665,-78.38159,3.9,SP,32.9,SP,0.93,15,0.49,0.74,-14,14.62,9.75
+Kawartha Pine Ridge DSB,906719,East Northumberland Secondary School,English,71 Dundas,Brighton,K0K1H0,997,44.0448,-77.7316,SP,SP,30.6,NA,0.88,-3,0.59,0.71,-5,13.62,3.19
+Kawartha Pine Ridge DSB,919195,Kenner Collegiate and Vocational Institute,English,633 Monaghan,Peterborough,K9J5J2,595,44.27874,-78.32675,2.7,SP,39.3,SP,0.84,6,0.55,0.62,-5,26.87,1.86
+Kawartha Pine Ridge DSB,931543,Norwood District High School,English,44 Elm,Norwood,K0L2V0,276,44.38282,-77.97247,SP,NA,38.4,SP,0.66,10,0.42,0.7,-4,18.66,SP
+Kawartha Pine Ridge DSB,935182,Peterborough Collegiate and Vocational School,English,201 McDonnel,Peterborough,K9H2W1,332,44.30928,-78.32203,SP,NA,15.7,SP,N/D,NA,N/R,N/D,NA,29.09,SP
+Kawartha Pine Ridge DSB,936090,Port Hope High School,English,130 Highland,Port Hope,L1A2A3,391,43.95749,-78.30935,2.6,SP,32.7,NA,0.82,5,0.5,0.6,-10,15.89,SP
+Kawartha Pine Ridge DSB,947563,Thomas A Stewart Secondary School,English,1009 Armour,Peterborough,K9H7H2,937,44.33092,-78.30986,3.5,1.2,29.5,SP,0.74,-14,0.4,0.72,-1,18.86,5.88
+Keewatin-Patricia DSB,894230,Beaver Brae Secondary School,English,1400 Ninth,Kenora,P9N2T7,555,49.77547,-94.463,SP,SP,24,NA,0.81,5,0.5,0.67,13,21.55,4.1
+Keewatin-Patricia DSB,902748,Crolancia Secondary School,English,1 Trudel,Pickle Lake,P0V3A0,24,51.46618,-90.1949,NA,NA,SP,NA,N/R,NA,N/R,N/R,NA,SP,SP
+Keewatin-Patricia DSB,905283,Dryden High School,English,79 Casimir,Dryden,P8N2H4,707,49.78045,-92.83357,SP,SP,21.4,NA,0.73,-1,0.39,0.65,-3,20.11,SP
+Keewatin-Patricia DSB,918113,Ignace Secondary School,English,194 Davey Lake,Ignace,P0T1T0,76,49.40956,-91.66109,SP,NA,26.3,NA,N/R,NA,N/R,0.64,-11,21.72,SP
+Keewatin-Patricia DSB,936871,Queen Elizabeth District High School,English,15 Fair,Sioux Lookout,P8T1A9,500,50.1027,-91.9104,3.4,SP,29,NA,0.92,17,0.21,0.38,-23,26.62,SP
+Keewatin-Patricia DSB,937789,Red Lake District High School,English,60-C Highway,Red Lake,P0V2M0,289,51.01412,-93.81795,SP,SP,30.4,NA,0.77,11,0.71,0.72,13,10.59,SP
+Kenora CDSB,864471,St Thomas Aquinas High School,English,1 Poirier,Kenora,P9N4G8,395,49.78385,-94.45923,SP,SP,21,SP,0.93,4,0.38,0.74,2,20.4,3.74
+Lakehead DSB,915424,Hammarskjold High School,English,80 Clarkson,Thunder Bay,P7B4W8,763,48.44287,-89.25104,2.6,SP,20.6,NA,0.8,5,0.27,0.77,-6,22.81,5.36
+Lakehead DSB,914410,Lakehead Alternative School,English,333 High,Thunder Bay,P7A5S3,109,48.38323,-89.26977,SP,NA,11.9,NA,NA,NA,NA,N/R,NA,27.96,SP
+Lakehead DSB,942405,Sir Winston Churchill Collegiate and Vocational Institute,English,130 W Churchill,Thunder Bay,P7C1V5,716,48.389,-89.28265,5.7,SP,16.5,SP,0.95,7,0.47,0.83,6,21.29,4.72
+Lakehead DSB,950848,Superior Collegiate and Vocational Institute,English,351 High,Thunder Bay,P7A5S3,644,48.44946,-89.22745,SP,SP,22.2,NA,0.89,9,0.41,0.79,12,20.24,3.69
+Lakehead DSB,952087,Westgate Collegiate and Vocational Institute,English,707 James,Thunder Bay,P7E2V9,790,48.37316,-89.29105,1.6,SP,22.2,NA,0.71,5,0.4,0.85,3,17.8,2.94
+Lambton Kent DSB,891274,Alexander Mackenzie Secondary School,English,1257 Michigan,Sarnia,N7S3Y3,486,42.99948,-82.36159,SP,NA,91.8,NA,N/D,NA,0.43,0.34,-1,26.15,SP
+Lambton Kent DSB,895148,Blenheim District High School,English,163 Chatham,Blenheim,N0P1A0,349,42.33356,-81.99223,4.6,SP,24.4,NA,0.76,0,0.48,0.68,-3,14.5,SP
+Lambton Kent DSB,919322,Chatham-Kent Secondary School,English,285 McNaughton,Chatham,N7L2G7,1161,42.42163,-82.19134,4.8,SP,20,1.8,0.77,-5,0.33,0.81,-3,20.25,5.09
+Lambton Kent DSB,890861,Great Lakes Secondary School,English,275 Wellington Street,Sarnia,N7T1H1,NA,42.9682,-82.4013,NA,NA,NA,NA,0.7,NA,0.42,0.7,NA,NA,NA
+Lambton Kent DSB,918938,John McGregor Secondary School,English,300 Cecile,Chatham,N7M2C6,650,42.38295,-82.17417,3.7,NA,47.8,SP,0.74,-2,0.57,0.74,25,22.96,3.66
+Lambton Kent DSB,921408,Lambton Central Collegiate and Vocational Institute,English,4141 Dufferin,Petrolia,N0N1R0,826,42.87854,-82.15076,2.2,SP,18.8,SP,0.89,18,0.55,0.82,-2,11.81,5.65
+Lambton Kent DSB,921530,Lambton Kent Composite School,English,231 St George,Dresden,N0P1M0,297,42.59583,-82.17788,SP,NA,24.6,NA,0.87,-5,0.42,0.72,-1,16.03,SP
+Lambton Kent DSB,910228,North Lambton Secondary School,English,15-19 George,Forest,N0N1J0,572,43.09386,-82.00325,2.1,SP,20.6,SP,0.71,-15,0.43,0.83,-1,19.27,SP
+Lambton Kent DSB,930636,Northern Collegiate Institute and Vocational School,English,940 Michigan,Sarnia,N7S2B1,1024,42.99897,-82.3742,6.2,1.6,16.7,2.5,0.88,2,0.56,0.92,2,13.46,9.7
+Lambton Kent DSB,938696,Ridgetown District High School,English,9 Harold,Ridgetown,N0P2C0,205,42.44467,-81.88203,5.9,SP,29.3,SP,1,12,0.38,0.64,-13,15.49,SP
+Lambton Kent DSB,948446,Tilbury District High School,English,97 Queen,Tilbury,N0P2L0,362,42.25212,-82.43353,30.7,SP,23.2,NA,0.68,6,0.43,0.56,-20,16.97,SP
+Lambton Kent DSB,950521,Wallaceburg District Secondary School,English,920 Elgin,Wallaceburg,N8A3E1,673,42.59635,-82.39112,SP,SP,32.8,SP,0.68,-7,0.4,0.64,-1,26.55,1.71
+Limestone DSB,893773,Bayridge Secondary School,English,1059 Taylor Kidd,Kingston,K7M6J9,716,44.25111,-76.5957,9.8,1.7,28.9,NA,0.83,3,0.39,0.81,6,14.8,15.29
+Limestone DSB,909181,Ernestown Secondary School,English,50 Main,Odessa,K0H2H0,558,44.27701,-76.72722,SP,NA,38.2,NA,0.51,-19,0.31,0.84,11,13.73,4.04
+Limestone DSB,936740,Frontenac Learning Centre,English,38 Cowdy,Kingston,K7K3V9,549,44.25392,-76.50195,SP,SP,48.3,NA,N/D,NA,N/R,N/R,NA,36.32,2.26
+Limestone DSB,911135,Frontenac Secondary School,English,1789 Bath,Kingston,K7M4Y3,862,44.23707,-76.57679,4.1,SP,22.3,SP,0.84,3,0.45,0.86,4,14.11,8.14
+Limestone DSB,911585,Gateway Community Education Centre,English,33 Advance,Napanee,K7R3Y5,NA,44.25586,-76.95653,NA,NA,NA,NA,NA,NA,NA,N/R,NA,NA,NA
+Limestone DSB,930348,Granite Ridge Education Centre Secondary School,English,14432 Road,Sharbot Lake,K0H2P0,186,44.78436,-76.67938,SP,NA,59.1,NA,0.56,-39,N/R,0.74,7,29,8.24
+Limestone DSB,919977,Kingston Collegiate and Vocational Institute,English,235 Frontenac,Kingston,K7L3S7,816,44.22957,-76.49809,10.2,2,15.9,SP,0.81,2,0.24,0.94,-1,22.11,9.03
+Limestone DSB,920592,La Salle Secondary School,English,773 Highway,Kingston,K7L4V3,726,44.25317,-76.45881,2.8,NA,29.6,NA,0.79,-10,0.49,0.82,2,12.87,13.76
+Limestone DSB,962236,Limestone School of Community Education,English,164 Van Order,Kingston,K7M1C1,130,44.23788,-76.52127,NA,SP,19.2,NA,NA,NA,NA,N/R,NA,28.93,SP
+Limestone DSB,924130,Loyalist Collegiate and Vocational Institute,English,153 Van Order,Kingston,K7M1B9,580,44.23844,-76.52032,10.3,SP,36,SP,0.69,-8,0.33,0.76,-2,23.85,6.18
+Limestone DSB,927902,Napanee District Secondary School,English,245 Belleville,Napanee,K7R3M7,970,44.24905,-76.95976,SP,SP,30.5,NA,0.76,0,0.37,0.69,0,15.96,2.23
+Limestone DSB,890596,North Addington Education Centre,English,14196 Highway,Cloyne,K0H1K0,106,44.81661,-77.18646,NA,NA,36.8,NA,0.5,0,0.36,0.41,-14,30.3,SP
+Limestone DSB,946494,Sydenham High School,English,2860 Rutledge,Sydenham,K0H2T0,752,44.40747,-76.59507,SP,NA,32.8,SP,0.88,1,0.52,0.73,-8,11.94,2.73
+London District Catholic School Board,695734,Catholic Central High School,English,450 Dundas,London,N6B3K3,1091,42.98733,-81.23954,22.2,8.6,15.5,1.9,0.69,-12,0.29,0.74,-7,24.24,9.71
+London District Catholic School Board,704253,Holy Cross Catholic Secondary School,English,367 Second,Strathroy,N7G4K6,438,42.98065,-81.60683,SP,NA,22.6,SP,0.72,2,0.44,0.78,-1,14.58,6.69
+London District Catholic School Board,724513,John Paul II Catholic Secondary School,English,1300 Oxford,London,N5V4P7,849,43.0106,-81.2083,14.4,2.5,15.2,SP,0.83,24,0.33,0.7,2,24.93,1.46
+London District Catholic School Board,733032,Mother Teresa Catholic Secondary School,English,1065 Sunningdale,London,N5X4B1,735,43.04906,-81.25187,18.4,3.4,15,SP,0.91,25,0.54,0.93,2,18.14,18.03
+London District Catholic School Board,752827,Regina Mundi College,English,5250 Wellington,London,N6E3X8,724,42.89444,-81.20132,12.3,SP,17.8,NA,0.61,-4,0.16,0.68,-7,22.96,3.51
+London District Catholic School Board,810916,St Joseph's High School,English,100 Bill Martyn,St. Thomas,N5R6A7,644,42.7538,-81.168,2,SP,20.8,SP,0.7,-6,0.49,0.8,2,15.94,3.69
+London District Catholic School Board,831190,St Mary's High School,English,431 Juliana,woodstock,N4V1E8,695,43.1139,-80.7507,3.2,SP,17.4,SP,0.8,7,0.38,0.82,-2,13.58,6.12
+London District Catholic School Board,854280,St Thomas Aquinas Secondary School,English,1360 Oxford,London,N6H1W2,794,42.9691,-81.3348,6.2,SP,13.4,SP,0.77,-7,0.66,0.9,3,12.29,22.66
+London District Catholic School Board,763602,St. Andre Bessette Secondary School,English,2727 Tokala Trail,London,N6G0L8,727,43.01509,-81.32835,11.6,3.3,17.5,SP,0.77,-9,0.45,0.88,3,19.24,29.51
+Near North DSB,943630,Almaguin Highlands Secondary School,English,21 Mountain View Road,South River,P0A1X0,492,45.841494,-79.377398,SP,NA,43.1,SP,0.56,28,0.38,0.61,11,23.81,2.51
+Near North DSB,901385,Chippewa Secondary School,English,539 Chippewa,North Bay,P1B6G8,656,46.31032384,-79.46397054,2.4,SP,28,SP,0.73,-13,0.64,0.88,8,22.44,5.65
+Near North DSB,925179,F J McElligott Secondary School,English,370 Pine,Mattawa,P0H1V0,105,46.31676,-78.70425,SP,NA,43.8,NA,N/R,NA,0.64,0.56,-12,24.3,SP
+Near North DSB,946109,Northern Secondary School,English,175 Ethel,Sturgeon Falls,P2B2Z8,260,46.37393,-79.92028,SP,NA,34.6,NA,0.25,-57,0.19,0.68,5,24.76,SP
+Near North DSB,934275,Parry Sound High School,English,111 Isabella,Parry Sound,P2A1N2,690,45.35411,-80.03663,SP,SP,38.7,NA,0.89,3,0.49,0.7,-1,15.73,SP
+Near North DSB,951463,West Ferris Secondary School,English,60 Marshall Pk,North Bay,P1A2P2,504,46.2779,-79.4359,3,NA,30.2,NA,0.86,-1,0.78,0.8,7,21.08,6.13
+Near North DSB,953385,Widdifield Secondary School,English,320 Ski Club,North Bay,P1B7R2,827,46.3346,-79.4505,1.7,SP,29.1,NA,0.77,-1,0.38,0.79,3,16.24,11.06
+Niagara CDSB,690791,Blessed Trinity Catholic Secondary School,English,145 Livingston,Grimsby,L3M5J6,1066,43.1974,-79.5805,4.1,SP,16.1,SP,0.82,-4,0.36,0.86,-7,11.22,8.78
+Niagara CDSB,703796,Denis Morris Catholic High School,English,40 Glen Morris,St Catharines,L2T2M9,1047,43.13933,-79.2366,9.1,1.6,22,SP,0.88,8,0.42,0.85,-4,22,5.81
+Niagara CDSB,715247,Holy Cross Catholic Secondary School,English,460 Linwell,St Catharines,L2M2P9,706,43.20199,-79.21745,17.6,3.4,17.3,SP,0.88,7,0.36,0.82,-10,19.35,1.77
+Niagara CDSB,726087,Lakeshore Catholic High School,English,150 Janet,Port Colborne,L3K2E7,989,42.89627,-79.24444,4,SP,19.7,NA,0.73,-9,0.37,0.88,3,21.13,SP
+Niagara CDSB,740195,Notre Dame College School,English,64 Smith,Welland,L3C4H4,1140,43.0004,-79.2469,6.2,1.8,19.9,SP,0.8,4,0.41,0.84,-3,19.42,3.64
+Niagara CDSB,790818,Saint Francis Catholic Secondary School,English,541 Lake,St Catharines,L2N4H7,623,43.19382,-79.2533,14.4,3.7,17.7,SP,0.78,-10,0.6,0.88,-2,19.73,7.55
+Niagara CDSB,773662,Saint Michael Catholic High School,English,8699 McLeod,Niagara Falls,L2E6S5,840,43.0705,-79.1429,15.4,2.7,16.1,NA,0.91,0,0.54,0.82,-6,21.91,9.54
+Niagara CDSB,761710,Saint Paul Catholic High School,English,3834 Windermere,Niagara Falls,L2J2Y5,880,43.11741,-79.11019,10.5,2.5,16.6,SP,0.88,-2,0.56,0.78,-7,18.43,12.16
+Nipissing-Parry Sound CDSB,763659,St Joseph-Scollard Hall Secondary School,English,675 O'Brien,North Bay,P1B9R3,857,46.32218,-79.45743,SP,SP,30.7,SP,0.9,8,0.52,0.8,-2,19.75,4.63
+Northeastern CDSB,784488,NCDSB Access Center Secondary School,English,383 Birch Street North,Timmins,P4N6E8,NA,48.48337984,-81.33208752,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Northeastern CDSB,740454,O'Gorman High School,English,150 Ross,Timmins,P4N4M1,402,48.48569,-81.33959,4,SP,18.2,NA,0.64,-13,0.36,0.65,-14,19.85,4.15
+Ottawa CDSB,724777,All Saints Catholic High School,English,5115 Kanata,Kanata,K2K3K5,938,45.32182,-75.92599,9.4,1.1,22.9,SP,0.93,-1,0.66,0.86,-4,9.91,38.18
+Ottawa CDSB,724742,Holy Trinity Catholic High School,English,180 Katimavik,Kanata,K2L4A7,947,45.3081,-75.90231,9.1,1.3,25.3,2.1,0.91,2,0.8,0.91,2,12.2,29.79
+Ottawa CDSB,721085,Immaculata High School,English,140 Main,Ottawa,K1S5P4,576,45.41041,-75.68042,15.6,3.8,27.8,2.6,0.9,0,0.2,0.87,2,30.86,9.76
+Ottawa CDSB,689181,Lester B Pearson Catholic High School,English,2072 Jasmine,Gloucester,K1J8M5,583,45.44333,-75.5958,33.4,16.8,19.9,SP,0.83,3,0.39,0.62,4,28.92,9.83
+Ottawa CDSB,733288,Mother Teresa High School,English,440 Longfields,Nepean,K2J4T1,1073,45.28541,-75.73914,21.8,7.7,21.1,2.1,0.9,-4,0.36,0.86,0,13.17,26.23
+Ottawa CDSB,809020,Notre Dame High School,English,710 Broadview,Ottawa,K2A2M2,482,45.37861,-75.75603,24.3,7.7,25.3,SP,0.65,-29,0.34,0.74,-1,34.1,8.29
+Ottawa CDSB,759970,Sacred Heart High School,English,5870 Abbott,Stittsville,K2S1X4,1130,45.26395,-75.91061,1.9,SP,24.7,1.8,0.88,-6,0.52,0.9,-5,7.84,39.37
+Ottawa CDSB,764914,St Joseph High School,English,3333 Greenbank,Nepean,K2J4J1,747,45.2646,-75.7422,11.2,2.3,17.8,SP,0.96,1,0.48,0.93,3,12.1,30.93
+Ottawa CDSB,864331,St Mark High School,English,1040 Dozois,Manotick,K4M1B2,681,45.24442,-75.64813,SP,NA,24.5,1.5,0.87,-10,0.63,0.87,-1,8.72,19.77
+Ottawa CDSB,704873,St Matthew High School,English,6550 Bilberry,Orleans,K1C2S9,632,45.48039,-75.53238,11.2,SP,27.4,SP,0.92,4,0.41,0.94,6,14.44,21.93
+Ottawa CDSB,836265,St Nicholas Adult High School,English,893 Admiral,Ottawa,K1Z6L6,1117,45.38417,-75.72909,20.9,4.8,SP,NA,NA,NA,NA,N/R,NA,28.37,12.55
+Ottawa CDSB,816132,St Patrick's High School,English,2525 Alta Vista,Ottawa,K1V7T3,911,45.37795,-75.65996,34.6,10.1,19.3,SP,0.76,1,0.42,0.75,-4,37.91,15.09
+Ottawa CDSB,689203,St Paul High School,English,2675 Draper,Ottawa,K2H7A1,575,45.34159,-75.79262,12.9,2.3,28.9,1.9,0.84,13,0.5,0.79,-5,24.54,17.17
+Ottawa CDSB,843296,St Peter High School,English,750 Charlemagne,Orleans,K4A3M4,1115,45.47479,-75.47738,10.1,1.3,24.4,1.5,0.93,-1,0.37,0.87,3,11.88,23.81
+Ottawa CDSB,847313,St Pius X High School,English,1481 Fisher,Ottawa,K2C1X4,915,45.36551,-75.71234,23.1,12.6,22.5,1.5,0.93,4,0.59,0.78,-3,23.12,9.27
+Ottawa CDSB,843510,St. Francis Xavier (9-12) Catholic School,English,3740 Spratt,Gloucester,K1V2M1,1120,45.28978,-75.67076,14.7,2.1,18.8,1.2,0.86,4,0.65,0.9,4,16.62,18.52
+Ottawa-Carleton DSB,890243,A.Y. Jackson Secondary School,English,150 Abbeyhill,Kanata,K2L1H7,732,45.29535,-75.88018,16.9,SP,24,SP,0.93,4,0.36,0.91,1,11.72,34.85
+Ottawa-Carleton DSB,947210,Adult High School,English,300 Rochester,Ottawa,K1R7N4,1213,45.40454,-75.71054,55.1,30.3,NA,NA,N/R,NA,0.02,N/D,NA,37.13,9.97
+Ottawa-Carleton DSB,894362,Bell High School,English,40 Cassidy,Nepean,K2H6K1,990,45.32647,-75.80886,47.1,8.5,37.5,24,0.78,-7,0.58,0.8,-1,21.74,23.22
+Ottawa-Carleton DSB,896705,Brookfield High School,English,824 Brookfield,Ottawa,K1V6J3,585,45.37266,-75.68478,45.6,8.9,29.1,SP,0.72,NA,0.33,0.78,4,26.74,13.44
+Ottawa-Carleton DSB,906514,Cairine Wilson Secondary School,English,975 Orleans,Orleans,K1C2Z5,772,45.48271,-75.54112,13.9,SP,28.6,SP,0.76,-4,0.61,0.85,-2,12.55,22.53
+Ottawa-Carleton DSB,898317,Canterbury High School,English,900 Canterbury,Ottawa,K1G3A7,1280,45.38802,-75.62634,18,1.9,22,4.7,0.9,NA,0.31,0.91,-1,18.03,23.87
+Ottawa-Carleton DSB,902586,Colonel By Secondary School,English,2381 Ogilvie,Gloucester,K1J7N4,1108,45.45504,-75.59999,31.7,2.9,27.3,19.1,0.95,4,0.5,0.95,-2,14.8,27.78
+Ottawa-Carleton DSB,906484,Earl of March Secondary School,English,No. 4 The Parkway,Kanata,K2K1Y4,1145,45.32286,-75.89463,31.4,2.3,21.4,2.4,0.89,-8,0.4,0.92,-2,14.29,38.27
+Ottawa-Carleton DSB,907898,Elizabeth Wyn Wood Secondary Alternate,English,20 Rossland,Nepean,K2G1H6,322,45.35351,-75.73724,7.8,SP,NA,NA,N/R,NA,N/D,N/R,NA,25.42,13.35
+Ottawa-Carleton DSB,911143,Frederick Banting Secondary Alternate Pr,English,1453 Stittsville Main,Stittsville,K2S1A3,200,45.26035907,-75.92296943,7,SP,NA,NA,N/R,NA,N/R,N/R,NA,15.9,22.79
+Ottawa-Carleton DSB,912697,Glebe Collegiate Institute,English,212 Glebe,Ottawa,K1S2C9,1394,45.40179,-75.6972,24.7,4.8,22.1,5.5,0.84,NA,0.25,0.86,-7,21.79,19.15
+Ottawa-Carleton DSB,913472,Gloucester High School,English,2060 Ogilvie,Gloucester,K1J7N8,666,45.43868,-75.5993,46.7,7.1,21.3,SP,0.82,-4,0.38,0.74,4,24.86,10.42
+Ottawa-Carleton DSB,916854,Hillcrest High School,English,1900 Dauphin,Ottawa,K1G2L7,471,45.39853,-75.63905,39.7,3.4,27,SP,0.85,5,0.09,0.75,-6,28.35,19.74
+Ottawa-Carleton DSB,918954,John McCrae Secondary School,English,103 Malvern,Nepean,K2J4T2,968,45.27949,-75.76316,16.3,SP,24.5,1.9,0.95,-1,0.68,0.92,-2,10.7,28.89
+Ottawa-Carleton DSB,922960,Lisgar Collegiate Institute,English,29 Lisgar,Ottawa,K2P0B9,1032,45.42082,-75.68819,30.8,5.7,48.6,36.8,0.83,NA,0.2,0.96,0,26.88,15.78
+Ottawa-Carleton DSB,900494,Longfields Davidson Heights Secondary School,English,149 Berrigan,Nepean,K2J5C6,1419,45.27908,-75.74105,38.1,1.9,15.9,1.1,0.89,1,0.45,0.88,-3,14.84,32.33
+Ottawa-Carleton DSB,925691,Merivale High School,English,1755 Merivale,Nepean,K2G1E2,616,45.34309,-75.72791,27.4,SP,26.5,5.5,0.86,-2,0.62,0.87,3,20.12,9.5
+Ottawa-Carleton DSB,928291,Nepean High School,English,574 Broadview,Ottawa,K2A3V8,1092,45.38379,-75.7589,15,1.4,21.9,3.5,0.94,NA,0.67,0.94,0,17.01,22.01
+Ottawa-Carleton DSB,929425,Norman Johnston Secondary Alternate Prog,English,2401 Cléroux,Ottawa,K1W1A1,233,45.43671,-75.54898,6.4,SP,NA,NA,N/D,NA,N/R,N/R,NA,19.93,16.02
+Ottawa-Carleton DSB,932710,Osgoode Township High School,English,2800 th Line,Metcalfe,K0A2P0,558,45.22887,-75.4696,2.2,SP,28.1,2.3,0.81,NA,0.43,0.91,2,9.81,16.49
+Ottawa-Carleton DSB,925403,Ottawa Technical Secondary School,English,485 Donald,Ottawa,K1K1L8,423,45.42914,-75.64621,18.7,SP,99.8,NA,N/D,NA,0.29,N/R,NA,29.13,12.44
+Ottawa-Carleton DSB,939420,Richard Pfaff Secondary Alternate Site,English,160 Percy,Ottawa,K1R6E5,258,45.40988,-75.70225,13.2,SP,NA,NA,N/D,NA,N/D,N/R,NA,33.15,12.07
+Ottawa-Carleton DSB,938564,Ridgemont High School,English,2597 Alta Vista,Ottawa,K1V7T3,781,45.37606,-75.65965,56.3,17.4,19,SP,0.73,14,0.21,0.65,-13,37.76,12.21
+Ottawa-Carleton DSB,942952,Sir Guy Carleton Secondary School,English,55 Centrepointe,Nepean,K2G5L4,403,45.34671,-75.76514,14.1,NA,84.9,NA,N/D,NA,0.4,0.47,18,25.57,12.63
+Ottawa-Carleton DSB,942014,Sir Robert Borden High School,English,131 Greenbank,Nepean,K2H8R1,818,45.33359461,-75.7816492,24.7,1.3,24.8,2.4,0.83,NA,0.2,0.86,-4,18.49,27.05
+Ottawa-Carleton DSB,942332,Sir Wilfrid Laurier Secondary School,English,1515 Tenth Line,Orleans,K1E3E8,1004,45.47385,-75.49435,21.9,1.4,23.3,1.5,0.85,NA,0.53,0.81,-5,12.36,24.89
+Ottawa-Carleton DSB,942855,South Carleton High School,English,3673 McBean,Richmond,K0A2Z0,1040,45.18625,-75.82802,2.6,SP,25.5,1.3,0.98,6,0.7,0.85,1,8.35,24.77
+Ottawa-Carleton DSB,949159,Urban Aboriginal Alternate High School,English,440 Percy,Ottawa,K1R6E5,24,45.41683,-75.70633,SP,NA,NA,NA,N/D,NA,N/D,N/R,NA,SP,SP
+Ottawa-Carleton DSB,951366,West Carleton Secondary School,English,3088 Dunrobin,Dunrobin,K0A1T0,1204,45.43432,-76.03509,16.4,SP,23.6,SP,0.95,-1,0.74,0.9,1,9.25,25.66
+Ottawa-Carleton DSB,954420,Woodroffe High School,English,2410 Georgina,Ottawa,K2B7M8,763,45.36254,-75.77982,38.4,10.9,27.1,SP,0.58,NA,0.2,0.71,-5,29.29,9.5
+Peel DSB,892203,Applewood Heights Secondary School,English,945 Bloor,Mississauga,L4Y2M8,1004,43.60721,-79.605,57.1,7.9,14.2,NA,0.81,NA,0.64,0.86,-1,23.48,19.11
+Peel DSB,901887,Applewood School,English,3675 THOMAS,MISSISSAUGA,L5M7E6,146,43.55749,-79.74345,41.8,SP,100,NA,NA,NA,NA,NA,NA,21.77,25.56
+Peel DSB,895920,Bramalea Secondary School,English,510 Balmoral,Brampton,L6T1W4,1101,43.71551,-79.70749,41.5,11.2,13.2,NA,0.75,NA,0.37,0.69,-4,22.76,8.52
+Peel DSB,896055,Brampton Centennial Secondary School,English,251 McMurchy,Brampton,L6Y1Z4,1299,43.66693,-79.74829,52.8,5.5,11.2,NA,0.91,NA,0.4,0.77,-7,21.32,27.19
+Peel DSB,918407,Castlebrooke SS Secondary School,English,10 Gardenbrooke,Brampton,L6P3L1,1883,43.78428,-79.67716,65.6,3.1,9.5,SP,0.9,NA,0.21,0.79,6,17.55,30.12
+Peel DSB,899003,Cawthra Park Secondary School,English,1305 Cawthra,Mississauga,L5G4L1,1313,43.57622,-79.57315,28.7,1.1,16.2,NA,0.87,NA,0.53,0.92,-2,19.59,17.1
+Peel DSB,899828,Central Peel Secondary School,English,32 Kennedy,Brampton,L6V1X4,1084,43.6986,-79.75136,49.3,12.3,15.1,NA,0.85,NA,0.26,0.76,0,22.41,11.35
+Peel DSB,901342,Chinguacousy Secondary School,English,1370 WILLIAMS,BRAMPTON,L6S1V3,971,43.7374,-79.72828,61.6,2.1,12.4,NA,0.87,NA,0.69,0.84,-3,19.37,17.93
+Peel DSB,901660,Clarkson Secondary School,English,2524 Bromsgrove,Mississauga,L5J1L8,813,43.50407,-79.64575,42.6,2.7,16.6,NA,0.82,NA,0.42,0.81,-3,20.92,14.16
+Peel DSB,909673,David Suzuki Secondary School,English,45 Daviselm,Brampton,L6X0Z3,1766,43.66955,-79.78667,45.4,4,10,NA,0.78,NA,0.41,0.69,-16,18.2,20.09
+Peel DSB,909092,Erindale Secondary School,English,2021 DUNDAS,MISSISSAUGA,L5K1R2,785,43.53885,-79.66664,43.7,7.3,24.2,NA,0.9,NA,0.2,0.7,-10,26.5,25.84
+Peel DSB,910058,Fletcher's Meadow Secondary School,English,10750 Chinguacousy,Brampton,L7A2Z7,1587,43.69843,-79.82647,48.4,5.7,16,SP,0.78,NA,0.46,0.75,-4,16.97,13.95
+Peel DSB,913189,Glenforest Secondary School,English,3575 Fieldgate,Mississauga,L4X2J6,1305,43.6271,-79.59257,73.3,9.7,16.2,7.5,0.86,NA,0.53,0.91,-5,27.32,24.86
+Peel DSB,913863,Gordon Graydon Memorial Secondary School,English,1490 Ogden,Mississauga,L5E2H8,724,43.58586,-79.57214,60.6,2.3,23.1,NA,0.91,NA,N/R,0.95,-5,24.25,22.94
+Peel DSB,943916,Harold M. Brathwaite Secondary School,English,415 Great Lakes,Brampton,L6R2Z4,1135,43.73971,-79.77068,68.8,4.1,12.8,NA,0.86,NA,0.37,0.82,7,17.4,15.97
+Peel DSB,916269,Heart Lake Secondary School,English,296 Conestoga,Brampton,L6Z3M1,1252,43.71675,-79.78869,35.7,3.4,19.9,6.4,0.68,NA,0.31,0.76,-9,16.7,11.02
+Peel DSB,917559,Humberview Secondary School,English,135 Kingsview,Bolton,L7E3V8,1142,43.88835,-79.73721,12.5,0.9,29.2,7.4,0.77,NA,0.26,0.83,-2,10.66,15.25
+Peel DSB,935244,Jean Augustine Secondary School,English,500 Elbern Markell,Brampton,L6X5L3,NA,43.66761,-79.82633,NA,NA,NA,NA,0.7,NA,0.18,0.83,NA,NA,NA
+Peel DSB,918830,John Fraser Secondary School,English,2665 Erin Centre,Mississauga,L5M5H6,1411,43.55998,-79.71669,65.2,15.9,7.4,NA,0.94,NA,0.6,0.92,2,23.79,40.91
+Peel DSB,930679,Judith Nyman Secondary School,English,1305 WILLIAMS,BRAMPTON,L6S3J8,622,43.73254,-79.73075,21.7,SP,100,NA,N/D,NA,0.11,0.01,-8,19.52,9.57
+Peel DSB,952885,Lincoln M. Alexander Secondary School,English,3545 Morning Star,Mississauga,L4T1Y3,1021,43.72471,-79.63983,60.1,10,23,NA,0.62,NA,0.31,0.58,-7,27.46,9.24
+Peel DSB,924008,Lorne Park Secondary School,English,1324 Lorne Park,Mississauga,L5H3B1,1010,43.53146,-79.62472,26.6,1.9,21.9,9.7,0.86,NA,0.38,0.95,0,16.1,34.12
+Peel DSB,904203,Louise Arbour Secondary School,English,365 Father Tobin,Brampton,L6R0R4,1513,43.75966,-79.76718,65.6,4.1,11.6,NA,0.82,NA,0.57,0.81,4,15.47,28.41
+Peel DSB,925349,Mayfield Secondary School,English,5000 Mayfield,Caledon,L7C0Z5,1822,43.77402,-79.78203,16.1,SP,11.5,NA,0.8,NA,0.3,0.85,-4,13.72,15.15
+Peel DSB,925551,Meadowvale Secondary School,English,6700 Edenwood,Mississauga,L5N3B2,1139,43.57791,-79.76129,38.5,4.3,14.3,NA,0.86,NA,0.35,0.81,-5,16.73,19.07
+Peel DSB,925535,Mississauga Secondary School,English,550 Courtneypark,Mississauga,L5W1L9,1380,43.62509,-79.70288,75.8,7.2,16,NA,0.81,NA,0.67,0.77,-10,21.17,24.25
+Peel DSB,930660,North Park Secondary School,English,10 North Park,Brampton,L6S3M1,1340,43.72024,-79.74828,58.1,2.3,11.6,NA,0.9,NA,0.43,0.82,-6,18.36,15.44
+Peel DSB,905838,Parkholme School,English,10750 Chinguacousy,Brampton,L7A2Z7,232,43.7007,-79.82904,35.8,NA,99.1,NA,NA,NA,NA,NA,NA,17.81,16.16
+Peel DSB,918210,Peel Alternative North,English,315 BARTLEY BULL,BRAMPTON,L6W2L4,43,43.67904,-79.7319,SP,NA,39.5,SP,N/R,NA,N/R,0.55,8,SP,SP
+Peel DSB,943381,Peel Alternative North ISR,English,315 BARTLEY BULL,BRAMPTON,L6W2L4,563,43.67917595,-79.73139548,32.3,3.4,16.5,SP,N/R,NA,N/R,N/R,NA,19.94,15.88
+Peel DSB,918202,Peel Alternative South,English,1500 Ogden,Mississauga,L5E2H8,NA,43.58664,-79.57292,SP,NA,SP,NA,NA,NA,NA,N/R,NA,SP,SP
+Peel DSB,958431,Peel Alternative South ISR,English,1500 Ogden,MISSISSAUGA,L5E2H8,183,43.58664,-79.57292,25.7,SP,19.7,NA,N/D,NA,N/D,N/D,NA,24.94,15.38
+Peel DSB,954252,Peel Alternative West,English,6325 Montevideo,Mississauga,L5N4G7,39,43.58612,-79.74703,SP,SP,28.2,NA,N/R,NA,N/R,N/R,NA,SP,SP
+Peel DSB,933672,Peel Alternative West ISR,English,6975 Meadowvale Town Centre,MISSISSAUGA,L5N2W7,169,43.586069,-79.746767,26,SP,SP,SP,N/R,NA,N/R,N/R,NA,23.47,20.83
+Peel DSB,935832,Port Credit Secondary School,English,70 Mineola,Mississauga,L5G2E5,1176,43.56278,-79.58852,52.8,10.1,17.6,NA,0.9,NA,0.59,0.86,-4,23.8,18.04
+Peel DSB,938009,Rick Hansen Secondary School,English,1150 Dream Crest,Mississauga,L5V1N6,1624,43.5889,-79.68316,70.4,9.4,8.9,NA,0.85,NA,0.61,0.83,-4,22.51,32.43
+Peel DSB,939596,Sandalwood Heights Secondary School,English,2671 Sandalwood,Brampton,L6R0K7,1317,43.76552,-79.74265,70.8,4.9,13.1,NA,0.81,NA,0.29,0.75,-8,16.49,24.66
+Peel DSB,962646,Stephen Lewis Secondary School,English,3675 Thomas,Mississauga,L5M7E6,1531,43.55744,-79.7437,77,15.5,4.8,NA,0.86,NA,0.36,0.87,1,24.64,53.78
+Peel DSB,945978,Streetsville Secondary School,English,72 Joymar,Mississauga,L5M1G3,899,43.57918,-79.71922,37.9,1.4,12.1,NA,0.82,NA,0.25,0.94,5,17.92,20.9
+Peel DSB,948187,T. L. Kennedy Secondary School,English,3100 Hurontario,Mississauga,L5B1N7,638,43.58151,-79.62055,68,23,29.2,NA,0.68,NA,0.11,0.75,-3,32.75,27.56
+Peel DSB,954403,The Woodlands Secondary School,English,3225 Erindale Station,Mississauga,L5C1Y5,994,43.56291,-79.64781,64.5,8.5,42.8,32.5,0.93,NA,0.54,0.9,-5,25.47,23.97
+Peel DSB,918440,Turner Fenton Secondary School,English,7935 Kennedy,Brampton,L6V3N2,1895,43.67505,-79.71904,56.6,2.6,20.6,NA,0.92,NA,0.37,0.79,-3,20.86,17.22
+Peel DSB,951404,West Credit Secondary School,English,6325 Montevideo,Mississauga,L5N4G7,508,43.58601,-79.74652,31.7,SP,94.3,NA,N/D,NA,0.22,0.1,-1,23.58,22.62
+Peterborough Victoria Northum Clarington CDSB,704261,Holy Cross Catholic Secondary School,English,1355 Lansdowne,Peterborough,K9J7M3,642,44.27936,-78.35592,2.8,SP,35.5,SP,0.91,15,0.53,0.69,0,17.33,6.44
+Peterborough Victoria Northum Clarington CDSB,720240,Holy Trinity Catholic Secondary School,English,2260 Courtice,Courtice,L1E2M8,770,43.9019,-78.77342,2.3,SP,28.2,SP,0.85,-3,0.5,0.77,-5,11.4,13.84
+Peterborough Victoria Northum Clarington CDSB,830410,St. Mary Catholic Secondary School,English,1050 Birchwood,Cobourg,K9A5S9,781,43.98332,-78.16963,1.3,SP,27.3,SP,0.8,-13,0.55,0.78,-5,14.74,3.72
+Peterborough Victoria Northum Clarington CDSB,845361,St. Peter Catholic Secondary School,English,730 Medical,Peterborough,K9J8M4,1097,44.30848,-78.34399,2.4,SP,26.3,SP,0.83,-8,0.67,0.82,-2,16.84,7.47
+Peterborough Victoria Northum Clarington CDSB,851116,St. Stephen Catholic Secondary School,English,300 Scugog,Bowmanville,L1C3K2,995,43.92853,-78.70023,3.4,SP,27.2,SP,0.88,-3,0.81,0.79,0,11.99,3.09
+Peterborough Victoria Northum Clarington CDSB,855006,St. Thomas Aquinas Catholic Secondary School,English,260 Angeline,Lindsay,K9V0J8,279,44.33158,-78.74152,SP,SP,36.6,NA,0.9,-10,0.65,0.66,-18,18.28,SP
+Provincial Schools,900559,Centre Jules-Léger ÉA Difficulté,French,281 av Lanark,Ottawa,K1Z6R8,NA,45.39935193,-75.754153856,NA,NA,NA,NA,NA,NA,NA,S. R.,NA,NA,NA
+Provincial Schools,900567,Centre Jules-Léger ÉP Surdicécité,French,281 av Lanark,Ottawa,K1Z6R8,NA,45.39935193,-75.754153856,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Provincial Schools,900540,Centre Jules-Léger ÉP Surdité palier,French,281 av Lanark,Ottawa,K1Z6R8,NA,45.39935193,-75.754153856,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Provincial Schools,909203,E C Drury/Trillium Demonstration School,English,347 Ontario,Milton,L9T3X9,23,43.512157452,-79.869089035,NA,NA,NA,NA,N/R,NA,N/R,N/R,NA,NA,NA
+Provincial Schools,909190,Ernest C Drury School for the Deaf,English,255 Ontario,Milton,L9T2M5,67,43.514293376,-79.867683206,NA,NA,NA,NA,N/R,NA,N/R,N/R,NA,NA,NA
+Provincial Schools,947202,Robarts Provincial School for the Deaf,English,1515 Cheapside,London,N5V3N9,NA,43.012769372,-81.20868173,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Provincial Schools,947229,Robarts/Amethyst Demonstration Secondary School,English,1515 Cheapside,London,N5V3N9,18,43.012769372,-81.20868173,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Provincial Schools,941840,Sir James Whitney School for the Deaf,English,350 Dundas,Belleville,K8P1B2,27,44.150891405,-77.405027167,NA,NA,NA,NA,N/R,NA,N/R,N/R,NA,NA,NA
+Provincial Schools,941859,Sir James Whitney/Sagonaska Secondary School,English,350 Dundas,Belleville,K8P1B2,12,44.150891405,-77.405027167,NA,NA,NA,NA,N/R,NA,N/R,NA,NA,NA,NA
+Provincial Schools,932310,W Ross Macdonald Deaf Blind Secondary School,English,350 Brant,Brantford,N3T3J9,14,43.263854832,-80.299277489,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Provincial Schools,932302,W Ross Macdonald Provincial Secondary School,English,350 Brant,Brantford,N3T3J9,91,43.263854832,-80.299277489,NA,NA,NA,NA,N/R,NA,N/R,N/R,NA,NA,NA
+Rainbow DSB,911609,Adult Day School,English,154 College,Sudbury,P3C4Y2,73,46.49718,-80.999,SP,SP,NA,NA,NA,NA,NA,NA,NA,30.9,SP
+Rainbow DSB,941542,Barrydowne College Senior,English,1400 Barrydowne,Sudbury,P3A3V8,183,46.52819,-80.94144,SP,NA,25.7,NA,NA,NA,NA,N/D,NA,24.64,SP
+Rainbow DSB,901121,Chelmsford Valley District Composite School,English,3594,Chelmsford,P0M1L0,219,46.5699,-81.19392,SP,SP,23.3,NA,0.68,NA,0.18,0.54,-8,15.14,SP
+Rainbow DSB,895237,Confederation Secondary School,English,1918 Main,Val Caron,P3N1B4,592,46.6117,-81.02007,SP,NA,22.1,NA,0.71,NA,0.42,0.58,-15,12.21,4.01
+Rainbow DSB,909319,Espanola High School,English,147 Spruce,Espanola,P5E1R7,526,46.26322,-81.77023,SP,SP,32.3,NA,0.66,NA,0.27,0.73,1,23.69,SP
+Rainbow DSB,920622,Lasalle Secondary School,English,1545 Kennedy,Sudbury,P3A2G1,724,46.52464,-80.93934,1.7,SP,31.2,NA,0.88,NA,0.29,0.76,3,20.94,5.49
+Rainbow DSB,923354,Lively District Secondary School,English,265 Fifth,Lively,P3Y1M4,293,46.43686,-81.14184,SP,NA,31.7,NA,0.79,NA,0.32,0.75,1,9.89,13.38
+Rainbow DSB,923613,Lockerby Composite School,English,1391 Ramsey View,Sudbury,P3E5T4,737,46.46535,-81.00535,1.9,1.5,9.8,SP,0.77,NA,0.4,0.95,4,17.25,12.07
+Rainbow DSB,923486,Lo-Ellen Park Secondary School,English,275 Loach's,Sudbury,P3E2P8,598,46.44913,-80.98797,3.8,SP,17.6,SP,0.79,NA,0.21,0.85,0,14.97,21.99
+Rainbow DSB,924598,M W Moore Secondary School,English,Hwy,Shining Tree,P0M2X0,NA,47.55,-81.266667,NA,NA,NA,NA,NA,NA,NA,NA,NA,SP,SP
+Rainbow DSB,924679,Manitoulin Secondary School,English,107 Bay,M'Chigeeng,P0P1G0,450,45.83232,-82.16211,SP,NA,26,NA,0.75,NA,0.27,0.66,-1,22.42,2.83
+Rainbow DSB,902935,N'Swakamok Native Alternative School,English,110 Elm,Sudbury,P3C1T6,39,46.49376439,-80.99905036,NA,NA,NA,NA,N/D,NA,N/D,N/D,NA,35.24,SP
+Rainbow DSB,941298,Sudbury Secondary School,English,154 College,Sudbury,P3C4Y2,612,46.49711,-80.99864,SP,SP,25,SP,0.64,NA,0.5,0.74,12,28.3,4.18
+Rainy River DSB,892939,Atikokan High School,English,324 Mercury,Atikokan,P0T1C0,153,48.76249,-91.61241,NA,SP,22.2,NA,0.94,4,0.45,0.76,-10,15.61,SP
+Rainy River DSB,910872,Fort Frances High School,English,440 McIrvine,Fort Frances,P9A3T8,810,48.60954,-93.42449,4.7,NA,22.8,NA,0.8,-14,0.39,0.62,-12,20.7,4.04
+Rainy River DSB,937657,Rainy River High School,English,1 Mill,Rainy River,P0W1L0,176,48.7191,-94.5637,SP,SP,24.4,NA,0.9,10,0.08,0.77,2,25.75,9.93
+Renfrew County CDSB,689939,Bishop Smith Catholic High School,English,362 Carmody,Pembroke,K8A4G2,591,45.81199,-77.10916,SP,NA,26.2,NA,0.86,8,0.63,0.85,0,16.07,2.36
+Renfrew County CDSB,814962,St Joseph's High School,English,835 First,Renfrew,K7V4E1,439,45.46486,-76.67097,SP,SP,30.1,SP,0.99,-1,0.98,0.9,2,19.05,3.46
+Renfrew County DSB,892416,Arnprior District High School,English,59 Ottawa,Arnprior,K7S1X2,663,45.43902,-76.35389,2,SP,15.8,SP,0.84,-2,0.55,0.87,3,16.16,6.49
+Renfrew County DSB,925365,Fellowes High School,English,420 Bell,Pembroke,K8A2K5,797,45.81517,-77.09348,SP,NA,18.9,SP,0.66,5,0.16,0.72,-4,15.69,1.78
+Renfrew County DSB,904767,Mackenzie Community School - Secondary School,English,87 Brockhouse,Deep River,K0J1P0,256,46.10603,-77.48857,9.4,SP,13.7,NA,0.89,3,0.44,0.84,-4,10.58,11.88
+Renfrew County DSB,924431,Madawaska Valley District High School,English,341 John,Barry's Bay,K0J1B0,394,45.48100601,-77.67323989,SP,NA,15,NA,0.61,-19,0.32,0.68,4,19.17,SP
+Renfrew County DSB,932434,Opeongo High School,English,1990 Lot Conc Bromley Twp,Douglas,K0J1S0,368,45.5613,-76.9919,SP,NA,15.5,SP,0.91,31,0.42,0.74,-5,18.07,SP
+Renfrew County DSB,937916,Renfrew Collegiate Institute,English,184 Bonnechere,Renfrew,K7V1Z5,394,45.47041,-76.68652,SP,NA,18.8,NA,0.83,15,0.63,0.63,-7,19.63,SP
+Renfrew County DSB,937983,Renfrew County Adult Day School,English,480 Mary,Pembroke,K8A5W9,164,45.8219,-77.1255,NA,NA,NA,NA,NA,NA,NA,N/D,NA,21.14,SP
+Renfrew County DSB,902747,Valour JK to 12 School - Secondary School,English,19 Leeder Lane,Petawawa,K8H0B8,441,45.89509,-77.25698,SP,SP,17.9,SP,0.83,-4,0.51,0.8,3,11.81,8.09
+Simcoe County DSB,941174,Alliston Campus,English,46 Wellington,Alliston,L9R2B8,38,44.15267,-79.87135,SP,NA,SP,NA,NA,NA,NA,N/D,NA,SP,SP
+Simcoe County DSB,893064,Banting Memorial District High School,English,203 Victoria,Alliston,L9R1G5,1534,44.15543,-79.85988,1.7,SP,27.4,1.6,0.82,8,0.59,0.88,6,13.26,4.71
+Simcoe County DSB,950519,Barrie Campus,English,320 Bayfield,Barrie,L4M3C1,86,44.40096,-79.70025,SP,NA,NA,NA,NA,NA,NA,N/D,NA,23.92,SP
+Simcoe County DSB,893323,Barrie North Collegiate Institute,English,110 Grove,Barrie,L4M2P3,944,44.40051,-79.68885,3.8,SP,26.5,4.1,0.81,1,0.42,0.77,-7,22.72,7.87
+Simcoe County DSB,894060,Bear Creek Secondary School,English,100 Red Oak,Barrie,L4N9M5,1506,44.33173,-79.73371,4.2,0.7,24.6,2,0.81,-2,0.51,0.79,-1,14.14,9.48
+Simcoe County DSB,899701,Bradford Campus,English,157 Holland,BRADFORD,L3Z2B7,18,44.11578,-79.55911,SP,SP,NA,NA,NA,NA,NA,N/D,NA,SP,SP
+Simcoe County DSB,895792,Bradford District High School,English,70 Professor Day,Bradford,L3Z2A3,1093,44.11248,-79.58019,11.3,1.6,29.2,1.7,0.84,-9,0.52,0.84,3,13.64,3.97
+Simcoe County DSB,902915,Collingwood Campus,English,180 Ontario,Collingwood,L9Y1M6,23,44.50062,-80.2114,NA,NA,NA,NA,NA,NA,NA,N/D,NA,SP,SP
+Simcoe County DSB,902551,Collingwood Collegiate Institute,English,6 Cameron,Collingwood,L9Y2J2,1320,44.48727,-80.21498,2.7,SP,27.7,2.3,0.77,5,0.37,0.87,4,21.82,12.12
+Simcoe County DSB,907383,Eastview Secondary School,English,421 Grove,Barrie,L4M5S1,1428,44.40571,-79.66101,4,1,25.6,1.7,0.89,2,0.53,0.88,5,19.47,8.99
+Simcoe County DSB,908274,Elmvale District High School,English,25 Lawson,Elmvale,L0L1P0,401,44.57957,-79.86481,3.7,SP,22.4,SP,0.51,-28,0.36,0.93,24,15.52,3.53
+Simcoe County DSB,928151,Georgian Bay District Secondary School,English,865 Hugel,Midland,L4R1X9,NA,44.7420644,-79.9013503,NA,NA,NA,NA,N/R,NA,0.18,0.73,NA,NA,NA
+Simcoe County DSB,918253,Innisdale Secondary School,English,95 Little,Barrie,L4N2Z4,1579,44.36064,-79.68367,5.6,0.8,24.3,2.3,0.68,-14,0.2,0.89,4,16.33,10.19
+Simcoe County DSB,927724,Nantyr Shores Secondary School,English,1146 Anna Maria,Innisfil,L9S1W2,1179,44.30515,-79.55523,3,SP,27.7,1.3,0.73,5,0.42,0.89,10,15.48,3.73
+Simcoe County DSB,931727,North Simcoe Campus,English,51 Dunlop,Penetanguishene,L9M1J3,NA,44.73487487,-79.87261546,NA,NA,NA,NA,NA,NA,NA,N/D,NA,SP,SP
+Simcoe County DSB,902636,Nottawasaga Pines Secondary School,English,8505 County Road,Angus,L0M1B1,695,44.31267,-79.88419,2.4,NA,27.6,SP,0.82,11,0.57,0.74,-7,13.45,SP
+Simcoe County DSB,902276,Orillia Campus,English,575 WEST,ORILLIA,L3V7N6,61,44.60747,-79.41911,SP,NA,NA,NA,NA,NA,NA,N/D,NA,27.09,SP
+Simcoe County DSB,968729,Orillia Secondary School,English,250 Collegiate,Orillia,L3V7S5,1063,44.61232,-79.43422,1.5,SP,26.5,1.3,0.79,NA,0.48,0.76,NA,18.58,4.62
+Simcoe County DSB,917231,Simcoe Alternative Secondary School,English,1170 Hwy,Midhurst,L0L1X0,306,44.38294,-79.69399,SP,NA,37.6,SP,NA,NA,NA,0.18,-44,22.62,SP
+Simcoe County DSB,945196,Stayner Collegiate Institute,English,7578 Hwy,Stayner,L0M1S0,331,44.42695,-80.09696,SP,NA,24.2,SP,0.84,33,0.17,0.79,5,14.82,SP
+Simcoe County DSB,948870,Twin Lakes Secondary School,English,381 Birch,Orillia,L3V2P5,852,44.59354,-79.43391,1.4,SP,31.7,2.6,0.73,-4,0.39,0.73,-2,24.04,2
+Simcoe Muskoka CDSB,711098,Holy Trinity High School,English,100 Melbourne,Bradford,L3Z2B3,634,44.1077,-79.5789,6.5,3.2,18.9,SP,0.77,7,0.23,0.77,-5,13.36,6.03
+Simcoe Muskoka CDSB,723630,Jean Vanier Catholic High School,English,160 Collins,Collingwood,L9Y4R1,515,44.4898,-80.2073,SP,SP,26.2,SP,0.73,-9,0.43,0.73,-6,19.32,12.55
+Simcoe Muskoka CDSB,751103,Patrick Fogarty Secondary School,English,15 Commerce,Orillia,L3V6S1,743,44.62628,-79.43166,SP,SP,19.9,NA,0.79,-1,0.64,0.79,-3,20.74,5.08
+Simcoe Muskoka CDSB,786691,St Dominic Catholic Secondary School,English,955 Cedar,Bracebridge,P1L0A1,194,45.048,-79.2958,SP,SP,43.3,NA,0.88,2,0.35,0.72,14,19.17,6.65
+Simcoe Muskoka CDSB,801275,St Joan of Arc High School,English,460 Mapleton,Barrie,L4N9C2,1182,44.3498,-79.7334,3.3,1,21.2,1.1,0.82,8,0.33,0.75,-5,15.14,10.25
+Simcoe Muskoka CDSB,813389,St Joseph's Separate School,English,243 Cundles,Barrie,L4M6L1,711,44.41307,-79.68387,1.5,SP,22.6,SP,0.65,-7,0.39,0.8,4,20.93,9.67
+Simcoe Muskoka CDSB,844012,St Peter's Secondary School,English,201 Ashford,Barrie,L4N6A3,1112,44.3549,-79.6398,2.5,SP,18.4,SP,0.71,10,0.36,0.77,-7,15.63,10.07
+Simcoe Muskoka CDSB,852775,St Theresa's Separate School,English,347 Galloway,Midland,L4R5B2,1031,44.7397,-79.8707,SP,SP,26,SP,0.73,3,0.48,0.78,3,20.82,2.14
+Simcoe Muskoka CDSB,773050,St Thomas Aquinas Catholic Secondary School,English,2 Nolan,Tottenham,L0G1W0,636,44.0351,-79.80868,SP,SP,28.5,SP,0.85,-3,0.33,0.76,-6,13.35,4.69
+St Clair CDSB,836788,St Patrick's Catholic Secondary School,English,1001 The Rapids,Sarnia,N7S6K2,1285,42.9949,-82.3515,SP,0.8,25,SP,0.77,-8,0.58,0.86,-3,16.26,7.33
+St Clair CDSB,864366,Ursuline College (The Pines) Catholic Secondary School,English,85 Grand,Chatham,N7L1B6,1259,42.40662,-82.19408,1.4,SP,27.6,SP,0.74,-13,0.57,0.81,-4,19.05,4.21
+Sudbury CDSB,689351,Bishop Alexander Carter Catholic Secondary School,English,539 Francis,Hanmer,P3P1E6,321,46.65692,-80.9674,SP,NA,17.4,NA,0.94,26,0.39,0.66,-18,11.74,SP
+Sudbury CDSB,730963,Marymount Academy Catholic School,English,165 D'Youville,Sudbury,P3C5E7,247,46.49652,-80.9948,SP,SP,5.3,SP,0.93,1,N/R,0.92,5,17.03,9.28
+Sudbury CDSB,777196,St Benedict Catholic Secondary School,English,2993 Algonquin,Sudbury,P3E4X5,555,46.43514,-80.98446,SP,SP,20.4,SP,0.97,3,0.58,0.85,-4,16.16,17.02
+Sudbury CDSB,783358,St Charles College,English,1940 Hawthorne,Sudbury,P3A1M8,825,46.51773,-80.92679,1.3,SP,24.6,SP,0.74,4,0.48,0.87,2,20.27,4.79
+Superior-Greenstone DSB,912565,Geraldton Composite School,English,500 Second,Geraldton,P0T1M0,212,49.72188,-86.95383,SP,NA,43.9,NA,1,0,0.48,0.42,-25,33.86,SP
+Superior-Greenstone DSB,940666,Lake Superior High School,English,19 Hudson,Terrace Bay,P0T2W0,95,48.78578,-87.10166,SP,SP,27.4,NA,0.46,-4,0.42,0.85,12,12.5,SP
+Superior-Greenstone DSB,924652,Manitouwadge High School,English,200 Manitou,Manitouwadge,P0T2C0,92,49.11746,-85.84194,SP,NA,27.2,NA,0.18,-64,N/R,0.59,-10,20.56,SP
+Superior-Greenstone DSB,924784,Marathon High School,English,14 Hemlo,Marathon,P0T2E0,188,48.71794,-86.37198,NA,NA,32.4,SP,0.6,NA,0.38,0.63,-3,20.01,SP
+Superior-Greenstone DSB,929336,Nipigon Red Rock District High School,English,20 Frost,Red Rock,P0T2P0,182,48.93779,-88.26017,SP,SP,28.6,SP,0.71,23,0.67,0.55,-9,26.13,SP
+Thames Valley DSB,890073,A B Lucas Secondary School,English,656 Tennent,London,N5X1L8,1460,43.03296,-81.24696,23.3,2.7,13.8,3.4,0.87,8,0.35,0.84,-8,16.3,23.73
+Thames Valley DSB,892670,Arthur Voaden Secondary School,English,41 Flora,St Thomas,N5P2X5,482,42.78053,-81.18827,SP,SP,39.6,SP,0.5,-14,0.31,0.41,-21,23.42,SP
+Thames Valley DSB,947148,B Davison Secondary School Secondary School,English,785 Trafalgar,London,N5Z1E6,238,42.97768,-81.21986,SP,NA,86.1,NA,NA,NA,NA,N/R,NA,31.93,SP
+Thames Valley DSB,899305,Central Elgin Collegiate Institute,English,201 Chestnut,St Thomas,N5R2B5,588,42.76986,-81.17411,2.7,SP,15,2.2,0.86,9,0.52,0.88,3,17.39,4.8
+Thames Valley DSB,901644,Clarke Road Secondary School,English,300 Clarke,London,N5W5N4,1172,42.9998,-81.17189,3.9,SP,24.4,SP,0.79,-2,0.34,0.6,0,23.96,1.01
+Thames Valley DSB,902420,College Avenue Secondary School,English,700 College,Woodstock,N4S2C8,825,43.12406,-80.74527,2.2,NA,22.5,SP,0.75,-4,0.38,0.6,-7,17.27,3.15
+Thames Valley DSB,906581,East Elgin Secondary School,English,362 Talbot,Aylmer,N5H1K6,1310,42.77275,-80.99164,22.7,1.6,16,SP,0.71,-7,0.4,0.59,-6,16.75,0.8
+Thames Valley DSB,911259,G A Wheable Secondary School,English,70 Jacqueline,London,N5Z3P7,68,42.97174,-81.21976,16.2,NA,NA,NA,NA,NA,NA,N/D,NA,27.86,SP
+Thames Valley DSB,912824,Glencoe District High School,English,3581 Concession,Glencoe,N0L1M0,196,42.74404,-81.71129,NA,NA,30.6,SP,0.87,19,0.35,0.59,-26,16.72,SP
+Thames Valley DSB,912956,Glendale High School,English,37 Glendale,Tillsonburg,N4G1J6,851,42.86713,-80.74164,3.3,NA,16.7,1.2,0.79,-14,0.46,0.72,2,16.34,11.49
+Thames Valley DSB,914908,H B Beal Secondary School,English,525 Dundas,London,N6B1W5,1902,42.98728,-81.23471,16.5,6.6,20.7,0.8,0.74,6,0.27,0.65,-8,27.75,7.41
+Thames Valley DSB,918024,Huron Park Secondary School,English,900 Cromwell,Woodstock,N4S5B5,768,43.13965,-80.73872,2,SP,18,1.6,0.8,1,0.56,0.74,-4,12.55,3.84
+Thames Valley DSB,918156,Ingersoll District Collegiate Institute,English,37 Alma,Ingersoll,N5C1N1,827,43.04539,-80.88844,SP,NA,22.5,SP,0.88,6,0.45,0.66,1,13.24,5.68
+Thames Valley DSB,923745,London Central Secondary School,English,509 Waterloo,London,N6B2P8,991,42.98874,-81.24468,27,2,21.2,9.4,0.92,-2,0.47,0.98,0,21.53,12.38
+Thames Valley DSB,923877,London South Collegiate Institute,English,371 Tecumseh,London,N6C1T4,653,42.96922,-81.243,8.6,SP,18.2,3.8,0.79,6,0.42,0.74,-2,21.88,8.56
+Thames Valley DSB,904503,Lord Dorchester Secondary School,English,61 Queen,Dorchester,N0L1G0,477,42.98697,-81.06194,SP,NA,15.9,SP,0.94,2,0.68,0.81,-4,10.67,SP
+Thames Valley DSB,925560,Medway High School,English,14405 Medway,Arva,N0M1C0,1117,43.05116,-81.28909,3.8,SP,22.2,3.7,0.86,-3,0.43,0.8,-7,8.93,17.52
+Thames Valley DSB,927430,Montcalm Secondary School,English,1350 Highbury,London,N5Y1B5,767,43.02464,-81.21656,26.3,11,26.3,SP,0.58,-12,0.33,0.46,-13,34.69,1.97
+Thames Valley DSB,930113,North Middlesex District High School,English,100 Main,Parkhill,N0M2K0,190,43.15368,-81.68604,SP,NA,20,SP,0.93,39,0.7,0.68,-10,10.37,SP
+Thames Valley DSB,931934,Oakridge Secondary School,English,1040 Oxford,London,N6H1V4,1016,42.97654,-81.314,19.5,2.7,14,4.2,0.81,7,0.47,0.89,-5,16.7,25.08
+Thames Valley DSB,944939,Parkside Collegiate Institute,English,241 Sunset,St Thomas,N5R3C2,931,42.75588,-81.19253,SP,NA,17.1,SP,0.87,-1,0.41,0.72,-6,16.78,5.17
+Thames Valley DSB,940437,Saunders Secondary School,English,941 Viscount,London,N6K1H5,1558,42.94598,-81.29135,16.7,1.9,22.8,1,0.82,-3,0.39,0.65,-9,21.44,12.18
+Thames Valley DSB,941743,Sir Frederick Banting Secondary School,English,125 Sherwood Forest,London,N6G2C3,1346,43.00223,-81.30486,19.2,2.3,22.4,2,0.82,4,0.25,0.83,-4,23.49,19.81
+Thames Valley DSB,942162,Sir Wilfrid Laurier Secondary School,English,450 Millbank,London,N6C4W7,1081,42.94659,-81.20609,14.5,SP,18.2,1.5,0.62,-11,0.37,0.74,-3,22.12,5.67
+Thames Valley DSB,945846,Strathroy District Collegiate Institute,English,361 Second,Strathroy,N7G4J8,1144,42.98083,-81.60757,SP,NA,25.5,1,0.93,3,0.7,0.68,-10,15.55,7.01
+Thames Valley DSB,947237,Thames Valley Alternative Secondary School,English,70 Jacqueline,London,N5Z3P7,226,42.99683,-81.20719,5.8,NA,SP,NA,N/R,NA,N/R,N/R,NA,27.13,SP
+Thames Valley DSB,951439,West Elgin Secondary School,English,139 Graham,West Lorne,N0L2P0,337,42.60049,-81.60189,SP,SP,22.6,SP,0.84,4,0.61,0.63,2,14.37,SP
+Thames Valley DSB,952346,Westminster Secondary School,English,230 Base Line,London,N6J1W1,529,42.95854,-81.27723,42.7,11.7,21.9,SP,1,10,0.23,0.71,10,30.77,4.09
+Thames Valley DSB,954551,Woodstock Collegiate Institute,English,35 Riddell,Woodstock,N4S6L9,574,43.13151,-80.7577,SP,NA,17.9,2.8,0.52,-18,0.37,0.82,6,16.29,4.67
+Thunder Bay CDSB,798193,St Ignatius High School,English,285 Gibson,Thunder Bay,P7A2J6,1189,48.45321,-89.19637,1.9,SP,8.9,SP,0.88,1,0.68,0.78,-7,17.78,8.46
+Thunder Bay CDSB,687111,St Patrick High School,English,621 South Selkirk,Thunder Bay,P7E1T9,1093,48.37506,-89.26013,2.2,SP,13.4,SP,0.82,9,0.42,0.76,-12,19.69,4.39
+Thunder Bay CDSB,863657,TB Catholic Alternative Education,English,621 South Selkirk,Thunder Bay,P7E1T9,NA,48.375143964,-89.260773973,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Toronto CDSB,689360,Bishop Allen Academy Catholic Secondary School,English,721 Royal York,Toronto,M8Y2T3,1540,43.634,-79.50543,30.7,1.5,24.5,10.9,0.84,-6,0.39,0.91,-5,18.34,14.7
+Toronto CDSB,691798,Bishop Marrocco/Thomas Merton Catholic Secondary School,English,1515 Bloor,Toronto,M6P1A3,888,43.65644,-79.45194,54.3,10.5,33.7,SP,0.73,-7,0.46,0.61,-5,27.52,5.27
+Toronto CDSB,685550,Blessed Archbishop Romero Catholic Secondary School,English,99 Humber,Toronto,M6L2H4,755,43.68057,-79.48169,52.2,10.6,32.1,SP,0.78,-10,0.32,0.7,-2,28.2,3.57
+Toronto CDSB,694193,Blessed Cardinal Newman Catholic School,English,100 BRIMLEY,SCARBOROUGH,M1M3X4,1200,43.715,-79.23919,28.3,3.2,20.4,2.2,0.73,-4,0.33,0.83,-4,26.15,11.46
+Toronto CDSB,690961,Brebeuf College School,English,211 Steeles,Toronto,M2M3Y6,1015,43.80172,-79.40291,46.5,11.1,22.2,2.7,0.82,6,0.48,0.74,-4,26.56,19.65
+Toronto CDSB,694550,Cardinal Carter Academy for the Arts,English,36 Greenfield,Toronto,M2N3C8,676,43.76381,-79.40968,22.9,1.6,18,8.9,0.92,3,N/R,0.97,2,22.59,18.95
+Toronto CDSB,695947,Chaminade College School,English,490 Queen's,Toronto,M6L1M8,913,43.70979,-79.49579,27.3,3,22.2,4.6,0.9,16,0.32,0.8,4,23.45,3.95
+Toronto CDSB,702935,Dante Alighieri Academy,English,60 Playfair,Toronto,M6B2P9,1015,43.71017,-79.45802,55.1,15.8,27.4,SP,0.68,4,0.38,0.74,0,25.29,4.09
+Toronto CDSB,703184,Don Bosco Catholic Secondary School,English,2 St Andrew's,Toronto,M9R1V8,287,43.70115,-79.54979,35.9,16,29.3,SP,NA,NA,NA,N/D,NA,34.38,8.22
+Toronto CDSB,707589,Father Henry Carr Catholic Secondary School,English,1760 Martin Grove,Toronto,M9V3S4,949,43.73616,-79.5916,33.3,19.9,16.3,SP,0.67,7,0.86,0.67,1,34.48,13.53
+Toronto CDSB,731951,Father John Redmond Catholic Secondary School,English,28 Colonel Samuel Smith Park,Toronto,M8V4B7,1153,43.59459,-79.51625,27.8,2,28.4,9.9,0.94,4,0.64,0.9,-6,19.35,10.17
+Toronto CDSB,707708,Francis Libermann Catholic High School,English,4640 Finch,Toronto,M1S4G2,875,43.80674,-79.27423,35.3,5.8,25.3,6.2,0.95,14,0.46,0.76,-10,28.61,15.54
+Toronto CDSB,723096,James Cardinal McGuigan Catholic High School,English,1440 Finch,Toronto,M3J3G3,819,43.76319,-79.49302,43.8,27.1,23.8,SP,0.96,0,0.48,0.59,-11,33.63,6.34
+Toronto CDSB,723428,Jean Vanier Catholic Secondary School,English,959 Midland,Toronto,M1K4G4,1000,43.73783,-79.25952,49,22,18,SP,0.76,-10,0.35,0.72,-3,31.21,10.63
+Toronto CDSB,728055,Loretto Abbey Catholic Secondary School,English,101 Mason,Toronto,M5M3E2,956,43.74088,-79.4111,28.9,3.7,12.1,3.9,0.85,1,0.32,0.89,-5,21.33,16.85
+Toronto CDSB,728063,Loretto College School,English,151 Rosemount,Toronto,M6H2N1,515,43.6648,-79.41109,55.7,9.3,21.6,SP,0.65,-10,0.21,0.7,-5,25.33,3.46
+Toronto CDSB,729019,Madonna Catholic Secondary School,English,20 Dubray,Toronto,M3K1V5,688,43.72903,-79.47782,44.3,23,22.2,SP,0.89,10,0.31,0.71,-11,27.71,6
+Toronto CDSB,730653,Marshall McLuhan Catholic Secondary School,English,1107 Avenue,Toronto,M5N3B1,1009,43.70771,-79.41009,54.8,9.2,21.4,2.1,0.72,-10,0.48,0.81,-5,25.07,8.55
+Toronto CDSB,730882,Mary Ward Catholic Secondary School,English,3200 Kennedy,Toronto,M1V3S8,1066,43.81339,-79.30265,43.1,3.7,18.3,7.7,0.77,-11,0.37,0.94,4,27.6,16.27
+Toronto CDSB,731820,Michael Power/St Joseph High School,English,105 Eringate,Toronto,M9C3Z7,1995,43.66014,-79.58226,30,2.8,22.3,6.2,0.87,-1,0.55,0.83,-7,19.73,14.51
+Toronto CDSB,732443,Monsignor Percy Johnson Catholic High School,English,2170 Kipling,Toronto,M9W4K9,969,43.7217,-79.57147,30,6.5,22.3,SP,0.65,1,0.38,0.69,-5,28.64,6.95
+Toronto CDSB,733474,Msgr Fraser College (Alternate Study) Secondary School,English,700 Markham,Toronto,M6G2M3,220,43.66746,-79.41348,40,SP,35.9,SP,NA,NA,NA,N/D,NA,29,6.25
+Toronto CDSB,748504,Msgr Fraser College (Midland North),English,100 Fundy Bay,Toronto,M1W3G1,123,43.8088145,-79.3166585,26.8,SP,26,SP,NA,NA,NA,N/R,NA,27.63,16.66
+Toronto CDSB,722900,Msgr Fraser College (Midtown Campus),English,36 Eglinton,Toronto,M4R1A1,108,43.70664927,-79.39880353,33.3,NA,25,SP,NA,NA,NA,N/D,NA,26.25,14.8
+Toronto CDSB,927830,Msgr Fraser College (Norfinch Campus),English,45 Norfinch,Toronto,M3N1W8,205,43.75748,-79.52743,46.3,28.3,28.3,NA,NA,NA,NA,N/R,NA,33.36,10.1
+Toronto CDSB,784870,Msgr Fraser College (Northeast),English,11 Aspenwood,Toronto,M2H2G2,46,43.80728,-79.36276,28.3,SP,34.8,NA,NA,NA,NA,N/R,NA,29.22,SP
+Toronto CDSB,743482,Msgr Fraser College (Southwest),English,30 Humbert,Toronto,M6J1M5,62,43.64601,-79.42114,48.4,SP,53.2,SP,NA,NA,NA,N/R,NA,29.85,SP
+Toronto CDSB,802247,Msgr Fraser College (St. Martin Campus),English,55 Salisbury,Toronto,M4X1C5,23,43.6675,-79.36442,SP,NA,73.9,NA,N/R,NA,N/R,N/R,NA,SP,SP
+Toronto CDSB,733490,Msgr Fraser Orientation Centre,English,146 Isabella,Toronto,M4Y1P6,NA,43.66705069,-79.41325608,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Toronto CDSB,680354,Msgr Fraser-Isabella,English,146 Isabella,Toronto,M4Y1P6,199,43.66967,-79.37684,59.8,40.2,23.6,NA,NA,NA,NA,N/D,NA,30.29,11.77
+Toronto CDSB,685100,Msgr Fraser-Midland,English,2900 Midland,Toronto,M1S3K8,130,43.80105,-79.28541,50.8,31.5,33.1,SP,NA,NA,NA,N/D,NA,29.81,15.95
+Toronto CDSB,734080,Neil McNeil High School,English,127 Victoria Park,Toronto,M4E3S2,868,43.67912,-79.2831,24,2.8,22.6,3.8,0.93,1,0.67,0.77,-12,24.69,13.03
+Toronto CDSB,738115,Notre Dame Catholic High School,English,12 Malvern,Toronto,M4E3E1,703,43.68088,-79.29292,30.3,2.6,16.1,2.1,0.92,1,0.53,0.86,-5,27.14,13.78
+Toronto CDSB,763772,Senator O'Connor College School,English,60 Rowena,Toronto,M3A3R2,1271,43.75073,-79.31672,33.9,5.4,20.5,6,0.72,-11,0.32,0.8,-4,26.49,15.8
+Toronto CDSB,751537,St John Paul II Catholic Secondary School,English,685 Military,Toronto,M1E4P6,1351,43.79031,-79.199,29.1,3.9,16.2,2.1,0.83,1,0.37,0.85,5,24.76,12.06
+Toronto CDSB,814954,St Joseph's College School,English,74 Wellesley,Toronto,M5S1C4,817,43.66418,-79.38856,36,5.5,15.1,2.4,0.91,-1,0.34,0.86,-7,30.61,8.16
+Toronto CDSB,689831,St Mary Catholic Academy Secondary School,English,66 Dufferin Park,Toronto,M6H1J6,636,43.65775,-79.43181,55.2,31,23.6,1.7,0.9,8,0.79,0.72,-11,28.55,4.83
+Toronto CDSB,834718,St Michael's Choir (Sr) School,English,67 Bond,Toronto,M5B1X2,95,43.65521,-79.37795,23.2,NA,38.9,34.7,0.96,0,N/D,1,0,20.25,20.67
+Toronto CDSB,733024,St Mother Teresa Catholic Academy Secondary School,English,40 Sewells,Toronto,M1B3G5,522,43.80931,-79.21394,23,11.9,20.5,SP,0.9,19,0.53,0.79,-6,28.54,8.6
+Toronto CDSB,838268,St Patrick Catholic Secondary School,English,49 Felstead,Toronto,M4J1G3,716,43.67851,-79.32822,48.9,22.9,27.2,SP,0.89,-7,0.67,0.79,1,35.73,13.14
+Toronto CDSB,776360,St. Basil-the-Great College School,English,20 Starview,Toronto,M9M3B2,1255,43.72736,-79.53286,38.2,4.3,25.3,2.2,0.84,17,0.41,0.76,4,27.67,3.35
+Toronto CDSB,815160,St. Joseph Morrow Park Catholic Secondary School,English,3379 Bayview,Toronto,M2M3S4,503,43.79666,-79.39455,57.3,22.9,11.7,SP,0.7,-9,0.32,0.83,3,29.61,23.52
+Toronto DSB,890227,A Y Jackson Secondary School,English,50 Francine,Toronto,M2H2G6,854,43.80522,-79.36656,76.5,11.9,15.3,4.9,0.92,NA,0.59,0.91,-2,30.29,24.67
+Toronto DSB,890723,Agincourt Collegiate Institute,English,2621 Midland,Agincourt,M1S1R6,1318,43.78887,-79.2789,69.7,6.7,14.4,0.8,0.91,-3,0.52,0.93,0,29.71,12.81
+Toronto DSB,890880,Albert Campbell Collegiate Institute,English,1550 Sandhurst,Toronto,M1V1S6,1248,43.80916,-79.27227,83.5,14.2,14.1,SP,0.85,-3,0.36,0.78,-5,29.44,14.78
+Toronto DSB,901908,ALPHA II Alternative School,English,1141 Bloor,Toronto,M6H1M9,49,43.659089,-79.4350495,SP,NA,24.5,SP,NA,NA,NA,N/R,NA,28.12,SP
+Toronto DSB,892475,Alternative Scarborough Education 1,English,60 BrimortonDr,Scarborough,M1P3Z1,143,43.76664,-79.25478,23.8,SP,22.4,SP,NA,NA,NA,N/R,NA,25.98,12.36
+Toronto DSB,890120,Avondale Secondary Alternative School,English,171 Avondale,North York,M2N2V4,71,43.78631,-79.41188,21.1,NA,43.7,SP,N/R,NA,N/R,0.86,24,24.18,20.61
+Toronto DSB,894621,Bendale Business & Technical Institute,English,1555 Midland,Scarborough,M1P3C1,391,43.75533,-79.26473,18.2,SP,84.9,SP,0.2,NA,0.19,0.1,1,33.11,10.79
+Toronto DSB,895016,Birchmount Park Collegiate Institute,English,3663 Danforth,Scarborough,M1N2G2,873,43.69775,-79.25944,33.6,5.5,28.6,SP,0.72,25,0.25,0.68,-9,30.45,12.11
+Toronto DSB,895407,Bloor Collegiate Institute,English,1141 Bloor,Toronto,M6H1M9,589,43.65905,-79.43698,55.2,3.2,29.4,11.2,0.93,-1,0.35,0.91,-3,28.73,7.5
+Toronto DSB,897485,Burnhamthorpe Collegiate Institute,English,500 The East,Etobicoke,M9B2C4,434,43.64882,-79.5621,41.5,7.8,3.9,SP,NA,NA,NA,N/R,NA,29.48,10.39
+Toronto DSB,897744,C W Jefferys Collegiate Institute,English,340 Sentinel,North York,M3J1T9,705,43.75767,-79.50008,57.7,11.8,18,SP,0.77,-3,0.8,0.76,3,32.21,6.15
+Toronto DSB,890529,CALC Secondary School,English,1 Danforth,Toronto,M4K1M8,521,43.67543,-79.35999,51.8,21.7,4.4,NA,NA,NA,NA,N/R,NA,35.48,13.5
+Toronto DSB,912651,Caring and Safe Schools LC1,English,640 Lawrence,North York,M6L1C7,NA,43.71947,-79.56615,NA,NA,SP,NA,NA,NA,NA,NA,NA,SP,SP
+Toronto DSB,909300,Caring and Safe Schools LC2,English,640 Pharmacy Avenue,Toronto,M6A1B1,13,43.76775248,-79.31386038,SP,SP,SP,NA,NA,NA,NA,NA,NA,SP,SP
+Toronto DSB,899704,Caring and Safe Schools LC3,English,720 Pharmacy Avenue,Toronto,M6A1B1,NA,43.728298,-79.256075,SP,NA,SP,NA,NA,NA,NA,NA,NA,SP,SP
+Toronto DSB,952524,Caring and Safe Schools LC4,English,640 Randolph,Toronto,M6P4G4,NA,43.65817,-79.438,SP,NA,SP,NA,NA,NA,NA,NA,NA,SP,SP
+Toronto DSB,899178,Cedarbrae Collegiate Institute,English,550 Markham,Scarborough,M1H2A2,1241,43.75633,-79.22591,53.7,8.7,18.4,SP,0.4,-10,0.21,0.67,-1,32.8,11.77
+Toronto DSB,952842,Central Etobicoke High School,English,10 Denfield,Toronto,M9R3H1,156,43.67901,-79.55548,39.1,SP,100,NA,NA,NA,NA,N/R,NA,32.34,9.81
+Toronto DSB,900087,Central Technical School,English,725 Bathurst,Toronto,M5S2R5,1475,43.66293,-79.40824,41.4,11.5,39.3,SP,0.49,-7,0.13,0.56,4,34.19,5.39
+Toronto DSB,899437,Central Toronto Academy,English,570 Shaw,Toronto,M6G3L6,326,43.65797,-79.42199,55.8,23.3,28.5,SP,0.54,-4,0.15,0.71,11,34.74,4.6
+Toronto DSB,901474,City School,English,635 Queen's,Toronto,M5V3G3,105,43.63586,-79.39711,14.3,NA,30.5,SP,0.06,NA,N/D,0.69,NA,25.12,11.75
+Toronto DSB,902640,Contact Alternative School,English,132 Saint Patrick,Toronto,M5T1V1,179,43.65373,-79.39034,18.4,SP,27.9,SP,N/R,NA,N/R,N/R,NA,33.25,6.95
+Toronto DSB,903469,Danforth Collegiate Institute and Technical School,English,800 Greenwood,Toronto,M4J4B7,883,43.68283,-79.33408,34.5,2.2,46.7,3.6,0.81,8,0.13,0.73,6,31.99,11.51
+Toronto DSB,903590,David and Mary Thomson Collegiate Institute,English,2740 Lawrence,Scarborough,M1P2S7,974,43.7536,-79.25957,57.7,9.7,19.7,NA,0.6,-4,0.17,0.61,-10,34.74,13.41
+Toronto DSB,892483,Delphi Secondary Alternative School,English,109A Chartland,Scarborough,M1S2R7,103,43.80006,-79.27799,43.7,SP,22.3,SP,0.68,-27,N/R,1,10,26.66,12.86
+Toronto DSB,904112,Don Mills Collegiate Institute,English,15 The Donway E,North York,M3C1X6,1089,43.73595,-79.33927,59,7.4,35.1,22.6,0.89,0,0.18,0.88,5,27.14,20.38
+Toronto DSB,904635,Downsview Secondary School,English,7 Hawksdale,North York,M3K1W3,574,43.73077,-79.47884,41.1,25.6,38.3,SP,0.5,9,0.33,0.45,-11,30.93,3.24
+Toronto DSB,937592,Dr Norman Bethune Collegiate Institute,English,200 Fundy Bay,Toronto,M1W3G1,1012,43.81216,-79.31942,84.7,15.1,10.4,SP,0.93,-2,0.41,0.86,-1,27.09,12.93
+Toronto DSB,922706,Drewry Secondary School,English,70 Drewry,North York,M2M1C8,138,43.78697,-79.4212,33.3,SP,100,NA,NA,NA,NA,N/R,NA,28.54,24.35
+Toronto DSB,906450,Earl Haig Secondary School,English,100 Princess,North York,M2N3R7,2036,43.76941,-79.40618,61.8,18.8,14.1,5.9,0.94,0,0.41,0.93,0,32.71,23.6
+Toronto DSB,906875,East York Alternative Secondary School,English,670 Cosburn,East York,M4C2V2,130,43.69494,-79.32528,18.5,SP,43.1,NA,NA,NA,NA,N/R,NA,31.08,11.88
+Toronto DSB,906840,East York Collegiate Institute,English,650 Cosburn,East York,M4C2V2,1007,43.69503,-79.32756,47.1,9.6,23.2,NA,0.61,-6,0.24,0.66,-5,29.73,13.36
+Toronto DSB,907103,Eastdale Collegiate Institute,English,701 Gerrard,Toronto,M4M1Y4,134,43.66592,-79.34881,21.6,SP,88.8,NA,NA,NA,NA,N/R,NA,34.93,10.5
+Toronto DSB,908665,Emery Collegiate Institute,English,3395 Weston,North York,M9M2V9,709,43.74865,-79.53873,58.3,15.9,23.4,SP,0.37,-2,0.13,0.59,-8,34.69,7.06
+Toronto DSB,954167,Emery EdVance Secondary School,English,3395 Weston,Toronto,M9M2V9,148,43.74848,-79.53944,46.6,30.4,7.4,NA,NA,NA,NA,N/R,NA,35.9,7.73
+Toronto DSB,909572,Etobicoke Collegiate Institute,English,86 Montgomery,Etobicoke,M9A3N5,962,43.65008,-79.52229,33,5.9,22.2,2.3,0.93,-1,0.56,0.85,2,19.49,17.16
+Toronto DSB,909602,Etobicoke School of the Arts,English,675 Royal York,Toronto,M8Y2T1,954,43.63089,-79.50353,9.5,SP,24.7,8.1,0.92,1,0.63,0.97,0,17.54,14.57
+Toronto DSB,924246,Etobicoke Year Round Alternative Centre,English,160 Silverhill Drive,Toronto,M9B3W7,37,43.63376,-79.55125,SP,NA,45.9,NA,NA,NA,NA,N/D,NA,28.05,SP
+Toronto DSB,943062,First Nations School of Toronto,English,NA,Toronto,M4J3T2,NA,43.67907523,-79.33703884,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Toronto DSB,910481,Forest Hill Collegiate Institute,English,730 Eglinton,Toronto,M5N1B9,953,43.70305,-79.42133,42.2,17,15.2,SP,0.93,4,0.51,0.89,-4,19.51,18.89
+Toronto DSB,911070,Frank Oke Secondary School,English,500 Alliance,Toronto,M6N2H8,107,43.6731,-79.49907,31.8,SP,100,NA,NA,NA,NA,N/R,NA,29.43,SP
+Toronto DSB,912174,George Harvey Collegiate Institute,English,1700 Keele,Toronto,M6M3W5,608,43.68437,-79.47327,51.8,19.6,21.4,SP,0.62,6,0.34,0.73,-8,32.32,4.24
+Toronto DSB,912301,George S Henry Academy,English,200 Graydon Hall,North York,M3A3A6,514,43.76435,-79.33991,66.7,26.7,22.4,SP,0.62,-9,0.16,0.75,-4,36.2,18.6
+Toronto DSB,912360,Georges Vanier Secondary School,English,3000 Don Mills,North York,M2J3B6,613,43.78336,-79.35096,56.6,21.7,18.8,SP,0.74,NA,0.2,0.62,-12,32.9,27.17
+Toronto DSB,943940,Greenwood Secondary School,English,24 Mountjoy,Toronto,M4J1J6,245,43.68078,-79.33058,91.8,83.3,5.3,NA,0.53,-9,0.34,N/R,NA,36.68,14.5
+Toronto DSB,915688,Harbord Collegiate Institute,English,286 Harbord,Toronto,M6G1G5,1122,43.66128,-79.41425,35.4,1.7,19.8,2.8,0.79,-9,0.33,0.9,-2,28.28,5.15
+Toronto DSB,916463,Heydon Park Secondary School,English,70 D'Arcy,Toronto,M5T1K1,149,43.65496,-79.39452,27.5,SP,96.6,NA,N/R,NA,N/R,0.29,2,32.17,8.97
+Toronto DSB,917630,Humberside Collegiate Institute,English,280 Quebec,Toronto,M6P2V3,1173,43.65994,-79.47063,21.1,1.9,11.2,3.3,0.89,-1,0.38,0.92,-1,19.71,14.51
+Toronto DSB,918237,Inglenook Community School,English,19 Sackville,Toronto,M5A3E1,77,43.65397,-79.35939,14.3,NA,36.4,SP,NA,NA,NA,N/R,NA,24.45,14.8
+Toronto DSB,918547,Jarvis Collegiate Institute,English,495 Jarvis,Toronto,M4Y2G8,751,43.66574,-79.37701,69,12.8,10.8,NA,0.55,-18,0.06,0.75,1,46.9,5.88
+Toronto DSB,906736,John Polanyi Collegiate Institute,English,640 Lawrence Avenue West,Toronto,M6A1B1,787,43.71749,-79.43995,55.4,26.3,20.2,SP,0.6,8,0.07,0.8,6,30.88,9.58
+Toronto DSB,920231,Kipling Collegiate Institute,English,380 The Westway,Etobicoke,M9R1H4,385,43.68528,-79.56234,68.8,17.7,20.3,SP,0.53,-4,0.15,0.53,-4,39.4,18.81
+Toronto DSB,921092,Lakeshore Collegiate Institute,English,350 Kipling,Etobicoke,M8V3L1,667,43.60156,-79.51915,26.4,7.8,35.1,SP,0.64,7,0.4,0.69,7,25.23,5.67
+Toronto DSB,920576,L'Amoreaux Collegiate Institute,English,2501 Bridletowne,Agincourt,M1W2K1,666,43.80291,-79.31806,79,12.6,20.3,SP,0.9,-1,0.27,0.79,5,30.92,21.72
+Toronto DSB,922056,Lawrence Park Collegiate Institute,English,125 Chatsworth,Toronto,M4R1S1,1285,43.72222,-79.41043,14.8,1.2,13,2.7,0.89,3,N/R,0.98,1,13.03,32.51
+Toronto DSB,922315,Leaside High School,English,200 Hanna,East York,M4G3N8,976,43.71107,-79.37291,24.3,1.3,10.7,2,0.88,7,0.4,0.96,-2,17.78,20.95
+Toronto DSB,922498,Lester B Pearson Collegiate Institute,English,150 Tapscott,Scarborough,M1B2L2,1313,43.80349,-79.22567,62.2,4.3,18.4,NA,0.77,-4,0.14,0.76,1,27.51,14.76
+Toronto DSB,924520,Malvern Collegiate Institute,English,55 Malvern,Toronto,M4E3E4,1052,43.68291,-79.29292,6.9,1.1,13.6,2.3,0.88,-3,0.35,0.95,2,16.4,15.66
+Toronto DSB,924695,Maplewood High School,English,120 Galloway,West Hill,M1E1W7,172,43.75889,-79.19488,39,SP,100,NA,NA,NA,NA,N/R,NA,33.88,14.36
+Toronto DSB,933198,Marc Garneau Collegiate Institute,English,135 Overlea,Toronto,M3C1B3,1667,43.70897,-79.33496,85.5,19.4,16.1,5.1,0.88,-1,0.44,0.79,1,44.55,31.2
+Toronto DSB,925136,Martingrove Collegiate Institute,English,50 Winterton,Etobicoke,M9B3G7,1168,43.67338,-79.56073,44.9,4.5,30.2,18.4,0.8,-10,0.29,0.82,-2,25.02,12.04
+Toronto DSB,927384,Monarch Park Collegiate Institute,English,1 Hanson,Toronto,M4J1G6,866,43.67914,-79.32337,37.9,7.6,28.3,4.6,0.77,-4,0.14,0.83,-1,27.25,9.32
+Toronto DSB,927708,Native Learning Centre,English,83 Alexander,Toronto,M4Y1B7,34,43.66361,-79.37945,SP,NA,44.1,SP,N/D,NA,N/R,N/R,NA,SP,SP
+Toronto DSB,915166,Native Learning Centre East,English,NA,Scarborough,M1E1P5,13,43.74755508,-79.19912177,SP,NA,SP,NA,NA,NA,NA,N/R,NA,SP,SP
+Toronto DSB,928810,Newtonbrook Secondary School,English,155 Hilda,Toronto,M2M1V6,886,43.79354,-79.42623,67.4,26.1,10.6,SP,0.69,-7,0.25,0.76,5,30.46,21.63
+Toronto DSB,929468,North Albion Collegiate Institute,English,2580 Kipling,Toronto,M9V3B2,976,43.74713,-79.58513,63,12.4,19.6,SP,0.76,5,0.12,0.75,6,32.74,15.97
+Toronto DSB,966722,North East Year Round Alternative Centre,English,2900 Don Mills,Toronto,M2J3B6,43,43.782646,-79.349081,60.5,SP,41.9,NA,N/R,NA,N/R,N/R,NA,39.12,25.32
+Toronto DSB,930504,North Toronto Collegiate Institute,English,17 Broadway,Toronto,M4P1T7,1203,43.70993,-79.39607,25.5,5.6,16.5,2.9,0.9,-4,0.43,0.98,3,19.7,24.71
+Toronto DSB,932812,North West Year Round Alternative Centre,English,425 Patricia,NORTH YORK,M2R2N1,80,43.78521103,-79.44086156,27.5,NA,46.3,SP,NA,NA,NA,N/R,NA,35.06,13.42
+Toronto DSB,930768,Northern Secondary School,English,851 Mount Pleasant,Toronto,M4P2L5,1896,43.71053,-79.39015,19,2,54.9,32.8,0.87,1,0.45,0.9,-1,20.53,18.95
+Toronto DSB,931020,Northview Heights Secondary School,English,550 Finch,Toronto,M2R1N6,1547,43.77442,-79.44631,69.6,16.2,16,1.1,0.89,-4,0.32,0.8,-6,29.06,15.82
+Toronto DSB,932191,Oakwood Collegiate Institute,English,991 St Clair,Toronto,M6E1A3,491,43.67865,-79.43637,23,SP,40.1,SP,0.57,-7,0.15,0.68,-7,26.76,6.39
+Toronto DSB,932116,Oasis Alternative,English,20 Brant,Toronto,M5V2M1,101,43.64567,-79.39814,SP,NA,50.5,SP,N/R,NA,N/R,0.62,-8,28.35,9.93
+Toronto DSB,933759,Parkdale Collegiate Institute,English,209 Jameson,Toronto,M6K2Y3,537,43.63965,-79.43606,60,14.5,24,5.4,0.74,0,0.32,0.79,11,31.56,2.96
+Toronto DSB,939480,Parkview Alternative School,English,1641 Pharmacy,Scarborough,M1R2L2,96,43.76749,-79.31314,16.7,SP,33.3,NA,NA,NA,NA,N/D,NA,33.11,10.9
+Toronto DSB,935476,Pleasant View Junior High School,English,175 Brian,Toronto,M2J3Y8,74,43.78735,-79.33386,59.5,SP,23,NA,1,0,0.69,NA,NA,26.68,17.42
+Toronto DSB,937266,R H King Academy,English,3800 St Clair,Toronto,M1M1V3,1213,43.72262,-79.23744,50.5,3.5,12.6,1.1,0.94,0,0.56,0.9,0,27.03,15.21
+Toronto DSB,938173,Richview Collegiate Institute,English,1738 Islington,Etobicoke,M9A3N2,971,43.67861,-79.53983,22,SP,11.4,2.2,0.85,-4,0.38,0.92,-2,18.06,17.94
+Toronto DSB,939080,Riverdale Collegiate Institute,English,1094 Gerrard,Toronto,M4M2A1,1129,43.67004,-79.33485,41,1.2,20.8,1,0.86,2,0.33,0.85,0,28.16,6.84
+Toronto DSB,898910,Rosedale Heights School of the Arts,English,711 Bloor,Toronto,M4W1J4,985,43.67393,-79.366,9.8,SP,23.5,5.7,0.81,1,0.52,0.96,2,22.87,11.09
+Toronto DSB,939609,Runnymede Collegiate Institute,English,569 Jane,Toronto,M6S4A3,734,43.66332,-79.48955,40.9,6.3,20.6,SP,0.62,9,0.1,0.73,3,33.99,6.97
+Toronto DSB,949744,SATEC @ W A Porter Collegiate Institute,English,40 Fairfax,Scarborough,M1L1Z9,1249,43.71659,-79.28726,66,5.5,10.2,1.2,0.9,-5,0.32,0.9,1,30.3,18.02
+Toronto DSB,940445,Scarborough Centre for Alternative Studi,English,720 Midland,Toronto,M1K4C9,375,43.72815,-79.25665,38.4,12.3,27.2,SP,NA,NA,NA,N/D,NA,33.35,11.65
+Toronto DSB,940518,Scarlett Heights Entrepreneurial Academy,English,15 Trehorne,Toronto,M9P1N8,227,43.68963,-79.5313,49.3,7,19.8,NA,0.1,-35,0.15,0.6,-16,36.86,11.98
+Toronto DSB,940623,School of Experiential Education,English,40 McArthur,Toronto,M9P3M7,47,43.70147,-79.54668,SP,NA,36.2,SP,N/R,NA,N/R,N/R,NA,27.69,SP
+Toronto DSB,940720,School of Life Experience,English,24 Mountjoy,Toronto,M4J1J6,133,43.68078,-79.33058,12.8,SP,19.5,NA,NA,NA,NA,N/D,NA,26.5,13.42
+Toronto DSB,936669,SEED Alternative,English,885 Dundas,Toronto,M4M2G3,101,43.66203,-79.35024,13.9,NA,38.6,SP,NA,NA,NA,N/D,NA,25.22,11.97
+Toronto DSB,941425,Silverthorn Collegiate Institute,English,291 Mill,Etobicoke,M9C1Y5,864,43.63783,-79.58038,43.4,3.2,19.9,SP,0.82,0,0.2,0.79,-3,21.28,15.76
+Toronto DSB,941948,Sir John A Macdonald Collegiate Institute,English,2300 Pharmacy,Toronto,M1W1H8,1064,43.78707,-79.32366,61.6,7.4,16.2,SP,0.91,8,0.67,0.89,3,25.89,21.25
+Toronto DSB,941972,Sir Oliver Mowat Collegiate Institute,English,5400 Lawrence,Toronto,M1C2C6,1097,43.77929,-79.14223,19.1,2.2,20.6,1.5,0.77,-6,0.27,0.83,3,14.71,22.88
+Toronto DSB,942200,Sir Wilfrid Laurier Collegiate Institute,English,145 Guildwood,Toronto,M1E1P5,1413,43.74703,-79.19698,48.1,6.2,18.8,1.6,0.79,3,0.22,0.73,-8,29.56,11.98
+Toronto DSB,942367,Sir William Osler High School,English,1050 Huntingwood,Toronto,M1S3H5,246,43.79756,-79.28739,48,SP,100,NA,NA,NA,NA,N/D,NA,32.1,15.61
+Toronto DSB,960413,South East Year Round Alternative Centre,English,720 Midland Avenue,Toronto,M1K4C9,99,43.72851433,-79.25556643,17.2,SP,37.4,NA,NA,NA,NA,N/D,NA,33.65,11.86
+Toronto DSB,944025,St Andrew's Junior High School,English,131 Fenn,North York,M2P1X7,91,43.75168,-79.39022,42.9,SP,14.3,SP,0.85,-5,N/R,NA,NA,22.25,32.56
+Toronto DSB,945250,Stephen Leacock Collegiate Institute,English,2450 Birchmount,Toronto,M1T2M5,679,43.78552,-79.30112,63.5,17.2,20,SP,0.95,12,0.42,0.8,10,35.22,20.1
+Toronto DSB,946192,Subway Academy I,English,16 Phin,Toronto,M4J3T2,158,43.67913,-79.33662,19,SP,24.1,SP,N/R,NA,N/R,N/R,NA,30.28,11.8
+Toronto DSB,946338,Subway Academy II,English,64 Baldwin,Toronto,M5T1L4,106,43.6558,-79.39572,25.5,SP,31.1,SP,NA,NA,NA,N/R,NA,28.77,SP
+Toronto DSB,947300,The Student School,English,125 Evelyn,Toronto,M6P3E3,115,43.65667002,-79.47406597,20,NA,20.9,SP,NA,NA,NA,N/D,NA,23.79,11.98
+Toronto DSB,947407,Thistletown Collegiate Institute,English,20 Fordwich,Toronto,M9W2T4,603,43.72772,-79.56244,56.7,5.5,23.2,SP,0.72,-8,0.37,0.79,2,30.2,4.71
+Toronto DSB,949027,Ursula Franklin Academy,English,146 Glendonwynne,Toronto,M6P3J7,485,43.65709,-79.47457,16.3,SP,18.8,11.5,0.94,0,N/D,0.98,-2,18.94,13.15
+Toronto DSB,949221,Vaughan Road Academy,English,529 Vaughan,Toronto,M6C2R1,285,43.69101,-79.43669,41.1,13.3,17.5,SP,0.75,10,0.29,0.81,9,24.69,7.21
+Toronto DSB,949353,Victoria Park Collegiate Institute,English,15 Wallingford,Toronto,M3A2V1,1381,43.75605,-79.32145,53.6,6.4,20.9,7.1,0.88,-2,0.23,0.86,-2,30.68,15.75
+Toronto DSB,928852,West End Alternative School,English,777 Bloor,Toronto,M6G1L6,77,43.66242,-79.41982,15.6,SP,33.8,NA,NA,NA,NA,N/R,NA,28.79,SP
+Toronto DSB,951560,West Hill Collegiate Institute,English,350 Morningside,Toronto,M1E3G3,733,43.77566,-79.19058,37.9,10.4,27.4,SP,0.69,19,0.21,0.68,-5,28.83,6.64
+Toronto DSB,951749,West Humber Collegiate Institute,English,1675 Martin Grove,Toronto,M9V3S3,1001,43.73092,-79.5867,54.1,5.2,22.5,SP,0.88,1,0.37,0.73,0,29.08,7.01
+Toronto DSB,951951,Western Technical & Commercial School,English,125 Evelyn,Toronto,M6P3E3,1040,43.65709,-79.47457,29.6,9.6,40.7,9.9,0.71,-9,0.18,0.72,7,26.01,9.78
+Toronto DSB,952605,Weston Collegiate Institute,English,100 Pine,Toronto,M9N2Y9,874,43.70381,-79.50941,50.7,12.6,21.1,SP,0.44,-5,0.18,0.65,0,32.65,5.67
+Toronto DSB,952818,Westview Centennial Secondary School,English,755 Oakdale,Toronto,M3N1W7,939,43.75239,-79.52508,49.3,11.3,30.1,SP,0.51,-9,0.04,0.39,-19,38.28,1.24
+Toronto DSB,952990,Wexford Collegiate School for the Arts,English,1176 Pharmacy,Toronto,M1R2H7,1120,43.74615,-79.30678,29.4,3.7,21,0.9,0.72,9,0.33,0.81,-3,26.31,9.82
+Toronto DSB,950130,William Lyon Mackenzie Collegiate Institute,English,20 Tillplain,Toronto,M3H5R2,1269,43.75346,-79.46188,51.6,10.1,36.5,24,0.93,3,0.64,0.9,-5,23.02,12.53
+Toronto DSB,953725,Windfields Junior High School,English,375 Banbury,Toronto,M2L2V2,142,43.75599,-79.37061,50.7,14.8,8.5,SP,0.88,-3,0.4,NA,NA,24.05,32.33
+Toronto DSB,954039,Winston Churchill Collegiate Institute,English,2239 Lawrence,Toronto,M1P2P7,624,43.74807,-79.27799,54.8,13.3,21.2,SP,0.8,7,0.27,0.69,4,33.65,13.87
+Toronto DSB,954160,Woburn Collegiate Institute,English,2222 Ellesmere,Toronto,M1G3M3,1060,43.77816,-79.22845,65.3,6.8,23.8,12,0.72,-11,0.27,0.79,-4,32.02,17.15
+Toronto DSB,954640,York Humber High School,English,100 Emmett,Toronto,M6M2E6,225,43.68841,-79.50607,32.9,SP,99.6,NA,N/R,NA,N/R,N/R,NA,34.27,6.17
+Toronto DSB,954683,York Memorial Collegiate Institute,English,2690 Eglinton,Toronto,M6M1T9,895,43.69025,-79.47632,55.8,2.8,15.6,1.3,0.56,-9,0.1,0.8,-2,29.87,3.68
+Toronto DSB,954810,York Mills Collegiate Institute,English,490 York Mills,Toronto,M3B1W6,1035,43.75152,-79.37351,54.9,12.7,7.3,1.4,NA,NA,NA,0.91,-3,23.34,30.93
+Toronto DSB,954942,Yorkdale Secondary School,English,38 Orfus,Toronto,M6A1L6,387,43.72012,-79.45935,60.7,30.5,20.4,NA,NA,NA,NA,N/D,NA,29.5,9.51
+Trillium Lakelands DSB,895660,Bracebridge and Muskoka Lakes Secondary School,English,100 Clear Brook Trail,Bracebridge,P1L0A3,864,45.06551,-79.32722,SP,SP,28.4,NA,0.9,-2,0.6,0.84,1,14.79,8.22
+Trillium Lakelands DSB,909700,Fenelon Falls Secondary School,English,66 Lindsay,Fenelon Falls,K0M1N0,708,44.53226,-78.739,SP,SP,36.4,NA,0.71,-3,0.29,0.7,-14,20.75,SP
+Trillium Lakelands DSB,914380,Gravenhurst High School,English,325 Mary,Gravenhurst,P1P1X7,318,44.91698,-79.37589,SP,SP,36.8,NA,0.94,-6,0.81,0.81,4,24.68,SP
+Trillium Lakelands DSB,915297,Haliburton Highland Secondary School,English,5358 County Rd,Haliburton,K0M1S0,460,45.0432,-78.52361,SP,NA,31.5,SP,0.72,-23,0.49,0.64,-20,21.29,2.23
+Trillium Lakelands DSB,917761,Huntsville High School,English,58 Brunel,Huntsville,P1H2A2,911,45.32249,-79.21436,1.4,SP,31.7,NA,0.75,-3,0.4,0.78,-8,18.7,SP
+Trillium Lakelands DSB,918130,I E Weldon Secondary School,English,24 Weldon,Lindsay,K9V4R4,1101,44.35966,-78.71609,1.5,SP,27.4,SP,0.85,-2,0.57,0.87,6,17.16,4.23
+Trillium Lakelands DSB,922838,Lindsay Collegiate and Vocational Institute,English,260 Kent,Lindsay,K9V2Z5,737,44.35335,-78.74738,SP,SP,30.1,NA,0.65,-13,0.78,0.75,-4,18.03,4.2
+Trillium Lakelands DSB,890170,Trillium Lakelands' AETC's,English,230 Angeline,Lindsay,K9V4R2,1035,45.04095,-79.31807,4.2,SP,7.9,NA,NA,NA,NA,0.21,-51,21.25,6.92
+Upper Canada DSB,891630,Almonte District High School,English,126 Martin,Almonte,K0A1A0,357,45.23164,-76.19611,SP,NA,24.1,SP,0.65,-10,0.18,0.81,10,13.4,12.66
+Upper Canada DSB,892807,Athens District High School,English,21 Church,Athens,K0E1B0,162,44.62526,-75.94733,6.8,NA,26.5,NA,0.68,36,0.17,0.76,9,18.53,SP
+Upper Canada DSB,896578,Brockville Collegiate Institute,English,90 Pearl,Brockville,K6V1P8,498,44.59573,-75.68215,13.3,SP,24.9,2.2,0.82,-1,0.25,0.85,0,19.84,SP
+Upper Canada DSB,898520,Carleton Place High School,English,215 Lake,Carleton Place,K7C1M3,503,45.13362,-76.14829,6,SP,27.4,SP,0.94,15,0.46,0.77,-4,11.72,11.12
+Upper Canada DSB,897876,Charlottenburgh and Lancaster District High School,English,19743 John,Williamstown,K0C2J0,231,45.14456,-74.57287,SP,NA,34.2,NA,0.92,26,N/R,0.92,4,15.59,SP
+Upper Canada DSB,902810,Cornwall Collegiate and Vocational School,English,437 Sydney,Cornwall,K6H3H9,605,45.02286,-74.72809,12.9,1.7,39.7,SP,0.69,3,0.3,0.55,-7,32.99,SP
+Upper Canada DSB,911526,Gananoque Secondary School,English,175 William,Gananoque,K7G1S8,342,44.33058,-76.15665,SP,SP,31.6,SP,0.71,21,0.28,0.69,-15,14.53,SP
+Upper Canada DSB,913219,Glengarry District High School,English,212 Main,Alexandria,K0C1A0,257,45.31532,-74.64017,SP,NA,42.8,NA,0.83,-14,0.47,0.83,4,16.45,SP
+Upper Canada DSB,929590,North Dundas District High School,English,2835 County,Chesterville,K0C1H0,320,45.09167,-75.28655,SP,SP,29.4,SP,0.83,7,0.44,0.78,9,13.58,SP
+Upper Canada DSB,929859,North Grenville District High School,English,2605 Concession,Kemptville,K0G1J0,549,45.00819,-75.64676,3.3,SP,26.4,SP,0.93,-6,0.66,0.74,-4,11.15,7.35
+Upper Canada DSB,935050,Perth and District Collegiate Institute,English,13 Victoria,Perth,K7H2H3,499,44.90469,-76.25026,SP,SP,30.5,SP,0.85,7,0.5,0.75,1,17,8.99
+Upper Canada DSB,936286,Prescott-Russell Eastern Ontario,English,860 Caron,Rockland,K4K1H1,157,45.551879187,-75.275905856,9.6,SP,21,NA,NA,NA,NA,NA,NA,17.18,6.83
+Upper Canada DSB,938300,Rideau District High School,English,251 Main,Elgin,K0G1E0,277,44.61564,-76.21013,SP,NA,40.8,SP,0.97,6,0.58,0.78,2,18.59,SP
+Upper Canada DSB,935425,Rockland District High School,English,1004 St Joseph,Rockland,K4K1P6,254,45.54438,-75.2848,5.9,SP,36.6,SP,0.62,-21,0.33,0.73,0,14.14,8.57
+Upper Canada DSB,937673,Russell High School,English,982 North Russell,Russell,K4R1C8,305,45.26657,-75.364,8.9,NA,31.1,SP,0.72,0,0.44,0.74,-6,8.43,14.94
+Upper Canada DSB,918415,Seaway District High School,English,2 Beach,Iroquois,K0E1K0,285,44.85073,-75.31488,NA,NA,29.5,NA,0.95,17,0.42,0.67,-3,17.14,SP
+Upper Canada DSB,942596,Smiths Falls District Collegiate Institute,English,299 Percy,Smiths Falls,K7A5M2,744,44.88529,-76.0174,3.9,NA,30.8,1.5,0.52,-22,0.09,0.66,-10,18.79,3.24
+Upper Canada DSB,942987,South Grenville District High School,English,1000 Edward,Prescott,K0E1T0,420,44.71968,-75.52174,SP,SP,32.4,NA,0.63,21,0.31,0.7,1,16.42,SP
+Upper Canada DSB,944670,St Lawrence Secondary School,English,1450 Second,Cornwall,K6H5Z8,357,45.03017,-74.69817,22.1,SP,31.9,NA,0.54,-25,0.42,0.56,-12,28.41,SP
+Upper Canada DSB,945072,T R Leger School of Adult & Continuing Secondary School,English,1500 Cumberland,Cornwall,K6J4K9,1222,45.14487,-76.1507,2.2,SP,38.6,NA,NA,NA,NA,0.5,7,24.09,2.57
+Upper Canada DSB,946648,Tagwi Secondary School,English,16750 County Road,Avonmore,K0C1C0,333,45.17985,-74.92916,SP,NA,35.1,SP,0.77,-1,0.05,0.81,12,13,SP
+Upper Canada DSB,948314,Thousand Islands Secondary School,English,2510 Parkedale,Brockville,K6V3H1,773,44.60207,-75.70429,5.2,SP,33.1,SP,0.75,-3,0.15,0.76,-2,20.03,SP
+Upper Canada DSB,949094,Vankleek Hill Collegiate Institute,English,5814 Highway,Vankleek Hill,K0B1R0,310,45.52214,-74.65187,19,SP,20,SP,0.63,-17,0.05,0.83,-8,19.46,SP
+Upper Grand DSB,899283,Centennial Collegiate and Vocational Institute,English,289 College,Guelph,N1G1S9,1431,43.52169,-80.2473,22.6,1.5,19.1,4.1,0.91,-2,0.65,0.85,-7,13.35,17.87
+Upper Grand DSB,900214,Centre Dufferin District High School,English,150 Fourth,Shelburne,L0N1S1,813,44.08215,-80.20809,1.8,SP,22.9,SP,0.93,5,0.46,0.7,-4,16.46,4.57
+Upper Grand DSB,909831,Centre Wellington District High School,English,905 Scotland,Fergus,N1M1Y7,1227,43.70179,-80.3562,2,NA,21.8,1.3,0.85,-3,0.7,0.82,1,9.97,8.66
+Upper Grand DSB,902462,College Heights Secondary School,English,371 College,Guelph,N1G1T3,525,43.52022,-80.24945,2.7,SP,78.1,NA,N/D,NA,0.66,0.25,-3,19.2,6.06
+Upper Grand DSB,953571,Day School -Wellington Centre For ContEd,English,1428 Gordon,Guelph,N1L1C8,61,43.51168,-80.19673,16.4,SP,SP,NA,NA,NA,NA,NA,NA,18.77,SP
+Upper Grand DSB,947245,Dufferin Centre for Continuing Education,English,40 Amelia,Orangeville,L9W3T8,64,43.92228,-80.10782,SP,SP,SP,NA,NA,NA,NA,NA,NA,SP,SP
+Upper Grand DSB,909050,Erin District High School,English,14 Boland,Erin,N0B1T0,571,43.77866,-80.06813,2.5,NA,26.1,2.1,0.88,-7,0.66,0.9,4,11.92,7.82
+Upper Grand DSB,914770,Guelph Collegiate and Vocational Institute,English,155 Paisley,Guelph,N1H2P3,1429,43.54257,-80.25901,29.7,SP,19.8,4.8,0.92,0,0.48,0.85,-2,15.92,7.31
+Upper Grand DSB,918679,John F Ross Collegiate and Vocational Institute,English,21 Meyer,Guelph,N1E4H1,1951,43.56185,-80.24658,16.9,3.8,21.1,2.5,0.91,0,0.63,0.9,6,15.4,8.07
+Upper Grand DSB,931284,Norwell District Secondary School,English,135 Cumberland,Palmerston,N0G2P0,612,43.83453,-80.84348,2.9,SP,27,SP,0.85,-2,0.59,0.77,-6,13.07,SP
+Upper Grand DSB,932450,Orangeville District Secondary School,English,22 Faulkner,Orangeville,L9W2G7,1285,43.92353,-80.10211,4.6,1.1,29.3,1.9,0.91,-2,0.59,0.79,0,15.04,7.23
+Upper Grand DSB,953555,Wellington Heights Secondary School,English,405 Sligo,Mount Forest,N0G2L2,579,43.9909,-80.7361,SP,NA,26.9,SP,0.82,2,0.29,0.79,13,16.73,SP
+Upper Grand DSB,947253,Westside Secondary School,English,300 Alder,Orangeville,L9W5A2,902,43.9062,-80.1238,SP,SP,25.6,2.1,0.96,8,0.61,0.72,-4,15.55,5.8
+Waterloo CDSB,732320,Monsignor Doyle Catholic Secondary School,English,185 Myers,Cambridge,N1R7H2,1014,43.34084,-80.29773,15.7,SP,24.7,NA,0.8,6,0.38,0.76,-8,14.68,5.9
+Waterloo CDSB,753009,Resurrection Catholic Secondary School,English,455 University,Kitchener,N2N3B9,1306,43.4409,-80.54674,21.1,0.9,24.9,NA,0.86,-1,0.75,0.86,-2,16.52,16.35
+Waterloo CDSB,776726,St Benedict Catholic Secondary School,English,50 Saginaw,Cambridge,N1R5W1,1512,43.3922,-80.30138,17.9,1.3,21.8,NA,0.81,0,0.48,0.78,-3,16.15,10.98
+Waterloo CDSB,786217,St David Catholic Secondary School,English,4 High,Waterloo,N2L3X5,1015,43.484,-80.52879,16.2,1.2,21.7,NA,0.83,2,0.65,0.86,-6,13.7,16.8
+Waterloo CDSB,868286,St Don Bosco Catholic Secondary School,English,77 Young,Kitchener,N2H4Y9,NA,43.128804,-80.749104,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Waterloo CDSB,832103,St Mary's High School,English,1500 Block Line,Kitchener,N2C2S2,1813,43.41937,-80.4696,31.3,5,22.7,NA,0.83,-3,0.58,0.72,-10,18.75,10.16
+Waterloo Region DSB,895458,Bluevale Collegiate Institute,English,80 Bluevale,Waterloo,N2J3R5,1261,43.4751,-80.50011,13.5,1.4,22.4,SP,0.89,0,0.5,0.86,-3,13.8,18.7
+Waterloo Region DSB,898090,Cameron Heights Collegiate Institute,English,301 Charles,Kitchener,N2G2P8,1919,43.4448,-80.48181,39.8,1.6,18.5,2,0.83,7,0.47,0.83,-3,19.22,9.84
+Waterloo Region DSB,907499,Eastwood Collegiate Institute,English,760 Weber,Kitchener,N2H1H6,1324,43.43964,-80.46097,29.8,12.6,19.8,0.8,0.66,5,0.44,0.79,9,23.66,5.75
+Waterloo Region DSB,908142,Elmira District Secondary School,English,4 University,Elmira,N3B1K2,1361,43.59382,-80.56256,23.5,SP,14.7,SP,0.92,3,0.84,0.92,2,9.34,8.44
+Waterloo Region DSB,910350,Forest Heights Collegiate Institute,English,255 Fischer Hallman,Kitchener,N2M4X8,1229,43.42535,-80.52209,29.9,6.8,17.1,SP,0.63,-8,0.25,0.78,-8,18.81,7.52
+Waterloo Region DSB,911399,Galt Collegiate and Vocational Institute,English,200 Water,Cambridge,N1R6V2,955,43.36885,-80.31851,24.2,4.1,9.5,SP,0.73,-9,0.79,0.78,-5,20.04,4.66
+Waterloo Region DSB,913340,Glenview Park Secondary School,English,55 McKay,Cambridge,N1R4G6,878,43.34627,-80.307,14.5,SP,27.6,2.1,0.78,1,0.51,0.67,3,19.78,4.83
+Waterloo Region DSB,914070,Grand River Collegiate Institute,English,175 Indian,Kitchener,N2B2S7,1348,43.45733,-80.43752,19.4,SP,24.9,SP,0.81,-3,0.47,0.77,-1,14.67,13.05
+Waterloo Region DSB,917931,Huron Heights Secondary School,English,1825 Strasburg,Kitchener,N2R1S3,1334,43.39472,-80.46647,22.9,0.8,18.4,SP,0.75,-3,0.58,0.86,5,14.61,17.08
+Waterloo Region DSB,918555,Jacob Hespeler Secondary School,English,355 Holiday Inn,Cambridge,N3C1Z2,1145,43.41773,-80.31697,8.6,SP,26.7,SP,0.79,-7,0.62,0.79,2,12.99,12.44
+Waterloo Region DSB,920495,Kitchener Waterloo Collegiate and Vocational School,English,787 King,Kitchener,N2G1E3,1242,43.45561,-80.50879,15.1,1.5,30.5,SP,0.85,4,0.66,0.76,-6,21.6,11.62
+Waterloo Region DSB,936480,Preston High School,English,550 Rose,Cambridge,N3H2E6,1104,43.39123,-80.36553,12,SP,18.1,NA,0.83,2,0.57,0.85,6,16.97,8.98
+Waterloo Region DSB,926359,Rosemount - U Turn School,English,80 Burlington,Kitchener,N2B1T5,25,43.462217,-80.457675,SP,NA,SP,NA,NA,NA,NA,NA,NA,SP,SP
+Waterloo Region DSB,942006,Sir John A Macdonald Secondary School,English,650 Laurelwood,Waterloo,N2V2V1,1413,43.47149,-80.59417,31.8,2.9,22.9,SP,0.91,2,0.59,0.83,-8,15.99,43.72
+Waterloo Region DSB,943894,Southwood Secondary School,English,30 Southwood,Cambridge,N1S4K3,804,43.35003,-80.33688,4.2,SP,20.3,SP,0.73,-12,0.71,0.81,-6,12.84,4.55
+Waterloo Region DSB,950912,Waterloo Collegiate Institute,English,300 Hazel,Waterloo,N2L3P2,1298,43.47934,-80.52996,35.6,8.6,17.3,1.9,0.92,3,0.5,0.89,2,19.23,18.78
+Waterloo Region DSB,951048,Waterloo-Oxford District Secondary School,English,1206 Snyder's,Baden,N3A1A4,1342,43.4015,-80.6893,3.4,SP,19.7,SP,0.86,6,0.46,0.82,-3,9.23,10.81
+Wellington CDSB,689661,Bishop Macdonell Catholic Secondary School,English,200 Clair,Guelph,N1L1G1,767,43.49505,-80.19598,2.6,SP,18.3,NA,0.91,-1,0.71,0.86,-1,11.35,17.85
+Wellington CDSB,745529,Our Lady of Lourdes Catholic School,English,54 Westmount,Guelph,N1H5H7,809,43.54793,-80.26782,16.2,8.2,18.7,SP,0.92,7,0.71,0.87,0,15.29,5.59
+Wellington CDSB,798690,St James Catholic School,English,57 Victoria,Guelph,N1E5G9,848,43.55968,-80.23359,5.3,1.8,20.8,NA,0.69,-11,0.45,0.84,-6,14.46,5.24
+Wellington CDSB,858892,St John Bosco Catholic School,English,19 Northumberland,Guelph,N1H3A6,96,43.54317,-80.25098,NA,NA,52.1,SP,N/R,NA,N/R,N/R,NA,19.91,SP
+Windsor-Essex CDSB,688363,Assumption College School,English,1100 Huron Church,Windsor,N9C2K7,613,42.29489,-83.06163,32.6,1.8,20.6,SP,0.88,0,0.5,0.86,-2,35.09,6.48
+Windsor-Essex CDSB,694452,Cardinal Carter Catholic,English,120 Ellison,Leamington,N8H5C7,544,42.03925,-82.61348,13.4,SP,27.4,NA,0.94,16,0.54,0.83,-1,17.63,3.62
+Windsor-Essex CDSB,700088,Catholic Central,English,441 Tecumseh,Windsor,N8X2R7,746,42.29711,-83.01852,60.3,33.2,20.6,NA,1,4,0.57,0.65,-14,44.63,4.77
+Windsor-Essex CDSB,706523,F J Brennan Catholic High School,English,910 Raymo,Windsor,N8Y4A6,643,42.32534,-82.97603,10.6,SP,22.6,NA,0.93,6,0.71,0.84,-8,23.41,3.21
+Windsor-Essex CDSB,715824,Holy Names Catholic High School,English,1400 Northwood,Windsor,N9E1A4,1312,42.27707,-83.03323,14.9,SP,15.8,NA,0.9,7,0.69,0.89,3,22.58,16.27
+Windsor-Essex CDSB,771520,St Anne Secondary School,English,1200 Oakwood,Belle River,N0R1A0,1235,42.30929,-82.88952,3.2,SP,17.2,NA,0.92,1,0.62,0.9,3,9.41,13.92
+Windsor-Essex CDSB,736163,St Joseph's,English,2425 Clover,Windsor,N8P2A3,952,42.31703,-82.91182,18.3,2.6,23.3,NA,0.87,0,0.52,0.85,-3,23.32,7.17
+Windsor-Essex CDSB,864170,St Thomas of Villanova Secondary School,English,2800 North,LaSalle,N9A6Z6,1162,42.18597,-83.03966,3.5,NA,22.3,NA,0.93,3,0.65,0.88,0,11.99,13.03
+Windsor-Essex CDSB,718018,St. Michael's Adult High School,English,477 Detroit,Windsor,N9C2P6,340,42.30261,-83.07175,18.5,7.4,3.5,NA,NA,NA,NA,N/D,NA,38.17,5.15
+York CDSB,728632,Cardinal Carter Catholic Secondary School,English,210 Bloomington,Aurora,L4G3G9,1343,43.96156,-79.46643,18.6,0.8,14.7,SP,0.77,-12,0.52,0.89,-3,13.75,36.46
+York CDSB,849901,Father Bressani Catholic High School,English,250 Ansley Grove,Woodbridge,L4L3W4,1004,43.79856,-79.56352,11.1,SP,17.8,4.4,0.83,-1,0.39,0.87,5,12.16,15.25
+York CDSB,706809,Father Michael McGivney Catholic Academy High School,English,5300 th,Markham,L3S3K8,1076,43.84971,-79.27836,47.7,4.6,8.8,NA,0.9,6,0.45,0.93,4,22.59,23.91
+York CDSB,720488,Holy Cross Catholic Academy High School,English,7501 Martin Grove,Woodbridge,L4L1A5,886,43.7692,-79.60755,9.8,SP,18.3,NA,0.55,-29,0.39,0.76,-4,14.41,14.31
+York CDSB,874888,Jean Vanier High School,English,10475 Bayview,Richmond Hill,L4C3P2,751,43.88646,-79.4179,38.1,7.2,18.6,NA,0.87,-1,0.58,0.8,-4,24.14,34.5
+York CDSB,748528,Our Lady of the Lake Catholic College High School,English,185 Glenwoods,Keswick,L4P2W6,394,44.21328,-79.46022,7.9,NA,28.4,NA,0.72,-6,0.54,0.72,-6,16.98,6.12
+York CDSB,756709,Sacred Heart Catholic High School,English,908 Lemar,Newmarket,L3Y1R9,986,44.05783,-79.44088,20.1,5.9,24.6,5.7,0.91,0,0.65,0.83,-4,15.81,24.8
+York CDSB,765708,St Augustine Catholic High School,English,2188 Rodick,Markham,L6C1S3,1120,43.87515,-79.35782,37.5,1.3,10.4,NA,0.98,4,0.59,0.92,-2,17.24,29.61
+York CDSB,691356,St Brother André Catholic High School,English,6160 th,Markham,L3P3K8,1452,43.89329,-79.25898,20.6,1.1,18.7,5.2,0.83,-7,0.36,0.86,-4,16.31,29.12
+York CDSB,788112,St Elizabeth Catholic High School,English,525 New Westminster,Thornhill,L4J7X3,1704,43.80334,-79.45705,21.3,3.9,11.1,NA,0.87,-6,0.52,0.82,-9,14.7,24.99
+York CDSB,799912,St Jean de Brebeuf Catholic High School,English,2 Davos,Woodbridge,L4H2Y1,1344,43.83485,-79.55954,23.7,0.8,13.3,NA,0.74,-4,0.35,0.85,7,13.98,16.68
+York CDSB,801259,St Joan of Arc Catholic High School,English,1 St Joan of Arc,Maple,L6A1W9,1328,43.86148,-79.51983,19.3,5.3,20.2,SP,0.77,-4,0.24,0.77,-3,14.34,22.1
+York CDSB,820733,St Luke Catholic Learning Centre,English,8787 Weston,Woodbridge,L4L0C3,58,43.81505116,-79.55356508,20.7,NA,50,NA,NA,NA,NA,N/R,NA,SP,24.06
+York CDSB,811780,St Maximilian Kolbe High School,English,278 Wellington,Aurora,L4G1J5,1488,44.00309,-79.45391,12.2,SP,21.2,NA,0.83,-5,0.39,0.84,-6,13.33,37.2
+York CDSB,849626,St Robert Catholic High School,English,8101 Leslie,Thornhill,L3T7P4,1610,43.8346,-79.3796,59.5,4,6,NA,0.96,2,0.37,0.97,1,22.98,30.02
+York CDSB,852546,St Theresa of Lisieux Catholic High School,English,230 Shaftsbury,Richmond Hill,L4C0E8,1730,43.89512,-79.46619,32.7,2.7,17,5,0.96,0,0.77,0.95,3,17.36,44.58
+York Region DSB,890286,ACCESS Program,English,36 REGATTA,RICHMOND HILL,L4E4R1,34,43.95246,-79.45738,SP,SP,NA,NA,NA,NA,NA,N/R,NA,SP,SP
+York Region DSB,904040,Alexander MacKenzie High School,English,300 Major MacKenzie,Richmond Hill,L4C3S3,945,43.87005,-79.44684,38,6.3,26.1,2.4,0.87,-4,0.37,0.87,0,21.34,32.58
+York Region DSB,892998,Aurora High School,English,155 Wellington,Aurora,L4G2P4,1174,43.99567,-79.48099,19.8,2.3,24.3,6.7,0.92,3,0.48,0.91,-3,13.5,29.81
+York Region DSB,893978,Bayview Secondary School,English,10077 Bayview,Richmond Hill,L4C2L4,1970,43.87822,-79.41491,64.2,13.6,19.4,11.8,0.97,2,0.54,0.94,2,22.19,39.53
+York Region DSB,939585,Bill Crothers Secondary School,English,44 Main,Unionville,L3R2E4,1453,43.8583,-79.31,10,SP,15.4,2.8,0.88,3,0.75,0.96,2,16.18,28.59
+York Region DSB,890202,Bill Hogarth Secondary School,English,100 Donald Sim,Markham,L6B0R4,NA,43.89288,-79.23044,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+York Region DSB,933346,Bur Oak Secondary School,English,933 Bur Oak,Markham,L6E1G4,1702,43.8973,-79.2787,62.5,5.7,11.7,0.8,0.97,-1,0.71,0.9,-3,17.64,26.75
+York Region DSB,905020,Dr G W Williams Secondary School,English,39 Dunning,Aurora,L4G1A2,737,43.9907,-79.46219,22.8,2.4,30.7,4.9,0.94,4,0.37,0.87,3,13.87,34.61
+York Region DSB,904970,Dr John M Denison Secondary School,English,135 Bristol,Newmarket,L3Y8J7,886,44.06902,-79.47705,23.6,2.6,26.4,1.2,0.88,8,0.46,0.75,-13,15.26,21.17
+York Region DSB,908819,Emily Carr Secondary School,English,4901 Rutherford,Woodbridge,L4H3C2,1507,43.81732,-79.59349,17.1,1.5,15.6,1.1,0.82,-5,0.49,0.87,3,10.05,19.83
+York Region DSB,917893,Huron Heights Secondary School,English,40 Huron Heights,Newmarket,L3Y3J9,1329,44.06421,-79.44593,3.8,SP,33.2,1.4,0.88,6,0.27,0.79,-8,14.99,10
+York Region DSB,919233,Keswick High School,English,100 Biscayne,Keswick,L4P3L5,1039,44.22277,-79.45788,2.7,SP,29.8,SP,0.69,-4,0.44,0.74,2,16.53,7.64
+York Region DSB,919586,King City Secondary School,English,2001 King,King City,L7B1K2,1045,43.93021,-79.51743,24.3,3.2,20.2,1.8,0.81,-2,0.3,0.77,-6,13.42,29.26
+York Region DSB,921661,Langstaff Secondary School,English,106 Garden,Richmond Hill,L4C6M1,1045,43.83861,-79.43989,52.3,6.9,11.8,1.7,0.87,-2,0.32,0.93,1,23.97,32.11
+York Region DSB,951714,Maple High School,English,50 Springside,Maple,L6A2W5,1152,43.8394,-79.5306,61,9.7,16.8,1.5,0.83,-5,0.33,0.85,4,19.67,22.5
+York Region DSB,924911,Markham District High School,English,89 Church,Markham,L3P2M3,1473,43.88042,-79.25082,28.9,SP,32.2,13.7,0.85,-7,0.46,0.86,-8,14.99,35.53
+York Region DSB,924849,Markville Secondary School,English,1000 Carlton,Markham,L3P7P5,1352,43.87738,-79.2893,57.5,5.2,26.8,15.6,0.98,5,0.56,0.94,0,19.83,31.35
+York Region DSB,926140,Middlefield Collegiate Institute,English,525 Highglen,Markham,L3S3L5,1357,43.84742,-79.26785,77.9,4.4,13.6,SP,0.91,-7,0.75,0.9,-4,26.12,21.34
+York Region DSB,926817,Milliken Mills High School,English,7522 Kennedy,Unionville,L3R9S5,995,43.83768,-79.30516,78.8,10.6,15.9,SP,0.91,-1,0.47,0.9,4,26.6,9.11
+York Region DSB,928682,Newmarket High School,English,505 Pickering,Newmarket,L3Y8H1,1344,44.04734,-79.43404,15.6,1.5,27.5,13.6,0.9,3,0.47,0.94,0,13.4,30.61
+York Region DSB,894672,Pierre Elliott Trudeau High School,English,90 Bur Oak,Markham,L6C2E6,1984,43.8898,-79.3131,52.9,7.7,12.6,3.6,0.96,0,0.54,0.93,0,18.05,34.61
+York Region DSB,964809,Richmond Green Secondary School,English,1 William F Bell,Richmond Hill,L4S2T9,1240,43.9033,-79.3978,55.2,4.5,17.2,1.3,0.91,-2,0.44,0.88,-2,18.34,42.73
+York Region DSB,938106,Richmond Hill High School,English,201 Yorkland,Richmond Hill,L4S1A2,1698,43.9028,-79.4397,55.2,7.5,32.5,22.9,0.94,2,0.62,0.93,-1,20.61,54.14
+York Region DSB,942340,Sir William Mulock Secondary School,English,705 Columbus,Newmarket,L3X2M7,1223,44.0322,-79.4798,22.6,1.7,22.6,2,0.87,0,0.51,0.83,-1,15.24,25.06
+York Region DSB,945508,Stephen Lewis Secondary School,English,555 Autumn Hill,Thornhill,L4J8X2,1337,43.836,-79.4751,49.7,4.3,25.4,1.5,0.92,2,0.45,0.9,-2,14.59,41.37
+York Region DSB,945455,Stouffville District Secondary School,English,801 Hoover Park,Stouffville,L4A0A4,1253,43.9633,-79.2588,24.5,1.7,21.4,1.7,0.86,0,0.57,0.87,-2,16.92,22.46
+York Region DSB,946362,Sutton District High School,English,20798 Dalton,Sutton,L0E1R0,579,44.30241,-79.36251,SP,SP,33.2,SP,0.52,-5,0.39,0.6,2,18.32,SP
+York Region DSB,947792,Thornhill Secondary School,English,167 Dudley,Thornhill,L3T2E5,1155,43.81001,-79.41978,54.9,11.3,33,19.2,0.89,-7,0.65,0.9,1,23.16,30.27
+York Region DSB,947814,Thornlea Secondary School,English,8075 Bayview,Thornhill,L3T4N4,744,43.82954,-79.40292,43.3,5.1,17.7,1.9,0.86,2,0.35,0.91,-1,22.67,33.84
+York Region DSB,898285,Tommy Douglas Secondary School,English,4020 Major Mackenzie,Woodbridge,L4L1A6,721,43.84448,-79.56747,56.4,2.8,14.3,SP,0.92,1,0.48,0.83,-3,15.44,15.56
+York Region DSB,949140,Unionville High School,English,201 Town Centre,Unionville,L3R8G5,1648,43.85859,-79.3367,60.9,11.6,12.7,5.3,0.95,0,0.62,0.93,-3,21.99,42.07
+York Region DSB,949230,Vaughan Secondary School,English,1401 Clark,Thornhill,L4J7R4,1202,43.79719,-79.4687,43.2,3.4,18.8,3.3,0.81,-4,0.41,0.88,-4,16.44,24.39
+York Region DSB,952516,Westmount Collegiate Institute,English,1000 New Westminster,Thornhill,L4J8G3,1257,43.81630012,-79.45486285,27.7,3.3,23.6,2.3,0.9,1,0.58,0.93,2,14.06,46.74
+York Region DSB,954292,Woodbridge College,English,71 Bruce,Woodbridge,L4L1J3,642,43.7799,-79.5828,54.4,4,19.8,SP,0.83,0,0.14,0.82,-8,16.12,11.18
